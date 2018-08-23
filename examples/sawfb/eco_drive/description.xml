@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>Alan Yu</author>
+	<designer>Alan Yu</designer>
+	<title>ECO_DRIVE</title>
+	<basedOn>Dark_Green</basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>ECO_DRIVE (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+		[font:font.ttf, size:72, color:#ff0000, xoffset:0, yoffset:57, bg:/var/lib/php5/sessions/acp4c86it04q442nf240b7jfp4/blob]
+		[cmdline: " -n 'ECO_DRIVE' -f 'font.ttf' -s '72' -c '#ff0000' -b '#000000' -a 'Alan Yu' -x '0' -g '272' -y '57' -t '10:10' -0 '+192+138' -1 '+136+138' -2 '+100+246' -3 '+54+162' -4 '+152+118' -5 '+46+118' -6 '+150+162' -7 '+20+138' -8 'false' -9 'false' -A 'false' -B 'false' -C '+66+138' -D 'false' -q '1' -u '/var/lib/php5/sessions/acp4c86it04q442nf240b7jfp4/blob' --hour_image '/var/lib/php5/sessions/acp4c86it04q442nf240b7jfp4/hours.png' --minute_image '/var/lib/php5/sessions/acp4c86it04q442nf240b7jfp4/minutes.png' --second_image '/var/lib/php5/sessions/acp4c86it04q442nf240b7jfp4/seconds.png' --based_on 'Dark_Green' --" ]
+	</description>
+</watchfaceinfo>

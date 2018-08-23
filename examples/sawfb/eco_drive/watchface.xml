@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WatchFace version="1.0">
+	<WatchFaceItem type="background" config="@wfz/background/01.png" />
+	<WatchFaceItem type="statusbar" y="272" />
+	<WatchFaceItem type="timedigital" x="64" y="194" width="191" height="46" font="@wfz/font" />
+	<WatchFaceItem type="datawidget" id="0" x="192" y="138" dataType="6" model="2" configList="@wfz/datawidget_list.xml" />
+	<WatchFaceItem type="datawidget" id="0" x="136" y="138" dataType="6" model="1" configList="@wfz/datawidget_list.xml" />
+	<WatchFaceItem type="datawidget" id="0" x="100" y="246" dataType="8" model="1" configList="@wfz/datawidget_list.xml" />
+	<WatchFaceItem type="datawidget" id="0" x="54" y="162" dataType="1" model="1" configList="@wfz/datawidget_list.xml" />
+	<WatchFaceItem type="datawidget" id="0" x="152" y="118" dataType="10" model="1" configList="@wfz/datawidget_list.xml" />
+	<WatchFaceItem type="datawidget" id="0" x="46" y="118" dataType="3" model="1" configList="@wfz/datawidget_list.xml" />
+	<WatchFaceItem type="datawidget" id="0" x="150" y="162" dataType="4" model="1" configList="@wfz/datawidget_list.xml" />
+	<WatchFaceItem type="datawidget" id="0" x="20" y="138" dataType="5" model="1" configList="@wfz/datawidget_list.xml" />
+	<WatchFaceItem type="datawidget" id="0" x="66" y="138" dataType="12" model="1" configList="@wfz/datawidget_list.xml" />
+	<WatchFaceItem type="timehand" x="160" y="160" width="320" height="320" config="@wfz/timehand" />
+</WatchFace>

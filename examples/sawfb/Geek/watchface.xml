@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WatchFace version="1.0">
+	<WatchFaceItem type="statusbar" y="250" />
+	<WatchFaceItem type="background" config="@wfz/background/01.png" configList="@wfz/background_list.xml" />
+	<WatchFaceItem type="graduation" config="@wfz/graduation/01" mask="@wfz/graduation/graduation_fg.png" configList="@wfz/graduation_list.xml" />
+	
+	<WatchFaceItem type="timehand" x="160" y="160" width="320" height="320" config="@wfz/timehand/01" mask="@wfz/timehand/timehand_fg.png"
+		configList="@wfz/timehand_list.xml" />
+	<WatchFaceItem type="timedigital" x="117" y="62" width="88" height="26" font="@wfz/font/01" preview="@wfz/timedigital/preview0.png"
+		mask="@wfz/timedigital/mask_fg.png" configList="@wfz/timedigital_list.xml" />
+	<!-- date -->
+	<WatchFaceItem type="datawidget" id="2" x="102" y="92" dataType="6" model="1" mask="@wfz/datawidget/mask_4_fg.png"
+		configList="@wfz/datawidget_list2.xml" />
+	<!-- left circle -->
+	<WatchFaceItem type="datawidget" id="4" x="55" y="112" dataType="10" model="0" mask="@wfz/datawidget/mask_0_fg.png"
+		configList="@wfz/datawidget_list.xml" />
+	<!-- right circle -->
+	<WatchFaceItem type="datawidget" id="5" x="180" y="112" dataType="2" model="0" mask="@wfz/datawidget/mask_1_fg.png"
+		configList="@wfz/datawidget_list.xml" />
+	<!-- bottom circle -->
+	<WatchFaceItem type="datawidget" id="0" x="118" y="170" dataType="1" model="0" mask="@wfz/datawidget/mask_2_fg.png"
+		configList="@wfz/datawidget_list.xml" />
+</WatchFace>

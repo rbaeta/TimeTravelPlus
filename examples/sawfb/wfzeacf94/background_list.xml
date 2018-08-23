@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Background list, type is background, config is the background position, where "@wfz/" starts with the image in the wfz package, and "background/01.png" is the path.-->
+<WatchFace version="1.0">
+	<WatchFaceItem type="background" config="@wfz/background/01.png" />
+	<WatchFaceItem type="background" config="@wfz/background/02.png" />
+	<WatchFaceItem type="background" config="@wfz/background/03.png" />
+	<WatchFaceItem type="background" config="@wfz/background/04.png" />
+	<WatchFaceItem type="background" config="@wfz/background/05.png" />
+	<WatchFaceItem type="background" config="@wfz/background/06.png" />
+	<WatchFaceItem type="background" config="@wfz/background/07.png" />
+	<WatchFaceItem type="background" config="@wfz/background/08.png" />
+</WatchFace>

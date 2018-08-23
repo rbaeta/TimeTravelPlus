@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--The dial data item has an optional list. The data item type has been built into the watch system.
+- Currently, 7 data items are supported. The corresponding dataTypes are as follows:
+- Today's step (datatype = 1),
+- Today's miles (datatype = 2),
+- Total Mileage (datatype = 3),
+- consumed today (datatype = 4),
+- Recent heart rhythm (datatype = 5),
+- date (datatype = 6),
+- weather temperature (datatype = 8),
+- residual power (datatype = 10),
+model is the model of the data item, the default is 0,
+later the same data item will support more Multiple display formats-->
+<WatchFace version="1.0">
+	<WatchFaceItem type="datawidget" dataType="1" model="1" />
+	<WatchFaceItem type="datawidget" dataType="2" model="1" />
+	<WatchFaceItem type="datawidget" dataType="3" model="1" />
+	<WatchFaceItem type="datawidget" dataType="10" model="1" />
+	<WatchFaceItem type="datawidget" dataType="5" model="1" />
+	<WatchFaceItem type="datawidget" dataType="4" model="1" />
+	<WatchFaceItem type="datawidget" dataType="6" model="1" />
+	<WatchFaceItem type="datawidget" dataType="6" model="2" />
+	<WatchFaceItem type="datawidget" dataType="6" model="3" />
+	<WatchFaceItem type="datawidget" dataType="8" model="1" />
+	<WatchFaceItem type="datawidget" dataType="12" model="1" />
+	<WatchFaceItem type="datawidget" dataType="0" model="0" />
+</WatchFace>

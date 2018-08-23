@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This file describes the control elements that appear in the dial. The defined controls are background, graduation, timehand, datawidget -->
+<WatchFace version="1.0">
+	<!--The topY value of the status icon View, where the status icon is 82px-->
+	<WatchFaceItem type="statusbar" y="32" />
+	<WatchFaceItem type="lowpower" y="32" />
+	<!--Background, where config indicates the location of the background resource,
+	"@wfz/" indicates that the resource is located in the dial package,
+	"background/01.png" indicates the path of the resource,
+	mask identifies the picture resource of the highlighted box when the background is selected,
+	configList indicates The background supports an optional list,
+	the optional list is configured in the background_list.xml file-->
+	<WatchFaceItem type="background" config="@wfz/background/01.png" configList="@wfz/background_list.xml" />
+	<!--Dial number, where x, y, width, height indicate the position range of the digital display,
+	font indicates the number and the image font used by AM/PM,
+	and preview is a full screen preview for use by the selector.
+	If no optional list is configured, preview can be used. Leave blank, mask is the marquee resource
+	that matches this position range, color is the font color, not supported for the moment,
+	gap is the font spacing, not supported at present, model is the digital layout mode,
+	the default is 0 horizontal layout, other models do not support-->
+	<WatchFaceItem type="timedigital" x="59" y="115" width="202" height="90" font="@wfz/font/03" preview="@wfz/timedigital/preview2.png"
+		mask="@wfz/timedigital/mask_fg.png" configList="@wfz/timedigital_list.xml" />
+	<!--The dial data items are customized. The types of data items are built into the watch system.
+	Currently, 7 types of data items are supported. The corresponding dataTypes are as follows:
+	- Today's steps (datatype = 1),
+	- Today's miles (datatype = 2),
+	- Total length (datatype) = 3),
+	- consumed today (datatype = 4),
+	- Nearest heart rate (datatype = 5),
+	- Date (datatype = 6),
+	- Remaining power (datatype = 10);
+	More data item support will be updated in future systems.
+	Where id represents the unique id of the data item, x and y The position of the data item, respectively,
+	model is the display form of the data item. The default is 0, the display format is circular with progress bar layout text in the center,
+	model=1 is the horizontal display, and the left icon is the right text;
+	the date is more special, model=0 is the left date of the right week, and the model=1 is For dates only,
+	model=2 is only for the week, after which the same data item will support more display forms;
+	configList is an optional list of the data item-->
+	<WatchFaceItem type="datawidget" id="0" x="40" y="66" dataType="2" model="1" mask="@wfz/datawidget/mask_0_fg.png"
+		configList="@wfz/datawidget_list.xml" />
+	<WatchFaceItem type="datawidget" id="1" x="160" y="66" dataType="10" model="1" mask="@wfz/datawidget/mask_1_fg.png"
+		configList="@wfz/datawidget_list.xml" />
+	<WatchFaceItem type="datawidget" id="2" x="40" y="229" dataType="6" model="1" mask="@wfz/datawidget/mask_2_fg.png"
+		configList="@wfz/datawidget_list.xml" />
+	<WatchFaceItem type="datawidget" id="3" x="160" y="229" dataType="6" model="2" mask="@wfz/datawidget/mask_3_fg.png"
+		configList="@wfz/datawidget_list.xml" />
+</WatchFace>
