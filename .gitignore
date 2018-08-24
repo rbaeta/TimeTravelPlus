@@ -1,6 +1,7 @@
 # Created by https://www.gitignore.io/api/java,eclipse,netbeans,maven
 
 temp/
+.temp/
 
 ### Java ###
 *.class
