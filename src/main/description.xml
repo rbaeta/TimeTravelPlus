@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>rbaeta</author>
+	<designer>rbaeta</designer>
+	<title>TimeTravelPlus</title>
+	<preview>preview.png</preview>
+	<settings>true</settings>
+	<description><![CDATA[Enhanced Amazfit Pace watch face based on stock Time Travel]]></description>
+</watchfaceinfo>
