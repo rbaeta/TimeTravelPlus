@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WatchFace version="1.1">
+	<WatchFaceItem type="support26w" config="true" />
+	<WatchFaceItem type="lowpower" x="122" y="264" />
+	<WatchFaceItem type="statusbar" x="122" y="264" />
+	<!-- Background -->
+	<WatchFaceItem type="background" customize="true" config="@wfz/background/00.png" mask="@wfz/background/watchface_custom_switch_focus_bg.png"
+		configList="@wfz/background_list.xml" />
+	<!-- Timehands -->
+	<WatchFaceItem type="timehand" customize="true" x="160" y="160" width="320" height="320" config="@wfz/timehand/00"
+		mask="@wfz/timehand/watchface_custom_select_timehand_fg_0.png" configList="@wfz/timehand_list.xml" />
+	<!-- Digital time -->
+	<WatchFaceItem type="timedigital" customize="true" x="174" y="180" width="108" height="32" config="@wfz/font/0" font="@wfz/font/0" color="#000000"
+		mask="@wfz/font/mask_fg.png" configList="@wfz/font_list.xml" />
+	<!-- Widgets -->
+	<WatchFaceItem type="datawidget" customize="true" id="0" x="152" y="226" width="84" height="84" dataType="6" model="9"
+		mask="@wfz/datawidget/mask_0_fg.png" configList="@wfz/datawidget_list0.xml" />
+	<WatchFaceItem type="datawidget" customize="true" id="1" x="146" y="252" width="84" height="84" dataType="5" model="1"
+		mask="@wfz/datawidget/mask_1_fg.png" configList="@wfz/datawidget_list1.xml">WatchFaceItem
+	</WatchFaceItem>
+	<WatchFaceItem type="datawidget" customize="true" id="2" x="60" y="176" width="84" height="84" dataType="10" model="0"
+		mask="@wfz/datawidget/mask_2_fg.png" configList="@wfz/datawidget_list2.xml" />
+	<WatchFaceItem type="datawidget" customize="true" id="3" x="60" y="60" width="84" height="84" dataType="8" model="0"
+		mask="@wfz/datawidget/mask_3_fg.png" configList="@wfz/datawidget_list3.xml" />
+	<WatchFaceItem type="datawidget" customize="true" id="4" x="174" y="60" width="84" height="84" dataType="1" model="0"
+		mask="@wfz/datawidget/mask_4_fg.png" configList="@wfz/datawidget_list4.xml" />
+</WatchFace>

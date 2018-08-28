@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>Anonymous</author>
+	<designer>Anonymous</designer>
+	<title>adidas</title>
+	<basedOn></basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>adidas (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+		[font:font.ttf, size:108, color:#ffffff, xoffset:0, yoffset:-12, bg:/var/lib/php5/sessions/jt979f0lq535m68sc6m133vfl2/blob]
+		[cmdline: " -n 'adidas' -f 'font.ttf' -s '108' -c '#ffffff' -b '#000000' -a 'Anonymous' -x '0' -g '320' -y '-12' -t '23:56' -0 'false' -1 '+100+270' -2 'false' -3 'false' -4 'false' -5 'false' -6 'false' -7 'false' -8 'false' -9 '+56+200' -A '+182+200' -B 'false' -C 'false' -D 'false' -q '0' -u '/var/lib/php5/sessions/jt979f0lq535m68sc6m133vfl2/blob' --" ]
+	</description>
+</watchfaceinfo>

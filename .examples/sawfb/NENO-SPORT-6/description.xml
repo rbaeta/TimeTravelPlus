@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>NELSON MARTINS</author>
+	<designer>NELSON MARTINS</designer>
+	<title>AMAZFIT-NENO-SPORT-6</title>
+	<basedOn></basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>AMAZFIT-NENO-SPORT-6 (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+		[font:font.ttf, size:102, color:#ffffff, xoffset:28, yoffset:-6, bg:/var/lib/php5/sessions/pdr7q9daqv47vecbg0fa6pcev1/blob]
+		[cmdline: " -n 'AMAZFIT-NENO-SPORT-6' -f 'font.ttf' -s '102' -c '#ffffff' -b '#000000' -a 'NELSON MARTINS' -x '28' -g '318' -y '-6' -t '14:15' -0 'false' -1 '+40+234' -2 'false' -3 '+34+82' -4 '+166+82' -5 '+144+234' -6 '+142+200' -7 '+12+158' -8 'false' -9 'false' -A 'false' -B 'false' -C 'false' -D 'false' -q '1' -u '/var/lib/php5/sessions/pdr7q9daqv47vecbg0fa6pcev1/blob' --" ]
+	</description>
+</watchfaceinfo>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>levand68</author>
+	<designer>levand68</designer>
+	<title>Grey-Scale</title>
+	<basedOn></basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>Grey-Scale (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+		[font:font.ttf, size:48, color:#000000, xoffset:78, yoffset:0, bg:/var/lib/php5/sessions/nf7nnircn397ia4d7ff6hqlnd0/blob]
+		[cmdline: " -n 'Grey-Scale' -f 'font.ttf' -s '48' -c '#000000' -b '#000000' -a 'levand68' -x '78' -g '8' -y '0' -t '22:12' -0 '+40+162' -1 '+36+134' -2 'false' -3 'false' -4 '+100+88' -5 'false' -6 'false' -7 'false' -8 '+66+204' -9 '+168+204' -A 'false' -B 'false' -C 'false' -D 'false' -q '1' -u '/var/lib/php5/sessions/nf7nnircn397ia4d7ff6hqlnd0/blob' --hour_image '/var/www/sawfb/public/parts/hours/hour3.png' --minute_image '/var/www/sawfb/public/parts/minutes/minute3.png' --second_image '/var/www/sawfb/public/parts/seconds/second37.png' --" ]
+	</description>
+</watchfaceinfo>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WatchFace version="1.1">
+	<WatchFaceItem type="support26w" config="true" />
+	<WatchFaceItem type="lowpower" y="102" />
+	<WatchFaceItem type="statusbar" y="102"></WatchFaceItem>
+	<WatchFaceItem type="background" customize="true" config="@wfz/background/00.png" mask="@wfz/background/watchface_custom_switch_focus_bg.png"
+		configList="@wfz/background_list.xml" />
+	<WatchFaceItem type="timedigital" x="130" y="127" width="161" height="50" font="@wfz/font"></WatchFaceItem>
+	<WatchFaceItem type="datawidget" customize="true" id="0" x="110" y="214" dataType="12" model="0" mask="@wfz/datawidget/mask_0_fg.png"
+		configList="@wfz/datawidget_list0.xml" />
+	<WatchFaceItem type="datawidget" customize="true" id="1" x="36" y="172" dataType="3" model="0" mask="@wfz/datawidget/mask_1_fg.png"
+		configList="@wfz/datawidget_list1.xml" />
+	<WatchFaceItem type="datawidget" customize="true" id="2" x="24" y="90" dataType="1" model="0" mask="@wfz/datawidget/mask_2_fg.png"
+		configList="@wfz/datawidget_list2.xml" />
+	<WatchFaceItem type="datawidget" customize="true" id="3" x="78" y="28" dataType="8" model="0" mask="@wfz/datawidget/mask_3_fg.png"
+		configList="@wfz/datawidget_list3.xml" />
+	<WatchFaceItem type="datawidget" customize="true" id="4" x="160" y="28" dataType="10" model="0" mask="@wfz/datawidget/mask_4_fg.png"
+		configList="@wfz/datawidget_list4.xml" />
+	<WatchFaceItem type="datawidget" customize="true" id="5" x="174" y="219" dataType="5" model="1" mask="@wfz/datawidget/mask_5_fg.png"
+		configList="@wfz/datawidget_list5.xml" />
+	<WatchFaceItem type="datawidget" customize="true" id="6" x="128" y="186" dataType="6" model="2" mask="@wfz/datawidget/mask_6_fg.png"
+		configList="@wfz/datawidget_list6.xml" />
+	<WatchFaceItem type="datawidget" customize="true" id="7" x="196" y="186" dataType="6" model="1" mask="@wfz/datawidget/mask_7_fg.png"
+		configList="@wfz/datawidget_list7.xml" />
+	<WatchFaceItem type="timehand" x="160" y="160" width="320" height="320" config="@wfz/timehand" />
+</WatchFace>

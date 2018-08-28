@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WatchFace version="1.0">
+	<WatchFaceItem type="timehand" config="@wfz/timehand/00" />
+	<WatchFaceItem type="timehand" config="@wfz/timehand/01" />
+	<WatchFaceItem type="timehand" config="@wfz/timehand/02" />
+	<WatchFaceItem type="timehand" config="@wfz/timehand/03" />
+	<WatchFaceItem type="timehand" config="@wfz/timehand/04" />
+	<WatchFaceItem type="timehand" config="@wfz/timehand/05" />
+</WatchFace>

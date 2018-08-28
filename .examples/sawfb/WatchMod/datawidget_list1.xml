@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WatchFace version="1.1">
+	<WatchFaceItem type="datawidget" dataType="5" model="1" />
+	<WatchFaceItem type="datawidget" dataType="6" model="2"></WatchFaceItem>
+	<WatchFaceItem type="datawidget" dataType="6" model="1"></WatchFaceItem>
+	<WatchFaceItem type="datawidget" dataType="10" model="1"></WatchFaceItem>
+	<WatchFaceItem type="datawidget" dataType="10" model="4"></WatchFaceItem>
+	<WatchFaceItem type="datawidget" dataType="12" model="1"></WatchFaceItem>
+	<WatchFaceItem type="datawidget" dataType="12" model="4"></WatchFaceItem>
+	<WatchFaceItem type="datawidget" dataType="0" model="0"></WatchFaceItem>
+	<!-- Empty -->
+</WatchFace>

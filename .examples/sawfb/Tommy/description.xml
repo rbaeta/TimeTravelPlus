@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>Anonymous</author>
+	<designer>Anonymous</designer>
+	<title>Tommy</title>
+	<basedOn>Tommy-Hilfiger-Black-D</basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>Tommy (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+		[font:font.ttf, size:66, color:#ffffff, xoffset:0, yoffset:-46, bg:/var/lib/php5/sessions/gnh38va51eufm8qtk300d1h624/blob]
+		[cmdline: " -n 'Tommy' -f 'font.ttf' -s '66' -c '#ffffff' -b '#000000' -a 'Anonymous' -x '0' -g '320' -y '-46' -t '21:56' -0 'false' -1 '+100+54' -2 'false' -3 'false' -4 'false' -5 'false' -6 'false' -7 'false' -8 'false' -9 '+64+180' -A '+170+180' -B 'false' -C 'false' -D 'false' -q '1' -u '/var/lib/php5/sessions/gnh38va51eufm8qtk300d1h624/blob' --based_on 'Tommy-Hilfiger-Black-D' --" ]
+	</description>
+</watchfaceinfo>

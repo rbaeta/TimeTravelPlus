@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<watchfaceinfo>
+	<version>1.1</version>
+	<author>MatDZovo</author>
+	<designer>MatDZovo</designer>
+	<title>Amazfit-Pace-V2</title>
+	<basedOn>Amazfit_Pace</basedOn>
+	<preview>sample-face.png</preview>
+	<settings>true</settings>
+	<description>Customizable. Seconds always active (WOS2), low power indicator</description>
+</watchfaceinfo>

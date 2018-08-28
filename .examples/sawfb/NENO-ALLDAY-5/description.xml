@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>Nelson Martins</author>
+	<designer>Nelson Martins</designer>
+	<title>AMAZFIT-NENO-ALLDAY-5</title>
+	<basedOn></basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>AMAZFIT-NENO-ALLDAY-5 (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+		[font:font.ttf, size:90, color:#ffffff, xoffset:0, yoffset:-10, bg:/var/lib/php5/sessions/t4u73f9m0n8732mifthd2k5bd6/blob]
+		[cmdline: " -n 'AMAZFIT-NENO-ALLDAY-5' -f 'font.ttf' -s '90' -c '#ffffff' -b '#000000' -a 'Nelson Martins' -x '0' -g '320' -y '-10' -t '10:10' -0 '+104+50' -1 '+100+236' -2 'false' -3 'false' -4 'false' -5 'false' -6 'false' -7 'false' -8 'false' -9 'false' -A 'false' -B 'false' -C 'false' -D 'false' -q '1' -u '/var/lib/php5/sessions/t4u73f9m0n8732mifthd2k5bd6/blob' --" ]
+	</description>
+</watchfaceinfo>
