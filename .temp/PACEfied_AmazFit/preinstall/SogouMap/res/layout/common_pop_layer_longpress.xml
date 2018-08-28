@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:gravity="center" n1:orientation="horizontal" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:baselineAligned="false"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <com.sogou.map.android.maps.widget.DefineMaxHeightScroolView n1:scrollbars="none" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:layout_marginLeft="@dimen/common_margin_bigger" n1:layout_weight="1.0">
+        <LinearLayout n1:orientation="vertical" n1:id="@id/poplayerScrollView" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+            <TextView n1:textSize="@dimen/common_big_textsize" n1:layout_gravity="center_vertical" n1:id="@id/pop_layer_title" style="@style/card_Scroll_view_txt_style" />
+            <TextView n1:textColor="@color/common_pop_layer_black" n1:id="@id/pop_layer_address" n1:layout_marginTop="@dimen/common_margin" style="@style/card_Scroll_view_txt_style" />
+        </LinearLayout>
+    </com.sogou.map.android.maps.widget.DefineMaxHeightScroolView>
+    <ImageView n1:id="@id/end_go" n1:layout_width="20.0dip" n1:layout_height="24.0dip" n1:layout_marginRight="@dimen/common_margin_big" n1:src="@drawable/ic_nav_mode_go_selector" />
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+  <string name="uid_label">Media</string>
+  <string name="app_label">Media Deposu</string>
+  <string name="upgrade_msg">Media veri tabanını güncelliyor. </string>
+  <string name="artist_label">Artist</string>
+  <string name="ringtone_default">Varsayılan zil</string>
+  <string name="notification_sound_default">Varsayılanları bildirim tonu</string>
+  <string name="alarm_sound_default">Varsayılan alarm tonu</string>
+  <string name="root_images">Resimler</string>
+  <string name="root_videos">Video</string>
+  <string name="root_audio">Ses</string>
+</resources>

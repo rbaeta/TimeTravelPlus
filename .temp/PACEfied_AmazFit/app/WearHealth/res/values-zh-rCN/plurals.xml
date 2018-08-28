@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="weeklysports_frequency">
+        <item quantity="other">次</item>
+        <item quantity="one">次</item>
+    </plurals>
+    <plurals name="weeklysports_step">
+        <item quantity="other">步</item>
+        <item quantity="one">步</item>
+    </plurals>
+    <plurals name="floor_unit">
+        <item quantity="other">层</item>
+        <item quantity="one">层</item>
+    </plurals>
+</resources>

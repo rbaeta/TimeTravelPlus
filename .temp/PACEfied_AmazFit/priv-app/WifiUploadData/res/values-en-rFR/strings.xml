@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirmer</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Données Cardio non détéctées</string>
+    <string name="no_altitude_hint">Données Altitude non détéctées</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Paramètres</string>
+    <string name="sport_music_settings">Musique sports</string>
+    <string name="app_name">Wi-Fi Upload</string>
+    <string name="notice_text_success_top">Données uploadées</string>
+    <string name="notice_text_success_bottom">Données accessibles depuis l\'application Amazfit</string>
+    <string name="notice_text_failed_top">Données non-uploadées</string>
+    <string name="net_failed">Merci de se connecter en Wifi</string>
+    <string name="date">Horodatage:</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="date_">/</string>
+    <string name="date_m">:</string>
+    <string name="see_after_connect_app_token_faield">Impossible de se connecter à l\'application Amazfit pour actualiser l\'accès</string>
+    <string name="cannot_acess_server">Impossible de connecter au serveur</string>
+    <string name="cannot_upload_user">Impossible de vérifier l\'accès</string>
+    <string name="please_upload_assist_version">Veuillez mettre à jour l\'application Amazfit dans la dernière version et réessayer</string>
+    <string name="did_not_connect_assist">Connectez-vous à l\'application Amazfit pour actualiser l\'accès afin de télécharger les données sur le serveur</string>
+    <string name="upload_failed_full">Données en cours de chargement. Terminer maintenant?</string>
+    <string name="percent_sign">%</string>
+    <string name="please_keep_wifi_connected">Gardez la montre connectée à Wifi</string>
+    <string name="init_wifi">Connexion au Wi-Fi</string>
+    <string name="init_user">Vérification de l\'accès</string>
+    <string name="init_app">Connexion à l\'application Amazfit</string>
+    <string name="init_update_user">Accès en cours</string>
+    <string name="zero">0</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Centre d\'activité</string>
+    <string name="widget_currentstep_activities">Pas aujourd\'hui</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Dernière nuit</string>
+    <string name="widget_currentstep_sleep_no">Pas de données de la nuit</string>
+    <string name="widget_currentstep_activity_no">Pas d\'exercices aujourd\'hui?</string>
+<!--END of missed texts by Huami-->
+</resources>

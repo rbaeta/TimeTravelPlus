@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instalatzailearen Egiaztagiria</string>
+    <string name="pick_file_title">Egiaztagiri bat aukeratu</string>
+    <string name="pkcs12_password_dialog_title">Egiaztagiria atara</string>
+    <string name="extracting_pkcs12">Ataratzen...</string>
+    <string name="pkcs12_file_password_dialog_title">%s ataratzen</string>
+    <string name="name_credential_dialog_title">Egiaztagiriaren izena</string>
+    <string name="credential_name">Egiaztagiriaren izena:</string>
+    <string name="credential_password">Egiaztagiriak ataratzeko idatz ezazu pasahitza.</string>
+    <string name="credential_info">Paketeak hau dauka:</string>
+    <string name="p12_description">Egiaztagiria, PKCS12 pasahitz biltegian.</string>
+    <string name="one_userkey">Erabiltzaile baten pasahitza</string>
+    <string name="one_usercrt">Erabiltzaile baten egiaztagiria</string>
+    <string name="one_cacrt">CA baten egiaztagiria</string>
+    <string name="n_cacrts">%d CA-ren egiaztagiria</string>
+    <string name="password_error">Idatzi pasahitz zuzena.</string>
+    <string name="password_empty_error">Idatz ezazu pasahitza.</string>
+    <string name="name_empty_error">Idatz ezazu izen bat.</string>
+    <string name="name_char_error">Idatz ezazu letrak eta zenbakiak soilik dituen izen bat.</string>
+    <string name="storage_error">Ezin izan da egiaztagiria gorde. Ikutu ezazu Onartu berriro saiatzeko.</string>
+    <string name="unable_to_save_cert">Ezin izan da egiaztagiria gorde. Egiaztagitirien bilketa ez dago gaituta edo ez da ondo hasiarazi.</string>
+    <string name="cert_not_saved">Egiaztagiria ez dago instalatuta.</string>
+    <string name="no_cert_to_saved">Ez dago egiaztagiririk instalatzeko.</string>
+    <string name="invalid_cert">Egiaztagiria ez da baliogarria.</string>
+    <string name="cert_is_added">%s instalatuta dago.</string>
+    <string name="cert_too_large_error">Ezin izan da instalatu, egiaztagirien tamainua oso haundia delako.</string>
+    <string name="cert_missing_error">Ezin izan da instalatu, egiaztagiri fitxategia ez bait da aurkitu.</string>
+    <string name="cert_read_error">Ezin izan da instalatu, egiaztagiri fitxategia ezin delako irakurri.</string>
+    <string name="no_cert_file_found">. Fitxategia ez da SD txartelean aurkitu.</string>
+    <string name="sdcard_not_present">SD txartela ez dago eskuragarri.</string>
+    <string name="only_primary_user_allowed">Gailu honen jabeak bakarrik instalatu ditzake egiaztagiriak.</string>
+    <string name="credential_usage_label">Kredentzialen erabilera:</string>
+</resources>

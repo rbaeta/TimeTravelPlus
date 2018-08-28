@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+  <string name="app_name">BLE connect</string>
+  <string name="action_settings">Ayarlar</string>
+  <string name="heart_rate">HR_COUNTER</string>
+  <string name="hello_world">Nabız simulatorü</string>
+  <string name="install_companion_tip">Lütfen önce huami yardım uygulamasını kurun.</string>
+  <string name="simplified_chinese">中文(简体)</string>
+  <string name="english_usa">English(US)</string>
+  <string name="low_battery">Batarya düşük %5</string>
+  <string name="battery_low_title">Batarya düşük! </string>
+  <string name="battery_low_plz_charge">Düşük batarya lütfen sarj edin</string>
+  <string name="scan_to_bind">Eşleştirme için tarayın</string>
+  <string name="function_unavailable_tip">Fonksiyon kullanılamıyor</string>
+  <string name="cancel_bind">Eşleştirmeyi iptal et</string>
+  <string name="skip_bind">Eşleştirmeyi geç</string>
+  <string name="permission_read_user_info">permission_read_user_info</string>
+  <string name="permission_write_user_info">permission_read_user_info</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+  <string-array name="weekdays">
+    <item>1.Hafta</item>
+    <item>2.Hafta</item>
+    <item>3.Hafta</item>
+    <item>4.Hafta</item>
+    <item>5.Hafta</item>
+    <item>6.Hafta</item>
+    <item>7.Hafta</item>
+    <item>8.Hafta</item>
+  </string-array>
+  <string-array name="simple_weekdays">
+    <item>Pazar</item>
+    <item>Pazartesi</item>
+    <item>Salı</item>
+    <item>Çarşamba</item>
+    <item>Perşembe</item>
+    <item>Cuma</item>
+    <item>Cumartesi</item>
+  </string-array>
+  <string-array name="train_finish_reason_strs">
+    <item>Plana sadık kalınmadı</item>
+    <item>Tamamlanması çok uzun sürdü</item>
+    <item>İyi hissedilmiyor</item>
+    <item>Çok zor</item>
+    <item>Çok kolay</item>
+    <item>Oyunum iptal edildi</item>
+    <item>Bana uymaz</item>
+    <item>Diğer</item>
+  </string-array>
+  <string-array name="spring_depend">
+    <item>com.huami.watch.train/com.huami.watch.train.ui.activity.launch.TraintLauncherView</item>
+  </string-array>
+</resources>

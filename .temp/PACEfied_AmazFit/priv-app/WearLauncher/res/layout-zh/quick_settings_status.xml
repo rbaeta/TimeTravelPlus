@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/quciksettings_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/status_battery" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:layout_centerHorizontal="true">
+        <TextView android:textSize="12.0sp" android:textColor="@color/quicksettings_text_color_white" android:gravity="center_vertical" android:id="@id/status_text_connect" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.70000005dip" android:drawablePadding="4.0dip" />
+        <ImageView android:id="@id/status_battery_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/battery_level_icon" android:layout_toRightOf="@id/status_text_connect" />
+        <TextView android:textSize="12.0sp" android:textColor="@color/quicksettings_text_color_white" android:id="@id/status_battery_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/not_avalible_temp" android:layout_toRightOf="@id/status_battery_img" />
+    </RelativeLayout>
+    <TextView android:textSize="12.0sp" android:textColor="@color/quicksettings_text_color_white" android:gravity="center" android:id="@id/status_text_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:includeFontPadding="false" android:layout_below="@id/status_battery" android:layout_centerHorizontal="true" />
+    <LinearLayout android:orientation="vertical" android:id="@id/status_weather_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="11.0dip" android:layout_below="@id/status_text_date" android:layout_centerHorizontal="true">
+        <ImageView android:id="@id/status_img_weather" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/lan_weather_cloudy" />
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@id/status_weather_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip">
+            <com.huami.watch.reports.widget.DataTextView android:textSize="24.0sp" android:textColor="#ffffffff" android:id="@id/status_text_temp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" />
+            <ImageView android:id="@id/status_img_unit" android:paddingTop="1.0dip" android:visibility="gone" android:layout_width="17.299988dip" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <TextView android:textSize="12.0sp" android:textColor="@color/quicksettings_text_color_white" android:id="@id/status_text_outdoor_tip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="1.2999878dip" android:includeFontPadding="false" />
+    </LinearLayout>
+    <ViewStub android:id="@id/all_buttons_odd" android:layout="@layout/quick_settings_buttons_odd" android:inflatedId="@id/status_settings_view_odd" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/all_buttons_even" android:layout="@layout/quick_settings_buttons_even" android:inflatedId="@id/status_settings_view_even" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include android:id="@id/weather_no_data_dialog" android:visibility="gone" layout="@layout/weather_no_data_alert_dialog" />
+</RelativeLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/controller_menu_back" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="113.32999dip">
+        <ImageButton android:id="@id/back" android:background="@drawable/selector_tv_controller_back_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" />
+        <ImageButton android:id="@id/menu" android:background="@drawable/selector_tv_controller_menu_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/controller_change_ok" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.329987dip" android:layout_centerHorizontal="true">
+        <com.huami.watch.hmtvhelper.widget.TouchImageButton android:id="@id/direction" android:background="@mipmap/handset_btn_direction_n" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageButton android:id="@id/ok" android:background="@drawable/selector_tv_controller_enter_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">נתוני חיישן</string>
+    <string name="hello_world">נבחר:ACC PPG</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="title_activity_sensor_list">רשימת פעילות החיישן</string>
+    <string name="title_activity_view_list">הצג את רשימת הפעילויות</string>
+    <string name="title_activity_graph_list">רשימת גרף פעילויות</string>
+    <string name="completed">הושלם %1$s</string>
+    <string name="upload_failed">העלאה נכשלה!</string>
+    <string name="upload_success">העלאה הושלמה!</string>
+    <string name="uploading">מעלה!</string>
+    <string name="no_uploaded_files">אין קבצים שהועלו!</string>
+    <string name="open_wifi_failed">הפעלת wifi נכשלה!</string>
+    <string name="connect_APP">התחבר אל APP!</string>
+</resources>

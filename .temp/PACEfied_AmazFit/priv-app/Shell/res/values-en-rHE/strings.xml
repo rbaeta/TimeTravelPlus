@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">דווח על באג שנוצר</string>
+    <string name="bugreport_finished_text">לחץ כדי לשתף את דוח הבאג שלך</string>
+    <string name="bugreport_confirm">"דוחות באגים מכילים נתונים מקבצי היומן השונים של המערכת. אלה כוללים גם מידע אישי ופרטי. שתף דוחות באגים עם יישומים ואנשים שאתה בוטח."</string>
+    <string name="bugreport_confirm_repeat">הצג הודעה זו בפעם הבאה</string>
+</resources>

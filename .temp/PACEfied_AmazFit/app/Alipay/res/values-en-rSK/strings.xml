@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alipay</string>
+    <string name="confirm_unbind">OK Odpojiť</string>
+    <string name="unbind_warning">Po odpojení nebudú funkcie AliPay k dispozícii!</string>
+    <string name="bind_my_watch">Pripojte svoje hodinky</string>
+    <string name="user_hint">Otvorte aplikáciu Alipay (9.3 alebo vyššiu), do priečinka "Môj profil> Nastavenia> Nastavenia zabezpečenia> Smart Watch"</string>
+    <string name="bind_im">Pripojiť okamžite</string>
+    <string name="bind_from_qr">Skenovať QR Alipay</string>
+    <string name="bind_qr_code">Pripojenie pomocou QR kódu</string>
+    <string name="user_hint_title">Vstup používateľa</string>
+    <string name="loading">Nahrávanie</string>
+    <string name="title">Alipay</string>
+    <string name="widget_title">Alipay</string>
+    <string name="tip">Do aplikácie Alipay (9.3 alebo vyššej), "Moje - Nastavenia - Nastavenia zabezpečenia - Smart Watch"</string>
+    <string name="ios_unsupport_tips">（Alipay nie je podporovaný systémom iOS）</string>
+    <string name="button_start_bind">Spustenie pripájania</string>
+    <string name="bind_usage">Skenovať QR Alipay</string>
+    <string name="bar_code_tip">Platba kompletná</string>
+    <string name="qr_code_tip">Skenovať prevody alebo pridať mojich priateľov</string>
+    <string name="bind_success_title">Spojenie úspešné</string>
+    <string name="unbind_tip">Pre odpojenie použite voľby v aplikácii Alipay</string>
+    <string name="button_ok">OK</string>
+    <string name="confirm_unbind_title">Odpojiť</string>
+    <string name="unbind_alert_message">Po odpojení nebudú funkcie Alipay k dispozícii, odpojiť?</string>
+    <string name="not_available">Táto funkcia je dočasne nedostupná</string>
+    <string name="airplane_mode_tips">Ak chcete používať Alipay, vypnite režim Lietadlo</string>
+    <string name="debug_nickname" />
+    <string name="debug_username" />
+    <string name="debug_paycode_string" />
+</resources>

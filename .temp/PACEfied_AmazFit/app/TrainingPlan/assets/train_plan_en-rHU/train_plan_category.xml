@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trainplans>
+        <trainplan id="1">
+            <title>Kezdőknek</title>
+            <type>1</type>
+            <orderId>1</orderId>
+            <copyWrite>Kezdőknek sétától a kocogásig. Ez a képzés lépésről lépésre segítséget nyújt a futáshoz való alkalmazkodáshoz.</copyWrite>
+            <totalLength>85.6</totalLength>
+            <totalDays>56</totalDays>
+        </trainplan>
+        <trainplan id="2">
+            <title>5 km</title>
+            <type>2</type>
+            <orderId>2</orderId>
+            <totalLength>148</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Kezdő futók. Ez a képzés segítheti a futási technika javítását.</copyWrite>
+        </trainplan>
+        <trainplan id="3">
+            <title>10 km</title>
+            <type>3</type>
+            <orderId>3</orderId>
+            <totalLength>212</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Haladó futók.  Ez a kurzus segíti az aerobic és erőnlét kondicionálását.</copyWrite>
+        </trainplan>
+        <trainplan id="4">
+            <title>Fél marathon</title>
+            <type>4</type>
+            <orderId>4</orderId>
+            <totalLength>307.4</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Fél marathon táv. Segít javítani a hosszútávú futásra való képességet.</copyWrite>
+        </trainplan>
+        <trainplan id="5">
+            <title>Marathon</title>
+            <type>5</type>
+            <orderId>5</orderId>
+            <totalLength>436.0</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Teljes marathon távú tréning.Segítségével előre tervezheted az időt, az ütemet és a stratégiát.</copyWrite>
+        </trainplan>
+</trainplans>

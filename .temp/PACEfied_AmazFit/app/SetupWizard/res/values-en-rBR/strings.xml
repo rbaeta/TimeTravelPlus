@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SetupWizard</string>
+    <string name="locale_title">Selecionar Idioma</string>
+    <string name="lang_zh_cn">Mandrim(Simplificado)</string>
+    <string name="lang_en_us">Inglês(EUA)</string>
+    <string name="tip_install_wear_companion">Instale o app \"Amazfit Watch\" no seu telefone</string>
+    <string name="tip_low_battery">Menos que 5% de bateria, conecte o carregador para continuar</string>
+    <string name="pair_scan_qr">Leia o QR code com o app \"Amazfit Watch\"</string>
+    <string name="pair_skip">Pular</string>
+    <string name="tip_pair_skip">Alguns recursos estarão desativados, continuar?</string>
+    <string name="tip_restoring">Restaurando</string>
+    <string name="tip_binding_failed">Pareamento falhou</string>
+    <string name="tip_binding_failed_restart">Desconectado, tente novamente</string>
+    <string name="tip_no_bluetooth_adapter">Erro Bluetooth</string>
+    <string name="tip_wear_hand">Em qual mão você gostaria de usá-lo?</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+</resources>

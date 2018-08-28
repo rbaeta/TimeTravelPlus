@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d képernyő áttekintése</item>
+        <item quantity="one">1 képernyő áttekintése</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Helytelen SIM PIN kód, van még %d kísérlet.</item>
+        <item quantity="one">Helytelen SIM PIN kód, van még %d kísérlet, mielőtt kapcsolatba kell lépned a szolgáltatóval a készülék zárolásának feloldásához.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Helytelen SIM PUK kód, van még %d kísérlet, mielőtt a SIM véglegesen használhatatlan lesz.</item>
+        <item quantity="one">Helytelen SIM PUK kód, van még %d kísérlet, mielőtt a SIM véglegesen használhatatlan lesz.</item>
+    </plurals>
+</resources>

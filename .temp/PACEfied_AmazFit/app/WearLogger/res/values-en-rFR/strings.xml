@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_item_high_light_scale_factor">0.71</string>
+    <string name="dropbox">dropbox</string>
+    <string name="logcat">logcat</string>
+    <string name="anr_trance">anrtrance</string>
+    <string name="dumpsys">dumpsys</string>
+    <string name="battery">BatteryInfo</string>
+    <string name="bugreport">Bugreport</string>
+    <string name="upload">Envoi</string>
+    <string name="dump_sensor">DumpHmSensor</string>
+    <string name="dump">DumpSys</string>
+    <string name="log_path">Log Path:</string>
+    <string name="preparing">Génération de rapport...</string>
+    <string name="collecting">Génération de rapport...</string>
+    <string name="uploading">Envoi...</string>
+    <string name="compressing">Génération de rapport...</string>
+    <string name="upload_finish">Envoi du Log terminé</string>
+    <string name="upload_failed">"Le téléchargement a échoué
+Réessayer "</string>
+    <string name="open_wifi_hint">Connexion Wi-Fi...</string>
+    <string name="please_keep_wifi_connected">"Veuillez garder la montre
+Connecté au WiFi "</string>
+    <string name="percent_sign">%</string>
+    <string name="zero">0</string>
+    <string name="has_log_file_message">Des rapports d\'erreur ne sont pas envoyés, continuer à les envoyer?</string>
+    <string name="upload_failed_token_title">Envoi échoué</string>
+    <string name="upload_failed_token_message">Impossible d\'envoyer des rapports d\'erreur. Connectez-vous avec l\'app Amazfit Watch et réessayez</string>
+    <string name="re_collecting">Régénérer</string>
+    <string name="continue_upload">Continuer Envoi</string>
+    <string name="alllog">Tout les journaux</string>
+    <string name="moreoptions">plus d\'options</string>
+    <string name="allupload">Ajouter tout</string>
+    <string name="pleass_upload">Merci d\'envoyer</string>
+    <string name="start_collection">Collecte commencée</string>
+    <string name="close_wifi_hint">Wi-Fi désactivé</string>
+    <string name="open_wifi_before_upload">Avant de télécharger connectez-vous au Wi-Fi</string>
+    <string name="packed_path">Chemin de paquet local:</string>
+    <string name="c_bugreport">Repport de bug</string>
+    <string name="upload_timeout">Envoi échoué, merci d\'essayer à nouveau</string>
+    <string name="uploading_wait">Envoi, patientez...</string>
+    <string name="collect_logcat">Nous recueillons des infos logcat</string>
+    <string name="collect_dropbox">Nous recueillons des infos dropbox</string>
+    <string name="collect_anr">Nous recueillons des infos ANR</string>
+    <string name="collect_dumpsys">Nous recueillons des infos dumpsys</string>
+    <string name="collect_bugreport">Nous recueillons des infos bugreport</string>
+    <string name="next_upload_message">Rapport d\'erreur créé, merci d\'envoyer</string>
+    <string name="please_upload">L\'erreur à été envoyée avec succès</string>
+    <string name="app_name">Logger</string>
+    <string name="hello_world">Bonjour le monde!</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="watch_ota">Mise à jour Montre</string>
+    <string name="wifi_disconnect">Merci de connecter l\'assistant montre</string>
+    <string name="connect_phone_wifi">Connecter le téléphone en Wi-Fi</string>
+    <string name="please_update_rom">" Nouvelle version du système
+Merci de mettre à jour "</string>
+    <string name="connect_phone_input_wifi">" Merci de vous connecter au Wi-Fi sur le téléphone ".</string>
+    <string name="checking_rom">Vérification d\'une nouvelle version</string>
+    <string name="checking_rom_failed">Connexion réseau expirée, essayer à nouveau</string>
+    <string name="current_is_new">A jour</string>
+    <string name="has_new_rom">" Vérifier qu\'il y ai une nouvelle version? "</string>
+    <string name="input_passwor_on_mobile">"%1$s
+Mettre un mot de passe sur le téléphone"</string>
+    <string name="processbar_downloading_rom">Téléchargement</string>
+    <string name="please_keep_wifi_connect">Rester connecté au Wi-Fi</string>
+    <string name="processbar_downloading_tips">%</string>
+    <string name="processbar_downloading_default">0</string>
+    <string name="download_rom_faild">" Téléchargement échoué,
+Merci d\'essayer à nouveau ".</string>
+    <string name="download_rom_success">"Téléchargement réussi,
+installer"</string>
+    <string name="low_battery_message">"Mise à jour téléchargée mais
+pour l\'installer la batterie doit être chargée à 50%"</string>
+    <string name="low_battery_title">Mettre en charge</string>
+    <string name="progressbar_tips">Vérification...</string>
+    <string name="progressbar_percent">%1$d%%</string>
+    <string name="low_mem">"Pas assez d\'espace de stockage
+Besoin de %1$sM,libérer de la place"</string>
+    <string name="update_network_error">"Vérification échouée,
+Réessayez plus tard"</string>
+    <string name="cancel_download">"Téléchargement de la mise à niveau,
+Voulez-vous annuler?"</string>
+    <string name="new_rom_please_install">"Nouvelle version disponible
+Merci de mettre à jour"</string>
+    <string name="btn_install_later">Rappel suivant</string>
+    <string name="btn_install_now">Installer maintenant</string>
+    <string name="wifi_no_password">Non crypté</string>
+    <string name="wifi_has_password">Encrypté</string>
+    <string name="wifi_password_error">Mot de passe incorrect</string>
+    <string name="wifi_connecting">Connexion...</string>
+    <string name="wifi_auth">Vérification du mot de passe...</string>
+    <string name="wifi_get_ip">Obtension d\'une adresse IP...</string>
+    <string name="wifi_link_fail">Échec de la connexion...</string>
+    <string name="wifi_connected">Connecté</string>
+    <string name="wifi_title">Connexion Wi-Fi</string>
+    <string name="wifi_wait_password">En attente du mot de passe...</string>
+    <string name="toast_please_update_first">Mettre à jour</string>
+    <string name="wifi_turnon_going">Activation du Wi-Fi</string>
+    <string name="system_update_title">Mise à niveau réussie</string>
+    <string name="system_update_content">Le système a été mis à jour à la version %1$s</string>
+    <string name="password_error">"%1$s mot de passe incorrect,
+merci d\'en entrer un nouveau"</string>
+    <string name="wifi_connect_fail">"Connexion Wi-Fi échouée,
+réessayer"</string>
+    <string name="searching">Recherche...</string>
+    <string name="hasNewUpdateTitle">Mises à jour système</string>
+    <string name="hasNewUpdateContent">%1$s version peut être installée, l\'installer maintenant?</string>
+</resources>

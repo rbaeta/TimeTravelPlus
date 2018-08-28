@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SetupWizard</string>
+    <string name="locale_title">Aukeratu hizkuntza</string>
+    <string name="lang_zh_cn">中文(简体)</string>
+    <string name="lang_en_us">Ingelesa(US)</string>
+    <string name="tip_install_wear_companion">Mesedez, instalatu \"Amazfit Watch\" aplikazioa zure telefonoan</string>
+    <string name="tip_low_battery">Bateria %5ekoa baino gutxiago, mesedez, konektatu argindarra jarraitzeko</string>
+    <string name="pair_scan_qr">Eskaneatu QR kodea \"Amazfit Watch\" aplikazioarekin</string>
+    <string name="pair_skip">Jausi egin</string>
+    <string name="tip_pair_skip">Ezaugarri batzuk desgaitu egingo dira, jarraitu?</string>
+    <string name="tip_restoring">Berreskuratzen</string>
+    <string name="tip_binding_failed">Partekatzean akatsa</string>
+    <string name="tip_binding_failed_restart">Deskonektatua, mesedez berriro saiatu</string>
+    <string name="tip_no_bluetooth_adapter">Bluetooth Errorea</string>
+    <string name="tip_wear_hand">Zein eskutan jantziko duzu?</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+</resources>

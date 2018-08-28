@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/operation" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.VerticalViewPager android:id="@id/datacenter_viewpager" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.huami.watch.hmtvhelper.widget.TouchImageButton android:id="@id/voice" android:background="@drawable/selector_tv_controller_voice_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+    <RelativeLayout android:id="@id/voice_face" android:background="@drawable/shape_voice_bg" android:visibility="gone" android:layout_width="173.0dip" android:layout_height="60.0dip" android:layout_centerInParent="true">
+        <com.huami.watch.hmtvhelper.widget.VoiceAnimator android:id="@id/voice_animatior" android:layout_width="130.0dip" android:layout_height="30.0dip" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</RelativeLayout>

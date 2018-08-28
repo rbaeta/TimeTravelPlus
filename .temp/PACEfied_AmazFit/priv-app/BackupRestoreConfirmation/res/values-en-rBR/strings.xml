@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Backup completo</string>
+    <string name="restore_confirm_title">Restauração total</string>
+    <string name="backup_confirm_text">"Foi solicitado um backup completo de todos os dados para um computador conectado. Você quer permitir a operação?
+ 
+Se você não solicitou o backup, não permita a operação continuar."</string>
+    <string name="allow_backup_button_label">Salvar meus dados</string>
+    <string name="deny_backup_button_label">Não salvar</string>
+    <string name="restore_confirm_text">"Foi solicitada uma restauração completa de dados de um computador conectador. Você quer permitir a operação?
+ 
+Se você não solicitou a restauração, não permita a operação continuar. Isso irá sobrescrever quaisquer dados que estão no dispositivo!"</string>
+    <string name="allow_restore_button_label">Restaurar meus dados</string>
+    <string name="deny_restore_button_label">Não restaurar</string>
+    <string name="current_password_text">Insira sua senha atual de backup abaixo:</string>
+    <string name="device_encryption_restore_text">Insira sua senha de criptografia do dispositivo abaixo.</string>
+    <string name="device_encryption_backup_text">Insira sua senha de criptografia do dispositivo abaixo. Ela também será usada para criptografar o arquivo de backup.</string>
+    <string name="backup_enc_password_text">Insira uma senha para usar na criptografia dos dados do backup completo. Se for deixada em branco, sua senha atual de backup será utilizada:</string>
+    <string name="backup_enc_password_optional">Se você deseja criptografar o backup completo, insira uma senha abaixo:</string>
+    <string name="backup_enc_password_required">Como seu dispositivo está criptografado, você será solicitado para criptografar seu backup. Insira uma senha abaixo:</string>
+    <string name="restore_enc_password_text">Se os dados de restauração estiverem criptografados, insira a senha abaixo:</string>
+    <string name="toast_backup_started">Iniciando backup...</string>
+    <string name="toast_backup_ended">Backup pronto</string>
+    <string name="toast_restore_started">Iniciando restauração...</string>
+    <string name="toast_restore_ended">Restauração pronta</string>
+    <string name="toast_timeout">A operação expirou</string>
+</resources>

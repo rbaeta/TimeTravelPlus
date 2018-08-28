@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="layoutManager" format="string" />
+    <attr name="spanCount" format="integer" />
+    <attr name="reverseLayout" format="boolean" />
+    <attr name="stackFromEnd" format="boolean" />
+    <attr name="centerItemInPage" format="boolean" />
+    <attr name="itemCountPerPage">
+        <enum name="one" value="1" />
+        <enum name="three" value="3" />
+        <enum name="two" value="2" />
+    </attr>
+    <attr name="hm_layout_box">
+        <flag name="all" value="0x0000000f" />
+        <flag name="bottom" value="0x00000008" />
+        <flag name="left" value="0x00000001" />
+        <flag name="right" value="0x00000004" />
+        <flag name="top" value="0x00000002" />
+    </attr>
+    <attr name="layout_box">
+        <flag name="all" value="0x0000000f" />
+        <flag name="bottom" value="0x00000008" />
+        <flag name="left" value="0x00000001" />
+        <flag name="right" value="0x00000004" />
+        <flag name="top" value="0x00000002" />
+    </attr>
+    <attr name="circle_color" format="color" />
+    <attr name="circle_radius" format="dimension" />
+    <attr name="circle_radius_pressed" format="dimension" />
+    <attr name="circle_border_width" format="dimension" />
+    <attr name="circle_border_color" format="color" />
+    <attr name="circle_padding" format="dimension" />
+    <attr name="shadow_width" format="dimension" />
+    <attr name="update_interval" format="integer" />
+    <attr name="dotSpacing" format="dimension" />
+    <attr name="dotRadius" format="dimension" />
+    <attr name="dotRadiusSelected" format="dimension" />
+    <attr name="dotColor" format="color" />
+    <attr name="dotColorSelected" format="color" />
+    <attr name="dotFadeWhenIdle" format="boolean" />
+    <attr name="dotFadeOutDelay" format="integer" />
+    <attr name="dotFadeOutDuration" format="integer" />
+    <attr name="dotFadeInDuration" format="integer" />
+    <attr name="dotShadowColor" format="color" />
+    <attr name="dotShadowRadius" format="dimension" />
+    <attr name="dotShadowDx" format="dimension" />
+    <attr name="dotShadowDy" format="dimension" />
+    <attr name="rectLayout" format="reference" />
+    <attr name="roundLayout" format="reference" />
+    <attr name="circular_layout_gravity">
+        <flag name="bottom" value="0x00000050" />
+        <flag name="left" value="0x00000003" />
+        <flag name="right" value="0x00000005" />
+        <flag name="top" value="0x00000030" />
+        <flag name="center" value="0x00000011" />
+        <flag name="center_horizontal" value="0x00000001" />
+        <flag name="center_vertical" value="0x00000010" />
+    </attr>
+    <attr name="circular_text_size" format="dimension" />
+    <attr name="npv_ShowCount" format="reference|integer" />
+    <attr name="npv_ShowDivider" format="reference|boolean" />
+    <attr name="npv_DividerColor" format="reference|color" />
+    <attr name="npv_DividerMarginLeft" format="reference|dimension" />
+    <attr name="npv_DividerMarginRight" format="reference|dimension" />
+    <attr name="npv_DividerHeight" format="reference|dimension" />
+    <attr name="npv_TextColorNormal" format="reference|color" />
+    <attr name="npv_TextColorSelected" format="reference|color" />
+    <attr name="npv_TextColorHint" format="reference|color" />
+    <attr name="npv_TextSizeNormal" format="reference|dimension" />
+    <attr name="npv_TextSizeSelected" format="reference|dimension" />
+    <attr name="npv_TextSizeHint" format="reference|dimension" />
+    <attr name="npv_TextArray" format="reference" />
+    <attr name="npv_MinValue" format="reference|integer" />
+    <attr name="npv_MaxValue" format="reference|integer" />
+    <attr name="npv_WrapSelectorWheel" format="reference|boolean" />
+    <attr name="npv_RespondChangeOnDetached" format="reference|boolean" />
+    <attr name="npv_HintText" format="reference|string" />
+    <attr name="npv_EmptyItemHint" format="reference|string" />
+    <attr name="npv_MarginStartOfHint" format="reference|dimension" />
+    <attr name="npv_MarginEndOfHint" format="reference|dimension" />
+    <attr name="npv_ItemPaddingHorizontal" format="reference|dimension" />
+    <attr name="npv_ItemPaddingVertical" format="reference|dimension" />
+    <attr name="npv_RespondChangeInMainThread" format="reference|boolean" />
+    <attr name="npv_TextEllipsize" format="reference|string" />
+    <attr name="npv_AlternativeTextArrayWithMeasureHint" format="reference" />
+    <attr name="npv_AlternativeTextArrayWithoutMeasureHint" format="reference" />
+    <attr name="npv_AlternativeHint" format="reference|string" />
+</resources>

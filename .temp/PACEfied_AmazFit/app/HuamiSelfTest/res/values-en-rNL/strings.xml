@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Voltooid</string>
+    <string name="abc_action_bar_home_description">Navigeer naar hoofdmenu</string>
+    <string name="abc_action_bar_up_description">Navigeer omhoog</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_toolbar_collapse_description">Inklappen</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Zoek</string>
+    <string name="abc_search_hint">Zoek…</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Zoeken met stem</string>
+    <string name="abc_activitychooserview_choose_application">Kies een app</string>
+    <string name="abc_activity_chooser_view_see_all">Bekijk alles</string>
+    <string name="abc_shareactionprovider_share_with_application">Deel met %s</string>
+    <string name="abc_shareactionprovider_share_with">Deel met</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="app_name">Bekijk zelftest</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="section_format">Hallo Wereld van sectie: %1$d</string>
+    <string name="btn_cancel">X</string>
+    <string name="btn_ok">OK</string>
+    <string name="prev_item">Vorige</string>
+    <string name="next_item">Volgende</string>
+    <string name="retest">Hertest</string>
+    <string name="start_ppg">Start Test</string>
+    <string name="start_all">Herstart Alles</string>
+    <string name="mic">MIC</string>
+    <string name="start">Start</string>
+    <string name="start_gps_test">Start GPS Test</string>
+    <string name="test_vibrator">Vibrator Test (klik opnieuw om te stoppen)</string>
+    <string name="test_tp">Touch Screen Test</string>
+</resources>

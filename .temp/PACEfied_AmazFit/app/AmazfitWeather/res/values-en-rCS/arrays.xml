@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView</item>
+    </string-array>
+    <string-array name="quick_settings_status_week">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Úte</item>
+        <item>Stř</item>
+        <item>Čtv</item>
+        <item>Pát</item>
+        <item>Sob</item>
+        <item>Dnes</item>
+    </string-array>
+    <string-array name="weather_card_aqilevel">
+        <item>Výborný vzduch</item>
+        <item>Dobrý vzduch</item>
+        <item>Slabé znečištění</item>
+        <item>Mírné znečištění</item>
+        <item>Silné znečištění</item>
+        <item>Vysoké znečištění</item>
+        <item></item>
+    </string-array>
+    <string-array name="weather_card_quality">
+        <item>Vhodné pro sport</item>
+        <item>Není vhodné pro sport</item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_settings_status_weather">
+        <item>slunečno</item>
+        <item>oblačno</item>
+        <item>zataženo</item>
+        <item>mlha</item>
+        <item>smog</item>
+        <item>déšť</item>
+        <item>déšť a blesky</item>
+        <item>mrholení</item>
+        <item>mírný déšť</item>
+        <item>déšť</item>
+        <item>bouřka</item>
+        <item>přívalový déšť</item>
+        <item>déšť se sněhem</item>
+        <item>mrznoucí déšť</item>
+        <item>krupy</item>
+        <item>slabé sněžení</item>
+        <item>mírné sněžení</item>
+        <item>silné sněžení</item>
+        <item>sněhová bouře</item>
+        <item>sněžení</item>
+        <item>prach</item>
+        <item>lehký písek</item>
+        <item>písečná bouře</item>
+        <item>silná písečná bouře</item>
+        <item>Žádná data</item>
+    </string-array>
+</resources>

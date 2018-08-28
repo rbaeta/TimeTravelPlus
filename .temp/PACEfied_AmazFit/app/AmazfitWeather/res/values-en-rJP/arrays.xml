@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="spring_depend">
+    <item>com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView</item>
+  </string-array>
+  <string-array name="quick_settings_status_week">
+    <item>日</item>
+    <item>月</item>
+    <item>火</item>
+    <item>水</item>
+    <item>木</item>
+    <item>金</item>
+    <item>土</item>
+    <item>今日</item>
+  </string-array>
+  <string-array name="weather_card_aqilevel">
+    <item>とても澄んでいる</item>
+    <item>澄んでいる</item>
+    <item>少し汚れている</item>
+    <item>まぁまぁ汚れている</item>
+    <item>とても汚れている</item>
+    <item>公害レベル</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="weather_card_quality">
+    <item>運動に適した天気</item>
+    <item>運動は控えたほうがよさそう</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="quick_settings_status_weather">
+    <item>晴れ</item>
+    <item>曇り</item>
+    <item>一面曇り</item>
+    <item>霧</item>
+    <item>スモッグ</item>
+    <item>にわか雨</item>
+    <item>雷雨</item>
+    <item>小雨</item>
+    <item>雨</item>
+    <item>大雨</item>
+    <item>暴風雨</item>
+    <item>豪雨</item>
+    <item>みぞれ</item>
+    <item>雨氷</item>
+    <item>ひょう</item>
+    <item>小雪</item>
+    <item>雪</item>
+    <item>大雪</item>
+    <item>吹雪</item>
+    <item>にわか雪</item>
+    <item>ちり煙霧</item>
+    <item>風塵</item>
+    <item>砂塵あらし</item>
+    <item>暴風塵</item>
+    <item>データーなし</item>
+  </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HmSmartHome</string>
+    <string name="average_text">Průměr</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Potvrdit</string>
+    <string name="picker_default_nagetive_text">Zrušit</string>
+    <string name="no_heartrate_data_hint">Data tepu nedetekována</string>
+    <string name="no_altitude_hint">Data výšky nedetekována</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Nastavení</string>
+    <string name="sport_music_settings">Sportovní hudba</string>
+    <string name="widget_currentstep_title">Centrum dat</string>
+    <string name="widget_currentstep_activities">Kroků dnes</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Spánek minulou noc</string>
+    <string name="widget_currentstep_sleep_no">Bez dat o spánku</string>
+    <string name="widget_currentstep_activity_no">Dnes bez cvičení?</string>
+    <string name="mihome_widget_title">Mi Home</string>
+    <string name="mihome_widget_info_unbind">Spárováno s aplikací Mi Home, tyto hodinky můžou ovládat kompatibilní MI zařízení; neukončujte během párování.</string>
+    <string name="mihome_widget_info_no_devices">V aplikaci Mi home, přidat Mi zařízení, které chcete ovládat těmito hodinkami.</string>
+    <string name="mihome_activity_title_disconnected">Nepřipojeno</string>
+    <string name="mihome_activity_info_disconnected">Připojit k aplikace Mi Home přes Bluetootk ve vašem telefonu.</string>
+    <string name="mihome_activity_btn_disconnected">Připojit k aplikace Mi Home přes Bluetootk ve vašem telefonu.</string>
+    <string name="mihome_device_card_2_offline">[Nepřipojeno]</string>
+</resources>

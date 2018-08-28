@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SensorData</string>
+    <string name="hello_world">Vybrané:ACC PPG</string>
+    <string name="action_settings">Nastavenia</string>
+    <string name="title_activity_sensor_list">Zoznam aktivít senzoru</string>
+    <string name="title_activity_view_list">Náhľad zoznamu aktivít</string>
+    <string name="title_activity_graph_list">Graf zoznamu aktivít</string>
+    <string name="completed">Dokončené %1$s</string>
+    <string name="upload_failed">nahrávanie zlyhalo!</string>
+    <string name="upload_success">nahrávanie úspešné!</string>
+    <string name="uploading">nahrávanie!</string>
+    <string name="no_uploaded_files">Žiadne nahrané súbory!</string>
+    <string name="open_wifi_failed">zapnutie wifi zlyhalo!</string>
+    <string name="connect_APP">Prosím pripojte APP!</string>
+</resources>

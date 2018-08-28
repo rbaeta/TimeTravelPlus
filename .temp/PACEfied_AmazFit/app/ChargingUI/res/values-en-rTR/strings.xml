@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+  <string name="app_name">ChargingUI</string>
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Ayarlar</string>
+  <string name="unit">%</string>
+  <string name="am">AM</string>
+  <string name="pm">PM</string>
+</resources>

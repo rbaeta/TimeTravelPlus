@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_time_day">
+        <item quantity="one">לפני %s יום</item>
+        <item quantity="other">לפני %s ימים</item>
+        <item quantity="many"></item>
+        <item quantity="two"></item>
+    </plurals>
+    <plurals name="notification_time_hour">
+        <item quantity="one">לפני %s שעות</item>
+        <item quantity="other">לפני %s שעות</item>
+        <item quantity="many"></item>
+        <item quantity="two"></item>
+    </plurals>
+    <plurals name="notification_time_minute">
+        <item quantity="one">לפני %s דקות</item>
+        <item quantity="other">לפני %s דקות</item>
+        <item quantity="many"></item>
+        <item quantity="two"></item>
+    </plurals>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Teljes mentés</string>
+    <string name="restore_confirm_title">Teljes helyreállítás</string>
+    <string name="backup_confirm_text">"Minden adat teljes biztonsági mentését kérted egy csatlakoztatott asztali számítógépre. Szeretnéd, hogy ez megtörténjen?
+
+Ha nem kérted a biztonsági mentést, ne engedd a műveletet."</string>
+    <string name="allow_backup_button_label">Adataim mentése</string>
+    <string name="deny_backup_button_label">Ne készítsen mentést</string>
+    <string name="restore_confirm_text">"A csatlakoztatott asztali számítógép összes adatának teljes visszaállítását kérted. Szeretnéd, hogy ez megtörténjen?
+
+Ha nem kérted a helyreállítást, ne engedélyezd a művelet folytatását. Ezzel lecseréled az eszközön jelenleg tárolt adatokat!"</string>
+    <string name="allow_restore_button_label">Adataim helyreállítása</string>
+    <string name="deny_restore_button_label">Ne állítsa vissza</string>
+    <string name="current_password_text">Add meg az aktuális biztonsági másolat jelszavát:</string>
+    <string name="device_encryption_restore_text">Add meg az eszköz titkosítási jelszavát.</string>
+    <string name="device_encryption_backup_text">Add meg az eszköz titkosítási jelszavát. Ezt a biztonsági archívum titkosítására is használjuk.</string>
+    <string name="backup_enc_password_text">Adj meg egy jelszót, amelyet a teljes mentés titkosításához használunk. Ha ez üresen marad, az aktuális biztonsági jelszavad fogja használni:</string>
+    <string name="backup_enc_password_optional">Ha a teljes biztonsági mentést szeretnéd titkosítani, add meg alább a jelszót:</string>
+    <string name="backup_enc_password_required">Mivel a készülék titkosítva van, titkosítani kell a biztonsági másolatot. Add meg alább a jelszót:</string>
+    <string name="restore_enc_password_text">Ha a helyreállítási adatok titkosításra kerültek, kérjük, adja meg alábbi a jelszót:</string>
+    <string name="toast_backup_started">Mentés indul...</string>
+    <string name="toast_backup_ended">Mentés befejeződött</string>
+    <string name="toast_restore_started">Helyreállítás indul...</string>
+    <string name="toast_restore_ended">Helyreállítás vége</string>
+    <string name="toast_timeout">Művelet időtúllépés</string>
+</resources>

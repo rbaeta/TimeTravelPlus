@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Media</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Baieztatu</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Bihotz taupaden datuak ez aurkituak</string>
+    <string name="no_altitude_hint">Altitudea ez detektatuta</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Ezarpenak</string>
+    <string name="sport_music_settings">Kirolerako musika</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Aukeratu hizkuntza</string>
+    <string name="app_name">HmTvHelper</string>
+    <string name="tv_title_controller">TB urruneko kontrola</string>
+    <string name="tv_use_title">Erabiltzen</string>
+    <string name="tv_title_searching">Bilatzen...</string>
+    <string name="tv_title_choices">Mesedez aukeratu kontrolatzeko gailua</string>
+    <string name="tv_title_unfound">Kontrolatzeko gailurik ez da aurkitu</string>
+    <string name="tv_search_action_tx">Bilatu TB</string>
+    <string name="tv_voice_title">Bol kontrola</string>
+    <string name="tv_foot_search_again">bilatu berriro</string>
+    <string name="tv_use_content">Konektatu zure TB eta telefonoa Wi-Fi sare berdinera</string>
+    <string name="tv_current_device">Oraingo gailua</string>
+    <string name="tv_launcher_guide">Oharra: TB edo bozgorailuren batek ez du ahotz funtziorik</string>
+    <string name="tv_power_title">Amatatu</string>
+    <string name="tv_change_title">Switch the device</string>
+    <string name="error_bluetooth_title">Bluetooth deskonektatu da</string>
+    <string name="error_bluetooth_content">Mesedez konprobatu erloju eta telefonoaren arteko Bluetooth konexioa</string>
+    <string name="error_wifi_title">Wi-Fi konexiorik ez dago</string>
+    <string name="error_wifi_content">Mesedez konprobatu zure telefonoaren Wi-Fi konexioa.</string>
+    <string name="error_connect_title">connection error</string>
+    <string name="error_connect_content">Wi-Fi ezin da konektatu. Saiatu berriro beranduago.</string>
+    <string name="error_device_title">Ezin da gailua aurkitu</string>
+    <string name="error_device_content">Txekeatu gailua piztuta dagoela eta Wi-Fi berdinera konektatuta dagoela.</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Datu Zentroa</string>
+    <string name="widget_currentstep_activities">Gaurko pausoak</string>
+    <string name="widget_currentstep_sleep_hour">o</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Azken gaueko loa</string>
+    <string name="widget_currentstep_sleep_no">Lo daturik ez</string>
+    <string name="widget_currentstep_activity_no">Ariketarik ez gaur?</string>
+<!--END of missed texts by Huami-->
+</resources>

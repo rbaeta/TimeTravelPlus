@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekdays">
+        <item>Ig</item>
+        <item>Al</item>
+        <item>As</item>
+        <item>Az</item>
+        <item>Og</item>
+        <item>Or</item>
+        <item>Lr</item>
+    </string-array>
+</resources>

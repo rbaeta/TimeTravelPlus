@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+  <string-array name="localapps">
+    <item>com.huami.watch.launcher</item>
+    <item>com.huami.watch.sport</item>
+  </string-array>
+  <string-array name="support_sport">
+    <item>KOŞULUYOR</item>
+    <item>YÜRÜNÜYOR</item>
+    <item>GEZİNTİ</item>
+    <item>ICMEKAN_KOSU</item>
+    <item>DIS_MEKAN_SURUS</item>
+    <item>IC_MEKAN_SURUS</item>
+    <item>ELIPTIK_MAKINE</item>
+    <item>KM_HATIRLATMA</item>
+    <item>KOSU_ASKIDA</item>
+    <item>SURUS_ASKIDA</item>
+    <item>SES_HATIRLATMA</item>
+  </string-array>
+  <string-array name="spring_depend">
+    <item>com.huami.watch.sport/com.huami.watch.sport.ui.view.SportLauncherView</item>
+  </string-array>
+</resources>

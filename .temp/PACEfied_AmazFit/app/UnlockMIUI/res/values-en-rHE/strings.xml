@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">נעילת MIUI</string>
+    <string name="unlock_tips">אפשר לשעון זה לבטל את נעילת הטלפון</string>
+</resources>

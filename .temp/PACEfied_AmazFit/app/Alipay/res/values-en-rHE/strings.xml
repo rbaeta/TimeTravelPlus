@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alipay</string>
+    <string name="confirm_unbind">אישור להתנתק</string>
+    <string name="unbind_warning">לאחר התנתקות פונקציית Alipay לא תהיה זמינה עוד!</string>
+    <string name="bind_my_watch">חבר את השעון שלי</string>
+    <string name="user_hint">פתח את Alipay בטלפון (9.3 ומעלה), בסעיף "הפרופיל שלי> הגדרות> הגדרות אבטחה> שעון חכם"</string>
+    <string name="bind_im">התחבר מיד</string>
+    <string name="bind_from_qr">השתמש בסריקה Alipay</string>
+    <string name="bind_qr_code">קישור עם קוד QR</string>
+    <string name="user_hint_title">בקשה למשתמש</string>
+    <string name="loading">טוען Alipay</string>
+    <string name="title">שעון Alipay</string>
+    <string name="widget_title">Alipay</string>
+    <string name="tip">פתח את Alipay בטלפו (9.3 ומעלה) "הגדרות שלי - מרכז רבטחה - כלי אבטחה - שעונים חכמים"</string>
+    <string name="ios_unsupport_tips">(Alipay אינו תומך ב-iOS)</string>
+    <string name="button_start_bind">התחל חיבור</string>
+    <string name="bind_usage">השתמש בסריקת Alipay</string>
+    <string name="bar_code_tip">הקופה ניקה את התשלום</string>
+    <string name="qr_code_tip">סרוק את ההעברה או הוסף את החברים שלי</string>
+    <string name="bind_success_title">החיבור בוצע בהצלחה</string>
+    <string name="unbind_tip">כדי להתנתק, גש אל Alipay בטלפון.</string>
+    <string name="button_ok">אישור</string>
+    <string name="confirm_unbind_title">התנתק</string>
+    <string name="unbind_alert_message">להתנתק, לא תוכל עוד להשתמש Alipay בשעון, להמשיך?</string>
+    <string name="not_available">תכונה זו אינה זמינה כרגע</string>
+    <string name="airplane_mode_tips">כדי להשתמש ב-Alipay, כבה את מצב הטיסה.</string>
+    <string name="debug_nickname" />
+    <string name="debug_username" />
+    <string name="debug_paycode_string" />
+</resources>

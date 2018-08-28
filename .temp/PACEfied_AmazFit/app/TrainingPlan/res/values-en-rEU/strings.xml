@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Aukeratu hizkuntza</string>
+    <string name="app_name">"\nEntrenatzeko\n gunea"</string>
+    <string name="app_train_center">"\nEntrenatzeko\n plana"</string>
+    <string name="my_train">Entrenamenduak</string>
+    <string name="please_select_train_plan">Aukeratu entrenamendu plana</string>
+    <string name="start_new_train">Hasi entrenamendua</string>
+    <string name="train_center">Entrenamendu plana</string>
+    <string name="train_detail">Ezaugarriak</string>
+    <string name="day_train_record_stag">%1$s - %2$d Astea - %3$d Eguna</string>
+    <string name="day_train_record_stag_simple">- %1$d Astea - %2$d Eguna</string>
+    <string name="day_train_record_train_stage">-%1$s egun</string>
+    <string name="remind_train_first_text">"Orientatutako entrenamenduak zure \negoera fisikoa hobetzen lagundu ahal dizu\n. Goazen!!!"</string>					
+    <string name="train_start">Hasi entrenamendua</string>
+    <string name="hidtory_train_start_date">Hasiera %1$s</string>
+    <string name="hidtory_train_end_date">Bukaera %1$s</string>
+    <string name="train_detail_number_weekly">%1$d. Astea</string>
+    <string name="day_train_status_done">(Amaitua)</string>
+    <string name="train_record_complete_percent">Amaitua</string>
+    <string name="day_train_record_status_finish">Amaitua</string>
+    <string name="day_train_record_statis_un_finish">Ez Amaitua</string>
+    <string name="dialog_day_train_plan_is_complete">Gaurko entrenamendua amaitu duzu?</string>																		   
+    <string name="dialog_delete_history_record">Erregistro hau ezabatzen ba duzu, ezingo duzu berreskuratu.</string>
+    <string name="dialog_train_plan_is_complete">Ez ba duzu etapa bukatzen ez da aurrerakuntza grabatuko. Amaitu?</string>
+    <string name="last_day_rest_remind">Entrenamendua bukatzear dago, gaurkoz atseden egin. Azken ariketatik atseden egin</string>
+	<string name="cancel">Ezeztatu</string>
+    <string name="dialog_delete">Ezabatu</string>
+    <string name="day_train_plan_record_marked">Marka</string>
+    <string name="train_plan_recode_finished">Bukatu</string>
+    <string name="train_mileage">Distantzia guztia(km)</string>
+    <string name="train_mileage_mils">Distantzia guztia(millak)</string>	
+    <string name="train_days">"Entrenamendu egunak"</string>													
+    <string name="train_finish">Amaitu</string>
+    <string name="train_finished">Momentuko plana amaitua</string>
+    <string name="today">Gaur</string>
+    <string name="train_complete_rate">Aurrerapena</string>
+    <string name="assing_train_plan">%1$s</string>
+    <string name="train_plan_already_assgn">Egokitua</string>
+    <string name="notification_title">Entrenamendu plana</string>
+    <string name="notificaiton_train_content">Gaurko entrenamendua ez da bukatua izan!</string>
+    <string name="this_train_record_finish">Plan hau amaitu da.</string>
+    <string name="train_finish_reason">Bukatzeko arrazoia</string>
+    <string name="length_unit_km">km</string>
+    <string name="length_unit_miles">millak</string>
+    <string name="unit_yinli">milla</string>
+    <string name="unit_gongli">km</string>
+	<string name="average_text">Batazbestekoa</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Baieztatu</string>
+    <string name="picker_default_nagetive_text">Ezeztatu</string>
+    <string name="no_heartrate_data_hint">RC datuak ez dira aurkitu.</string>
+    <string name="no_altitude_hint">Altuera datuak ez dira aurkitu.</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Ezarpenak</string>
+    <string name="sport_music_settings">Kirolerako musika</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Datu zentrua</string>
+    <string name="widget_currentstep_activities">Gaurko pausuak</string>
+    <string name="widget_currentstep_sleep_hour">o</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Bart gaueko lo datuak</string>
+    <string name="widget_currentstep_sleep_no">Lo daturik gabe</string>
+    <string name="widget_currentstep_activity_no">Ez al duzu gaur entrenatzen?</string>
+<!--END of missed texts by Huami-->
+</resources>

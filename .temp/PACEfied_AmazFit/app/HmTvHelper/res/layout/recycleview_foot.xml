@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingTop="10.0dip" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:textSize="@dimen/tv_recyclerview_foot_button_size" android:textColor="@color/tv_device_tx_color" android:id="@id/tv_search" android:background="@drawable/shape_rearch_bg" android:visibility="gone" android:layout_width="106.599976dip" android:layout_height="32.0dip" android:text="@string/tv_foot_search_again" android:layout_centerHorizontal="true" />
+</RelativeLayout>

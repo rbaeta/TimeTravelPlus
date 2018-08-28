@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <com.sogou.map.android.maps.widget.CommonCardFrame n1:id="@id/item_content_card_view" style="@style/card_view_style">
+        <com.sogou.map.android.maps.widget.DefineMaxHeightScroolView n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+            <LinearLayout n1:orientation="vertical" n1:id="@id/scrollViewContainer" n1:paddingLeft="@dimen/common_margin_bigger" n1:paddingRight="@dimen/common_margin_bigger" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_centerInParent="true">
+                <TextView n1:id="@id/item_content" style="@style/card_Scroll_view_txt_style" />
+                <TextView n1:textColor="@color/common_pop_layer_black" n1:id="@id/item_memo" n1:layout_width="fill_parent" style="@style/card_Scroll_view_txt_style" />
+            </LinearLayout>
+        </com.sogou.map.android.maps.widget.DefineMaxHeightScroolView>
+    </com.sogou.map.android.maps.widget.CommonCardFrame>
+    <ImageView n1:id="@id/water_mark" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginRight="@dimen/map_logo_right_margin" n1:layout_marginBottom="@dimen/map_logo_bottom_margin" n1:src="@drawable/watermark" n1:layout_above="@id/item_content_card_view" n1:layout_alignParentRight="true" />
+</RelativeLayout>

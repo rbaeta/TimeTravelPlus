@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inštalátor certifikátů</string>
+    <string name="pick_file_title">Vyberte certifikát</string>
+    <string name="pkcs12_password_dialog_title">Extrahovat certifikát</string>
+    <string name="extracting_pkcs12">Extrahování…</string>
+    <string name="pkcs12_file_password_dialog_title">Extahovat z %s</string>
+    <string name="name_credential_dialog_title">Název certifikátu</string>
+    <string name="credential_name">Jméno certifikátu:</string>
+    <string name="credential_password">Zadejte heslo pro extrahování certifikátů.</string>
+    <string name="credential_info">Balíček obsahuje:</string>
+    <string name="p12_description">Certifikáty v knihovně PKCS12.</string>
+    <string name="one_userkey">jeden uživatelský klíč</string>
+    <string name="one_usercrt">jeden uživatelský certifikát</string>
+    <string name="one_cacrt">jeden CA certifikát</string>
+    <string name="n_cacrts">%d CA certifikáty</string>
+    <string name="password_error">Zadejte správné heslo.</string>
+    <string name="password_empty_error">Zadejte heslo.</string>
+    <string name="name_empty_error">Zadejte jméno.</string>
+    <string name="name_char_error">Zadejte název, který obsahuje pouze písmena a čísla.</string>
+    <string name="storage_error">"Certifikát se nepodařilo uložit. Klepnutím na tlačítko OK zkuste zopakovat."</string>
+    <string name="unable_to_save_cert">"Certifikát se nepodařilo uložit. Úložiště pověření není zapnté nebo správně inicializováno."</string>
+    <string name="cert_not_saved">Certifikát není nainstalován.</string>
+    <string name="no_cert_to_saved">Žádný certifikát na instalaci.</string>
+    <string name="invalid_cert">Certifikát je neplatný.</string>
+    <string name="cert_is_added">%s je nainstalován.</string>
+    <string name="cert_too_large_error">"Nelze nainstalovat, protože velikost certifikátu je příliš velká."</string>
+    <string name="cert_missing_error">"Nelze nainstalovat, protože soubor certifikátu nelze najít."</string>
+    <string name="cert_read_error">"Nelze nainstalovat, protože soubor certifikátu nelze číst."</string>
+    <string name="no_cert_file_found">Na kartě SD nenalezen žádný certifikát.</string>
+    <string name="sdcard_not_present">"SD karta není k dispozici."</string>
+    <string name="only_primary_user_allowed">Pouze majitel tohoto zařízení může nainstalovat certifikáty.</string>
+    <string name="credential_usage_label">Použití pověření:</string>
+</resources>

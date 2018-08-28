@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+  <string name="average_text">Ort</string>
+  <string name="menu_item_high_light_scale_factor">0.5</string>
+  <string name="picker_default_positive_text">Doğrula</string>
+  <string name="picker_default_nagetive_text">Kapalı</string>
+  <string name="no_heartrate_data_hint">Nabiz verisi bulunamadı</string>
+  <string name="no_altitude_hint">Rakım verisi bulunamadı</string>
+  <string name="ui_lib_name">Hm_UILib</string>
+  <string name="title_settings">Ayarlar</string>
+  <string name="sport_music_settings">Sport Müzik</string>
+  <string name="locale_title">Dil Seçiniz</string>
+  <string name="app_name">HmTvYardımcısı</string>
+  <string name="tv_title_controller">Tv uzaktan kumanda</string>
+  <string name="tv_use_title">Kullanım</string>
+  <string name="tv_title_searching">Arıyor...</string>
+  <string name="tv_title_choices">Lütfen kontrol etmek istediğiniz cihazı seçiniz</string>
+  <string name="tv_title_unfound">Kontrol edilecek cihaz bulunamadı</string>
+  <string name="tv_search_action_tx">TV yi ara</string>
+  <string name="tv_voice_title">Ses kontrol</string>
+  <string name="tv_foot_search_again">tekrar ara</string>
+  <string name="tv_use_content">Televizyonunuzu telefonunuzla aynı Wifi ağında bulundurun</string>
+  <string name="tv_current_device">Mevcut cihaz</string>
+  <string name="tv_launcher_guide">İpucu: bazı TV ler ve box lar ses fonksiyonnu desteklemez</string>
+  <string name="tv_power_title">Kapat</string>
+  <string name="tv_change_title">Cihazı değiştir</string>
+  <string name="error_bluetooth_title">Bluetooth bağlantısı koptu</string>
+  <string name="error_bluetooth_content">Lütfen telefonla saatinizin bluetooth bağlantısını kontrol edin. </string>
+  <string name="error_wifi_title">Wifi bağlantısı koptu.</string>
+  <string name="error_wifi_content">Lütfen telefonunuzun wifi bağlantısını kontrol edin</string>
+  <string name="error_connect_title">bağlantı hatası</string>
+  <string name="error_connect_content">Wifi ye bağlanılamadı.Lütfen tekrar deneyin</string>
+  <string name="error_device_title">Cihaz bulunamadı.</string>
+  <string name="error_device_content">Lütfen cihazınızın açık olup olmadığından ve aynı WiFi ye bağlı olup olmadığından emin olun.</string>
+  <string name="widget_currentstep_title">Veri merkezi</string>
+  <string name="widget_currentstep_activities">Günlük adım</string>
+  <string name="widget_currentstep_sleep_hour">s</string>
+  <string name="widget_currentstep_sleep_min">dk</string>
+  <string name="widget_currentstep_sleep_title">Dün geceki uyku</string>
+  <string name="widget_currentstep_sleep_no">Uyku verisi yok</string>
+  <string name="widget_currentstep_activity_no">Bu gün egzersiz yok mu? </string>
+</resources>

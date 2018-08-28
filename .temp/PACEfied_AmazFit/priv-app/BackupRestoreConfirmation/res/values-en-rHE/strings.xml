@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">גיבוי מלא</string>
+    <string name="restore_confirm_title">שחזור מלא</string>
+    <string name="backup_confirm_text">"התבקש גיבוי מלא של כל הנתונים למחשב שולחני המחובר. האם ברצונך לאפשר זאת??
+
+אם לא ביקשת את הגיבוי, אל תאפשר לפעולה להמשיך."</string>
+    <string name="allow_backup_button_label">גבה את הנתונים שלי</string>
+    <string name="deny_backup_button_label">אל תגבה</string>
+    <string name="restore_confirm_text">"התבקש שחזור מלא של כל הנתונים מהמחשב השולחני המחובר. האם ברצונך לאפשר זאת??
+
+אם לא ביקשת את השחזור, אל תאפשר לפעולה להמשיך. פעולה זו תחליף את הנתונים הנוכחיים במכשיר!"</string>
+    <string name="allow_restore_button_label">שחזר את הנתונים שלי</string>
+    <string name="deny_restore_button_label">אל תשחזר</string>
+    <string name="current_password_text">הזן את סיסמת הגיבוי הנוכחית שלך למטה:</string>
+    <string name="device_encryption_restore_text">הזן את סיסמת ההצפנה של המכשיר שלך למטה.</string>
+    <string name="device_encryption_backup_text">הזן את סיסמת ההצפנה של המכשיר שלך למטה. זה ישמש גם להצפנת ארכיון הגיבוי.</string>
+    <string name="backup_enc_password_text">הזן סיסמה להצפנת נתוני הגיבוי. אם זה נשאר ריק, הסיסמה הנוכחית שלך תשמש לגיבוי:</string>
+    <string name="backup_enc_password_optional">אם אתה רוצה להצפין את נתוני הגיבוי, הזן סיסמה בהמשך:</string>
+    <string name="backup_enc_password_required">מאחר שהמכשיר שלך מוצפן, אתה נדרש להצפין את הגיבוי שלך. נא להזין את הסיסמה בהמשך:</string>
+    <string name="restore_enc_password_text">אם נתוני השחזור מוצפנים, הזן את הסיסמה בהמשך:</string>
+    <string name="toast_backup_started">מתחיל בגיבוי...</string>
+    <string name="toast_backup_ended">הגיבוי הושלם</string>
+    <string name="toast_restore_started">מתחיל בשחזור...</string>
+    <string name="toast_restore_ended">השחזור הסתיים</string>
+    <string name="toast_timeout">תם זמן שהוקצב לפעולה</string>
+</resources>

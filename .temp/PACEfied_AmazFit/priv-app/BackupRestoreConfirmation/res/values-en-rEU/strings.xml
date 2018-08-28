@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Babeskopia osoa</string>
+    <string name="restore_confirm_title">Leheneratze osoa</string>
+    <string name="backup_confirm_text">"Konektatutako ordenagailu baten datu guztien babeskopia osoa eskatu da. Aktibatu nahi al duzu?
+
+Babeskopia zuk zeuk eskatu ez baduzu, ez utzi eragiketa aurrera egiten."</string>
+    <string name="allow_backup_button_label">Nire datuen babeskopia</string>
+    <string name="deny_backup_button_label">Ez egin babeskopia</string>
+    <string name="restore_confirm_text">"Konektatutako ordenagailu baten datu guztien leheneratze osoa eskatu da. Aktibatu nahi al duzu?
+
+Ez baduzu berreskurapena eskatu, ez ezazu eragiketa aurrera jarraitu. Honek gailuan dagoen edozein datu ordezkatuko du!"</string>
+    <string name="allow_restore_button_label">Berreskuratu nire datuak</string>
+    <string name="deny_restore_button_label">Ez berreskuratu</string>
+    <string name="current_password_text">Sartu hemen zure babeskopiaren pasahitza:</string>
+    <string name="device_encryption_restore_text">Sartu zure gailuaren enkriptatze-pasahitza beherago.</string>
+    <string name="device_encryption_backup_text">Sartu zure gailuaren enkriptatze-pasahitza beherago. Babeskopiaren artxiboa enkriptatzeko ere erabiliko da.</string>
+    <string name="backup_enc_password_text">Sar ezazu datuen babeskopia enkriptatzeko erabilitako pasahitza. Hau hutsik uzten baduzu, zure babeskopiaren pasahitza erabiliko da:</string>
+    <string name="backup_enc_password_optional">Datuen Babeskopia enkriptatu nahi baduzu, sartu pasahitza behean:</string>
+    <string name="backup_enc_password_required">Zure gailua enkriptatuta dagoenez, zure segurtasun kopia enkriptatu behar duzu. Sartu pasahitza behean:</string>
+    <string name="restore_enc_password_text">Datuen berreskurapena enkriptatuta, idatzi pasahitza beherago:</string>
+    <string name="toast_backup_started">Babeskopia hasten...</string>
+    <string name="toast_backup_ended">Babeskopia bukatuta</string>
+    <string name="toast_restore_started">Berreskurapena hasten...</string>
+    <string name="toast_restore_ended">Berreskurapena bukatua</string>
+    <string name="toast_timeout">Operazio denbora amaitua</string>
+</resources>

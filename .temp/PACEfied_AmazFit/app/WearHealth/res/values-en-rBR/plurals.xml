@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="weeklysports_frequency">
+        <item quantity="other">Vezes</item>
+        <item quantity="one">Vez</item>
+    </plurals>
+    <plurals name="weeklysports_step">
+        <item quantity="other">Passos</item>
+        <item quantity="one">Passo</item>
+    </plurals>
+    <plurals name="floor_unit">
+        <item quantity="other">  Andares</item>
+        <item quantity="one">  Andar</item>
+    </plurals>
+</resources>

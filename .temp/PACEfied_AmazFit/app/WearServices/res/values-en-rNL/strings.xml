@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WearSerivce</string>
+    <string name="ble_lost_notification_very_far">Zeer ver</string>
+    <string name="ble_lost_notification_phone_is_not_near">Toestel is niet dichtbij</string>
+    <string name="ble_lost_notification_prevent_lost_remind">Herinnering tegen verlies</string>
+    <string name="ble_lost_notification_disconnect">Verbreek</string>
+    <string name="appid_messages">Boodschappen</string>
+    <string name="appid_wechat">WeChat</string>
+    <string name="appid_qq">QQ</string>
+    <string name="appid_facetime">FaceTime</string>
+    <string name="appid_contacts">Contacten</string>
+    <string name="appid_camera">Camera</string>
+    <string name="appid_videos">Videos</string>
+    <string name="appid_maps">Mappen</string>
+    <string name="appid_calculator">Calculator</string>
+    <string name="appid_photos">Photos</string>
+    <string name="appid_fmf1">Zoek Vrienden</string>
+    <string name="appid_fmip1">Zoek iPhone</string>
+    <string name="appid_preferences">Instellingen</string>
+    <string name="appid_tips">Tips</string>
+    <string name="appid_mobiletimer">Chronometer</string>
+    <string name="appid_compass">Kompas</string>
+    <string name="appid_mobilenotes">Notities</string>
+    <string name="appid_music">Muziek</string>
+    <string name="appid_safari">Safari</string>
+    <string name="appid_voicememos">Spraak memos</string>
+    <string name="appid_health">Gezondheid</string>
+    <string name="appid_bridge">Klok</string>
+    <string name="appid_mobilestore">iTunes Store</string>
+    <string name="appid_itunesu">iTunes U</string>
+    <string name="appid_ibooks">iBooks</string>
+    <string name="appid_stocks">Aandelen</string>
+    <string name="appid_weather">Weerbericht</string>
+    <string name="appid_reminders">Herinneringen</string>
+    <string name="appid_news">Nieuws</string>
+    <string name="appid_gamecenter">Spelcenter</string>
+    <string name="appid_passbook">Paswoord boek</string>
+    <string name="appid_mobilecal">Kalender</string>
+    <string name="appid_appstore">App Store</string>
+    <string name="appid_mobilemail">Mail</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+  <string name="app_name">WearSerivce</string>
+  <string name="ble_lost_notification_very_far">Telefon çok uzakta</string>
+  <string name="ble_lost_notification_phone_is_not_near">Telefon artık yakında değil</string>
+  <string name="ble_lost_notification_prevent_lost_remind">Mobil kayıp önleme</string>
+  <string name="ble_lost_notification_disconnect">Saatin telefonla bağlantısı koptu. </string>
+  <string name="appid_messages">Mesajlar</string>
+  <string name="appid_wechat">WeChat</string>
+  <string name="appid_qq">QQ</string>
+  <string name="appid_facetime">FaceTime</string>
+  <string name="appid_contacts">Kişiler</string>
+  <string name="appid_camera">Kamera</string>
+  <string name="appid_videos">Video</string>
+  <string name="appid_maps">Haritalar</string>
+  <string name="appid_calculator">Hesap Makinesi</string>
+  <string name="appid_photos">Fotolar</string>
+  <string name="appid_fmf1">Arkadaşlarını bul</string>
+  <string name="appid_fmip1">Telefonu bul</string>
+  <string name="appid_preferences">Ayarlar</string>
+  <string name="appid_tips">İpucular</string>
+  <string name="appid_mobiletimer">Saat</string>
+  <string name="appid_compass">Pusula</string>
+  <string name="appid_mobilenotes">Notlar</string>
+  <string name="appid_music">Müzik</string>
+  <string name="appid_safari">Safari</string>
+  <string name="appid_voicememos">Ses Notu</string>
+  <string name="appid_health">Sağlık</string>
+  <string name="appid_bridge">Saat</string>
+  <string name="appid_mobilestore">iTunes Store</string>
+  <string name="appid_itunesu">iTunes U</string>
+  <string name="appid_ibooks">iBooks</string>
+  <string name="appid_stocks">Stok</string>
+  <string name="appid_weather">Hava</string>
+  <string name="appid_reminders">Hatırlatıcılar</string>
+  <string name="appid_news">Haberler</string>
+  <string name="appid_gamecenter">Oyun Merkezi</string>
+  <string name="appid_passbook">Cuzdan</string>
+  <string name="appid_mobilecal">Takvim</string>
+  <string name="appid_appstore">App Store</string>
+  <string name="appid_mobilemail">Mail</string>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<runreminds>
+        <runremind id="0">
+            <runType>Futás</runType>
+            <trainContent>Jog</trainContent>
+            <copyWrite>800m könnyű kocogás + 200m séta. Ajánlott pulzus:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="1">
+            <runType>Futás</runType>
+            <trainContent>Kondicionáló futás</trainContent>
+            <copyWrite>Könnyű kocogás. Ajánlott pulzus:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="2">
+            <runType>Futás</runType>
+            <trainContent>Alap futás</trainContent>
+            <copyWrite>Futás társalgási ütemben. Ajánlott pulzus:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="3">
+            <runType>Futás</runType>
+            <trainContent>Haladó futás</trainContent>
+            <copyWrite>Kezdj lassan és fokozatosan növeld a tempót. Ajánlott pulzus:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="4">
+            <runType>Futás</runType>
+            <trainContent>Fartlek</trainContent>
+            <copyWrite>Szabadon váltott erősségű edzés. Ajánlott pulzus: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="5">
+            <runType>Futás</runType>
+            <trainContent>Hegyi ismétlő</trainContent>
+            <copyWrite>Futás egyenletesen felfelé. Ajánlott pulzus:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="6">
+            <runType>Futás</runType>
+            <trainContent>Tempós futás</trainContent>
+            <copyWrite>Futás normális, állandó ütemben. Ajánlott pulzus:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="7">
+            <runType>Futás</runType>
+            <trainContent>Rövid intervallumok</trainContent>
+            <copyWrite>800m gyors futás + 800m séta, majd ismétlés. Ajánlott pulzus: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="8">
+            <runType>Futás</runType>
+            <trainContent>Hosszú intervallumok</trainContent>
+            <copyWrite>2.4km kocogás + 800m séta, majd ismétlés. Ajánlott pulzus: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="9">
+            <runType>Pihenés</runType>
+            <trainContent></trainContent>
+            <copyWrite>Ma pihenés.%1$d nap a köv. edzésig</copyWrite>
+        </runremind>
+        <runremind id="10">
+            <runType>Úszás</runType>
+            <trainContent></trainContent>
+            <copyWrite>Úszás a sebesség regeneráláshoz. Ne feledd a napot befejezettnek minősíteni úszást követően.</copyWrite>
+        </runremind>
+        <runremind id="11">
+            <runType>Kerékpár</runType>
+            <trainContent></trainContent>
+            <copyWrite>Regeneráló gyorsedzés. Ajánlott pulzus:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+</runreminds>
+
+

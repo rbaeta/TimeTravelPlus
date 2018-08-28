@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sarrera portalera</string>
+    <string name="action_use_network">Sare hau erabili nahi duzu?</string>
+    <string name="action_do_not_use_network">Ezin duzu sare hau erabili</string>
+    <string name="action_bar_label">Hasi sesioa sarean</string>
+</resources>

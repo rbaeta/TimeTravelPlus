@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:orientation="horizontal" android:id="@id/left_container" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="12.0sp" android:textColor="@color/notification_action_delete" android:gravity="center_horizontal" android:layout_gravity="center_vertical" android:id="@id/left_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/action_delete" android:drawableTop="@drawable/lau_notify_btn_delete" android:drawablePadding="2.0dip" />
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="right" android:id="@id/right_content" android:background="@color/notification_action_bg" android:paddingLeft="20.0dip" android:paddingRight="30.0dip" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <TextView android:textSize="12.0sp" android:textColor="@color/notification_action_shield" android:gravity="center_horizontal" android:layout_gravity="center|right" android:id="@id/right_button" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/action_shield" android:drawableTop="@drawable/lau_notify_btn_shield" android:drawablePadding="2.0dip" />
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/content_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="14.599976dip" android:layout_marginBottom="14.599976dip">
+        <LinearLayout android:orientation="horizontal" android:paddingLeft="28.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.huami.watch.launcher.messagelist.RedBadgeView android:layout_gravity="top" android:id="@id/message_badge_view" android:layout_width="@dimen/notification_badge_view_width" android:layout_height="wrap_content" android:layout_marginTop="2.0px">
+                <ImageView android:layout_gravity="center_vertical" android:id="@id/message_icon" android:layout_width="@dimen/notification_summary_icon_width" android:layout_height="@dimen/notification_summary_icon_height" android:src="@drawable/lau_notify_icon_default" />
+            </com.huami.watch.launcher.messagelist.RedBadgeView>
+            <LinearLayout android:layout_gravity="top" android:orientation="vertical" android:id="@id/content_header" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:textSize="10.0dip" android:textColor="@color/notification_summary_time_color" android:id="@id/message_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:text="@string/air_lightly_polluted" android:includeFontPadding="false" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                    <TextView android:textSize="12.0dip" android:textColor="@color/notification_summary_title_color" android:ellipsize="end" android:id="@id/message_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/action_working" android:maxLines="1" android:includeFontPadding="false" android:layout_toLeftOf="@id/message_time" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+                </RelativeLayout>
+                <TextView android:textSize="14.0dip" android:textColor="@color/notification_summary_content_color" android:ellipsize="end" android:id="@id/message_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:text="@string/fetch_failed_msg" android:maxLines="1" android:lineSpacingExtra="@dimen/notification_detail_content_linespace_size" />
+            </LinearLayout>
+        </LinearLayout>
+        <include android:layout_gravity="center_horizontal" android:id="@id/notification_click_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="28.0dip" android:layout_marginTop="11.0dip" android:layout_marginRight="28.0dip" layout="@layout/notification_rom_update_click_view" />
+    </LinearLayout>
+</FrameLayout>

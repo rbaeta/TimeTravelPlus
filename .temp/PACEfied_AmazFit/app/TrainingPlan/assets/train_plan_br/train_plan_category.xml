@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trainplans>
+        <trainplan id="1">
+            <title>Iniciante</title>
+            <type>1</type>
+            <orderId>1</orderId>
+            <copyWrite>Adequado para a primeira corrida de caminhar para correr. Este treino pode ajudar você a se adaptar à corrida pouco a pouco.</copyWrite>
+            <totalLength>85.6</totalLength>
+            <totalDays>56</totalDays>
+        </trainplan>
+        <trainplan id="2">
+            <title>5 km</title>
+            <type>2</type>
+            <orderId>2</orderId>
+            <totalLength>148</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Adequado para corredores iniciantes. Este treino pode ajudar você a se movimentar melhor.</copyWrite>
+        </trainplan>
+        <trainplan id="3">
+            <title>10 km</title>
+            <type>3</type>
+            <orderId>3</orderId>
+            <totalLength>212</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Adequando para corredores experientes. Este treino ajuda a melhorar sua aptidão aeróbica e força muscular.</copyWrite>
+        </trainplan>
+        <trainplan id="4">
+            <title>Meia maratona</title>
+            <type>4</type>
+            <orderId>4</orderId>
+            <totalLength>307.4</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Adequado para meio maratonistas. Ajuda a melhorar sua capacidade de correr longas distâncias.</copyWrite>
+        </trainplan>
+        <trainplan id="5">
+            <title>Maratona</title>
+            <type>5</type>
+            <orderId>5</orderId>
+            <totalLength>436.0</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Adequado para todas as corridas. Ajuda você a prever seu desempenho e planejar seu ritmo e traçar uma estratégia.</copyWrite>
+        </trainplan>
+</trainplans>

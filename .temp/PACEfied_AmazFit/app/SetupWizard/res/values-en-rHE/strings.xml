@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">אשף התקנה</string>
+    <string name="locale_title">בחר שפה</string>
+    <string name="lang_zh_cn">סינית (פשוטה)</string>
+    <string name="lang_en_us">אנגלית (ארה\"ב)</string>
+    <string name="tip_install_wear_companion">"נא להתקין את היישום \"Amazfit Watch\" בטלפון שלך"</string>
+    <string name="tip_low_battery">פחות מ 5% סוללה, נא לחבר לחשמל כדי להמשיך</string>
+    <string name="pair_scan_qr">"סרוק את קוד ה QR בעזרת היישום \"Amazfit Watch\""</string>
+    <string name="pair_skip">דלג</string>
+    <string name="tip_pair_skip">חלק מהתכונות יושבתו, המשך?</string>
+    <string name="tip_restoring">משחזר</string>
+    <string name="tip_binding_failed">ההתאמה נכשלה</string>
+    <string name="tip_binding_failed_restart">מנותק, אנא נסה שנית</string>
+    <string name="tip_no_bluetooth_adapter">שגיאת Bluetooth</string>
+    <string name="tip_wear_hand">"על איזו יד תרצו לענות את השעון?"</string>
+</resources>

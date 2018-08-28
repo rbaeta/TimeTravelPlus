@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <objectAnimator n1:interpolator="@interpolator/generic_confirmation_animation_interpolator_2" n1:duration="400" n1:pathData="M 40,33.5 c 0.0,0.18153 0.0,11.31822 0.0,13.09601 c 0.0,0.75592 0.0,-6.96322 0.0,-6.88601" n1:propertyXName="translateX" n1:propertyYName="translateY"
+      xmlns:n1="http://schemas.android.com/apk/res/android" />
+    <set n2:ordering="sequentially"
+      xmlns:n2="http://schemas.android.com/apk/res/android">
+        <objectAnimator n2:interpolator="@android:interpolator/fast_out_slow_in" n2:duration="400" n2:valueFrom="0.3" n2:valueTo="1" n2:valueType="floatType" n2:propertyName="scaleX" />
+        <objectAnimator n2:interpolator="@interpolator/generic_confirmation_animation_interpolator_3" n2:duration="233" n2:valueFrom="1" n2:valueTo="1" n2:valueType="floatType" n2:propertyName="scaleX" />
+        <objectAnimator n2:interpolator="@android:interpolator/fast_out_slow_in" n2:duration="266" n2:valueFrom="1" n2:valueTo="0.92" n2:valueType="floatType" n2:propertyName="scaleX" />
+    </set>
+    <set n3:ordering="sequentially"
+      xmlns:n3="http://schemas.android.com/apk/res/android">
+        <objectAnimator n3:interpolator="@android:interpolator/fast_out_slow_in" n3:duration="400" n3:valueFrom="0.3" n3:valueTo="1" n3:valueType="floatType" n3:propertyName="scaleY" />
+        <objectAnimator n3:interpolator="@interpolator/generic_confirmation_animation_interpolator_3" n3:duration="233" n3:valueFrom="1" n3:valueTo="1" n3:valueType="floatType" n3:propertyName="scaleY" />
+        <objectAnimator n3:interpolator="@android:interpolator/fast_out_slow_in" n3:duration="266" n3:valueFrom="1" n3:valueTo="0.92" n3:valueType="floatType" n3:propertyName="scaleY" />
+    </set>
+    <objectAnimator n4:interpolator="@android:interpolator/fast_out_slow_in" n4:duration="400" n4:valueFrom="65.0" n4:valueTo="0.0" n4:valueType="floatType" n4:propertyName="rotation"
+      xmlns:n4="http://schemas.android.com/apk/res/android" />
+</set>

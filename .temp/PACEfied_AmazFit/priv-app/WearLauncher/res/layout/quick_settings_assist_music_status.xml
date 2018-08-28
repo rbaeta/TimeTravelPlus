@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/top_icon" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+        <ImageView android:id="@id/music_soft_icon" android:layout_width="38.0dip" android:layout_height="38.0dip" android:layout_marginTop="10.0dip" android:src="@drawable/lan_assist_music_controll_icon" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/info_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_below="@id/top_icon">
+        <com.huami.watch.view.MarTextView android:textSize="@dimen/assist_music_title_text" android:textColor="@color/primary_text_dark" android:ellipsize="marquee" android:id="@id/music_title" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/music_title" android:scrollHorizontally="true" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" android:paddingStart="30.0dip" android:paddingEnd="20.0dip" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/author_and_state_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/info_layout">
+        <LinearLayout android:orientation="horizontal" android:id="@id/state_play_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip">
+            <TextView android:textSize="@dimen/assist_music_author_text" android:textColor="@color/primary_text_dark" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/music_author" android:layout_width="@dimen/assist_music_author_width" android:layout_height="wrap_content" android:text="@string/music_author" android:maxLines="1" android:maxEms="6" android:layout_marginStart="30.0dip" />
+            <TextView android:textSize="@dimen/assist_music_state_text" android:textColor="@color/primary_text_dark" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/music_status" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/music_stop_status" android:maxLines="1" android:maxEms="4" android:layout_marginStart="20.0dip" />
+        </LinearLayout>
+        <TextView android:textSize="@dimen/assist_music_author_text" android:textColor="@color/primary_text_dark" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/state_connecting_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="@string/music_bulethooth_disconnect" android:maxLines="1" android:maxEms="10" android:layout_marginStart="30.0dip" />
+    </FrameLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/controller_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_below="@id/author_and_state_layout">
+        <com.huami.watch.common.widget.HmHaloButton android:id="@id/previous_btn" android:background="@drawable/music_control_btn_prev" android:layout_width="25.0dip" android:layout_height="25.0dip" android:layout_marginEnd="30.0dip" />
+        <com.huami.watch.common.widget.HmHaloButton android:id="@id/play_pause_btn" android:background="@drawable/music_control_btn_play" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <com.huami.watch.common.widget.HmHaloButton android:id="@id/next_btn" android:background="@drawable/music_control_btn_next" android:layout_width="25.0dip" android:layout_height="25.0dip" android:layout_marginStart="30.0dip" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_below="@id/controller_layout">
+        <com.huami.watch.common.widget.HmHaloButton android:id="@id/minute_volume_btn" android:background="@drawable/music_control_sound_minus" android:layout_width="25.0dip" android:layout_height="25.0dip" android:layout_marginStart="30.0dip" android:layout_marginEnd="10.0dip" />
+        <ProgressBar android:id="@id/progress_bar" android:layout_width="68.0dip" android:layout_height="5.0dip" android:max="100" android:progressDrawable="@drawable/music_sound_progress" style="?android:attr/progressBarStyleHorizontal" />
+        <com.huami.watch.common.widget.HmHaloButton android:id="@id/plus_volume_btn" android:background="@drawable/music_control_sound_plus" android:layout_width="25.0dip" android:layout_height="25.0dip" android:layout_marginStart="10.0dip" android:layout_marginEnd="30.0dip" />
+    </LinearLayout>
+</RelativeLayout>

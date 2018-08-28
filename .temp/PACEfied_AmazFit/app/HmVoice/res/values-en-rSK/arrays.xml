@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="miot_supported">
+        <item>osviežovač vzduchu</item>
+        <item>adaptér</item>
+        <item>lampa</item>
+    </string-array>
+    <string-array name="weekly_date">
+        <item>Pondelok</item>
+        <item>Utorok</item>
+        <item>Streda</item>
+        <item>Štvrtok</item>
+        <item>Piatok</item>
+        <item>Sobota</item>
+        <item>Nedeľa</item>
+    </string-array>
+</resources>

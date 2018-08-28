@@ -1,0 +1,7 @@
+#!/system/bin/sh
+if [ `busybox id -u` -ne 0 ]; then busybox echo "Must be root!"; exit 1; fi
+busybox echo "Remounting system partition"
+busybox mount /system -o remount,rw
+busybox cp /system/fonts/DroidSansFallback.orig.ttf /system/fonts/DroidSansFallback.ttf
+busybox echo "Restarting watch"
+reboot

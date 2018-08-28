@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <RelativeLayout n1:id="@id/pop_view" n1:visibility="gone" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_alignParentBottom="true">
+        <com.sogou.map.android.maps.widget.SubCommonCardFrame n1:id="@id/card_view" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="@dimen/common_card_bottom" n1:layout_marginRight="@dimen/common_card_bottom" n1:layout_marginBottom="@dimen/common_card_bottom">
+            <LinearLayout n1:orientation="horizontal" n1:id="@id/PopLayerLayout" n1:layout_width="fill_parent" n1:layout_height="wrap_content" />
+        </com.sogou.map.android.maps.widget.SubCommonCardFrame>
+        <ImageView n1:id="@id/water_mark" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:src="@drawable/watermark" n1:layout_above="@id/card_view" n1:layout_marginEnd="@dimen/map_logo_right_margin" n1:layout_alignParentEnd="true" />
+    </RelativeLayout>
+</RelativeLayout>

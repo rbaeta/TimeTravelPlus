@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HmSmartHome</string>
+    <string name="average_text">ממוצע</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">אשר</string>
+    <string name="picker_default_nagetive_text">כבוי</string>
+    <string name="no_heartrate_data_hint">נתוני קצב הלב לא זוהו</string>
+    <string name="no_altitude_hint">נתוני גובה לא אותרו</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">הגדרות</string>
+    <string name="sport_music_settings">מוסיקת ספורט</string>
+    <string name="mihome_widget_title">Mi Home</string>
+    <string name="mihome_widget_info_unbind">התאמה עם אפליקציית Mi Home, השעון הזה יכול לשלוט בהתקני Mi תואמים; אל תצא בעת ההתאמה</string>
+    <string name="mihome_widget_info_no_devices">ב-Mi Home, הוסף מכשירי Mi שאתה רוצה לשלוט עם השעון </string>
+    <string name="mihome_activity_title_disconnected">לא מחובר</string>
+    <string name="mihome_activity_info_disconnected">התחבר לאפליקציית Mi Home בטלפון באמצעות Bluetooth</string>
+    <string name="mihome_activity_btn_disconnected">התחבר לאפליקציית Mi Home בטלפון באמצעות Bluetooth</string>
+    <string name="mihome_device_card_2_offline">[לא מקוון]</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">מרכז הנתונים</string>
+    <string name="widget_currentstep_activities">צעדים היום</string>
+    <string name="widget_currentstep_sleep_hour">ש</string>
+    <string name="widget_currentstep_sleep_min">ד</string>
+    <string name="widget_currentstep_sleep_title">שינה בלילה האחרון</string>
+    <string name="widget_currentstep_sleep_no">אין נתוני שינה</string>
+    <string name="widget_currentstep_activity_no">אין אימונים היום?</string>
+<!--END of missed texts by Huami-->
+</resources>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+  <string name="backup_confirm_title">Tam yedek al</string>
+  <string name="restore_confirm_title">Tam geri yükleme</string>
+  <string name="backup_confirm_text">" Bilgisayar bağlantısıyla full yedek alınmak isteniyor buna izin veriyor musunuz?" </string>
+  <string name="allow_backup_button_label">Bilgilerimi yedekle</string>
+  <string name="deny_backup_button_label">Yedekleme yapma</string>
+  <string name="restore_confirm_text">"Bağlanılan bilgisayardan cihazınızın full yedeği alınmak isteniyor buna izin veriyor musunuz?" </string>
+  <string name="allow_restore_button_label">Verilerimi geri yükle</string>
+  <string name="deny_restore_button_label">Geri yükleme yapma</string>
+  <string name="current_password_text">Lütfen şu anki yediğinizin şifresini girin:</string>
+  <string name="device_encryption_restore_text">Lütfen cihaz şifreleme şifresini girin:</string>
+  <string name="device_encryption_backup_text">Lütfen cihaz şifreleme şifresini girin. Bu aldığınız yedeği şifreleyecektir. </string>
+  <string name="backup_enc_password_text">Lütfen yediğinizi şifrelemek için şifre girin Eğer boş bırakırsanız şu anki şifreniz kullanılacaktır:</string>
+  <string name="backup_enc_password_optional">Eğer alınan yedeği şifrelemek istiyorsanız bir şifre girin:</string>
+  <string name="backup_enc_password_required">Cihazınız sifrelendiğinden den dolayı yediğinizde şifre girmeniz gerekmektedir. Lütfen aşağıya şifre girin. </string>
+  <string name="restore_enc_password_text">Eğer alınan yedek şifrelenmişse Lütfen aşağıya şifreyi giriniz:</string>
+  <string name="toast_backup_started">Yedek alma işlemi başlıyor... </string>
+  <string name="toast_backup_ended">Yedek alma işlemi bitti.</string>
+  <string name="toast_restore_started">Geri yükleme başlıyor... </string>
+  <string name="toast_restore_ended">Geri yükleme bitti</string>
+  <string name="toast_timeout">İşlem zaman aşımına uğradı</string>
+</resources>

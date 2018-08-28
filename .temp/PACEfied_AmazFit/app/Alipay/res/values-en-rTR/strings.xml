@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+  <string name="app_name">Alipay</string>
+  <string name="confirm_unbind">Tamam Eşleştirmeyi durdur</string>
+  <string name="unbind_warning">Eşleştirme durdurulduktak sonra Alipay artık devredışı kalacak!</string>
+  <string name="bind_my_watch">Saatimi eşleştir</string>
+  <string name="user_hint">Telefonunuzdan Alipay i açıp "Profilim&gt;Ayarlar&gt;Güvenlik ayarları&gt;Akıllı saat" giriş yapın (sürüm 9.3 ve uzeri) </string>
+  <string name="bind_im">Hemen eşleştir</string>
+  <string name="bind_from_qr">Tarama eşleştirme için Alipay uygulamasını kullanın</string>
+  <string name="bind_qr_code">QR kodu eşlestiriliyor</string>
+  <string name="user_hint_title">Kullanıcı istemi</string>
+  <string name="loading">Alipay yükleniyor</string>
+  <string name="title">Saat Alipay</string>
+  <string name="widget_title">Alipay</string>
+  <string name="tip">Telefonunuzdan Alipay i açıp "Ayarlarım&gt;Ayarlar&gt;Güvenlik merkezi&gt;Güvenlik araçları &gt;Akıllı saatler" giriş yapın (sürüm 9.3 ve uzeri) </string>
+  <string name="ios_unsupport_tips">(Alipay eşleşmede IOS desteklenmiyor) </string>
+  <string name="button_start_bind">Eşleşmeyi başlat</string>
+  <string name="bind_usage">Alipay tarama eşleştirmesini kullan</string>
+  <string name="bar_code_tip">Kasiyer ödemeyi aldı</string>
+  <string name="qr_code_tip">Transferleri tarat veya arkadaş ekle</string>
+  <string name="bind_success_title">Eşleştirme başarılı</string>
+  <string name="unbind_tip">Eşleşmeyi sonlandırmak için Telefonunuzdan Alipay uygulamasını kullanın. </string>
+  <string name="button_ok">Tamam</string>
+  <string name="confirm_unbind_title">Eşleştirme sonlanıyor</string>
+  <string name="unbind_alert_message">Eşleştirme sonlanıyor, Alipay fonksiyonu artık devredışı kalacak. Devam edilsin mi? </string>
+  <string name="not_available">Bu özellik geçici olarak devredışı</string>
+  <string name="airplane_mode_tips">Alipay i kullanmak için lütfen uçuş modunu devredışı bırakın. </string>
+  <string name="debug_nickname">
+    </string>
+  <string name="debug_username">
+    </string>
+  <string name="debug_paycode_string">
+    </string>
+</resources>

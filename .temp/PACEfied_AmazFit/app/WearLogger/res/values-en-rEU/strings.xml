@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_item_high_light_scale_factor">0.71</string>
+    <string name="dropbox">dropbox</string>
+    <string name="logcat">logcat</string>
+    <string name="anr_trance">anrtrance</string>
+    <string name="dumpsys">dumpsys</string>
+    <string name="battery">BatteryInfo</string>
+    <string name="bugreport">Bugreport</string>
+    <string name="upload">Igo</string>
+    <string name="dump_sensor">DumpHmSensor</string>
+    <string name="dump">DumpSys</string>
+    <string name="log_path">Logeo Karpeta:</string>
+    <string name="preparing">Reportea sortzen...</string>
+    <string name="collecting">Reportea sortzen...</string>
+    <string name="uploading">Igotzen...</string>
+    <string name="compressing">Reportea sortzen...</string>
+    <string name="upload_finish">Log igoera betea</string>
+    <string name="upload_failed">"Ezin izan da kargatu. Saiatu berriro"</string>
+    <string name="open_wifi_hint">Ireki Wi-Fi-a...</string>
+    <string name="please_keep_wifi_connected">"Mesedez, mantendu erlojua WLANrekin konektatuta"</string>
+    <string name="percent_sign">%</string>
+    <string name="zero">0</string>
+    <string name="has_log_file_message">Oraindik txostenak ez daude kargatuta, kargatu jarraitzeko?</string>
+    <string name="upload_failed_token_title">Ezin izan da kargatu</string>
+    <string name="upload_failed_token_message">Ezin dira akatsen txostenak kargatu. Mesedez konektatu Amazfit aplikazioarekin eta saiatu berriro</string>
+    <string name="re_collecting">Bersortu</string>
+    <string name="continue_upload">Jarraitu kargatzen</string>
+    <string name="alllog">Hartu log guztiak</string>
+    <string name="moreoptions">Aukera gehiago</string>
+    <string name="allupload">Kargatutako guztia</string>
+    <string name="pleass_upload">Ez da log-a kargatu</string>
+    <string name="start_collection">Hasi biltzen</string>
+    <string name="close_wifi_hint">Wi-Fi itxi egin da</string>
+    <string name="open_wifi_before_upload">Konektatu Wi-Fi-a kargatu aurretik</string>
+    <string name="packed_path">Tokiko paketatze bidea:</string>
+    <string name="c_bugreport">Arakatu bugreport</string>
+    <string name="upload_timeout">Kargatze denbora luzeegia, saiatu berriro</string>
+    <string name="uploading_wait">Kargatzen, itxaron mesedez...</string>
+    <string name="collect_logcat">Logcat-aren informazioa biltzen ari da.</string>
+    <string name="collect_dropbox">Dropbox-en informazioa biltzen ari da.</string>
+    <string name="collect_anr">ANR-ren informazioa biltzen ari da.</string>
+    <string name="collect_dumpsys">Dumpsys-en informazioa biltzen ari da</string>
+    <string name="collect_bugreport">Bugreport-en informazioa biltzen ari da</string>
+    <string name="next_upload_message">Errorearen txostena egin da, igo.</string>
+    <string name="please_upload">Errorea behar bezala arakatu da, kargatu.</string>
+    <string name="app_name">Logger</string>
+    <string name="hello_world">Kaixo Mundua!</string>
+    <string name="action_settings">Ezarpenak</string>
+    <string name="watch_ota">Uhr Eguneratu</string>
+    <string name="wifi_disconnect">Mesedez, konektatu Wi-Fi-a aurretik</string>
+    <string name="connect_phone_wifi">Deskonektatu telefonoko Wi-Fi-a</string>
+    <string name="please_update_rom">"Mesedez, eguneratu ROM-a"</string>
+    <string name="connect_phone_input_wifi">"Mesedez, konektatzeko laguntzailean sartu Wi-Fi pasahitza smartwatcherako"</string>
+    <string name="checking_rom">Bertsio berriak egiaztatzea</string>
+    <string name="checking_rom_failed">Sareko konexioak asko iraun du. Saiatu berriro</string>
+    <string name="current_is_new">Azken bertsioa da</string>
+    <string name="has_new_rom">"Bertsio berria detektatu da
+Berritu nahi duzu?"</string>
+    <string name="input_passwor_on_mobile">"%1$s
+Sartu zure pasahitza telefonoan"</string>
+    <string name="processbar_downloading_rom">Deskarga</string>
+    <string name="please_keep_wifi_connect">Mesedez, gorde Wi-Fi konexioa</string>
+    <string name="processbar_downloading_tips">%</string>
+    <string name="processbar_downloading_default">0</string>
+    <string name="download_rom_faild">"Deskargatzeko eguneratze-paketea huts egin du,
+Saiatu berriro"</string>
+    <string name="download_rom_success">"ROM deskarga arrakastatsua izan da, mesedez
+Instalatu"</string>
+    <string name="low_battery_message">"Bertsio-berritze paketea instalatzeko, bateriaren karga %50 baina gehiagokoa izan behar da"</string>
+    <string name="low_battery_title">Jarri bateria kargatzen</string>
+    <string name="progressbar_tips">Egiaztatzen...</string>
+    <string name="progressbar_percent">%1$d%%</string>
+    <string name="low_mem">"Eguneratzeko ez dago beharrezko toki nahikorik, %1$sM behar duzu gutxienez, garbitu memoria aurretik"</string>
+    <string name="update_network_error">"Bertsio berritzearen egiaztapenak huts egin du, 
+mesedez Saiatu berriro geroago"</string>
+    <string name="cancel_download">"Pakete berriaren deskarga,
+Ezeztatu nahi duzu?"</string>
+    <string name="new_rom_please_install">"Sistemaren bertsio berria dago
+Eguneratu"</string>
+    <string name="btn_install_later">Hurrengo gogorarazlea</string>
+    <string name="btn_install_now">Orain instalatuta</string>
+    <string name="wifi_no_password">Enkriptatu</string>
+    <string name="wifi_has_password">Zifratuta dago</string>
+    <string name="wifi_password_error">Pasahitza gaizki dago</string>
+    <string name="wifi_connecting">Konektatzen...</string>
+    <string name="wifi_auth">Egiaztatu pasahitza...</string>
+    <string name="wifi_get_ip">Talde ip helbidea...</string>
+    <string name="wifi_link_fail">Konexioa huts egin du...</string>
+    <string name="wifi_connected">Konektatua</string>
+    <string name="wifi_title">Konektatu Wi-Fi sarera</string>
+    <string name="wifi_wait_password">Pasahitzaren sarrera zain...</string>
+    <string name="toast_please_update_first">Eguneratu lehen</string>
+    <string name="wifi_turnon_going">Ireki Wi-Fi-a</string>
+    <string name="system_update_title">Eguneratzea ondo bete da.</string>
+    <string name="system_update_content">Sistema %1$s bertsiora berritu da</string>
+    <string name="password_error">"%1$s pasahitza ez da zuzena,
+Sartu berriro"</string>
+    <string name="wifi_connect_fail">"Wi-Fi konexioa huts egin du, mesedez
+Konektatu berriro"</string>
+    <string name="searching">Bilatzen...</string>
+    <string name="hasNewUpdateTitle">Sistema eguneratu da</string>
+    <string name="hasNewUpdateContent">%1$s bertsioa instalatu daiteke, instalatu orain?</string>
+</resources>

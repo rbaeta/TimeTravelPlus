@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+  <string name="app_name">HuamiIME</string>
+  <string name="connect_phone">Lütfen Amazfit uygulamasına bağlanın</string>
+  <string name="input_by_phone">Lütfen Amazfit uygulamasından giriş yapın</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/bg_innercircle" android:background="@drawable/shape_inner_bg" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    <ImageView android:id="@id/bg_middlecircle" android:background="@drawable/shape_middle_bg" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    <ImageView android:id="@id/bg_outsidecircle" android:background="@drawable/shape_outer_bg" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    <ImageView android:id="@id/bg_scanner" android:background="@mipmap/handset_img_scan" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

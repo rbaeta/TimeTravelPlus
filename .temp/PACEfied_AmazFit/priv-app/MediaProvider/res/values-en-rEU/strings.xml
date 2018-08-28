@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Media</string>
+    <string name="app_label">Mediako biltegiratzea</string>
+    <string name="upgrade_msg">Media datuen biltegia eguneratzen.</string>
+    <string name="artist_label">Artista</string>
+    <string name="ringtone_default">Tonu lehenetsia</string>
+    <string name="notification_sound_default">Jakinarazpenaren soinu lehenetsia</string>
+    <string name="alarm_sound_default">Alarma soinu lehenetsia</string>
+    <string name="root_images">Irudiak</string>
+    <string name="root_videos">Bideoak</string>
+    <string name="root_audio">Audioak</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Erroreen Txostena gordeta</string>
+    <string name="bugreport_finished_text">Ukitu hemen zure akatsen berri emateko</string>
+    <string name="bugreport_confirm">"Errore-txostenek hainbat sistema-egunkari fitxategiren datuak barne hartzen dituzte, informazio pribatua eta pertsonala barne. Partekatu akatsen berri, aplikazioak eta fidagarriak diren pertsonekin soilik."</string>
+    <string name="bugreport_confirm_repeat">Erakutsi mezu hau hurrengoan</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Méd</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirmar</string>
+    <string name="picker_default_nagetive_text">Desligar</string>
+    <string name="no_heartrate_data_hint">Dados de pulso não detectados</string>
+    <string name="no_altitude_hint">Dados de altitude não detectados</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Configurações</string>
+    <string name="sport_music_settings">Música esportiva</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Selecionar Idioma</string>
+    <string name="app_name">HmTvHelper</string>
+    <string name="tv_title_controller">Controle Mi TV</string>
+    <string name="tv_use_title">Dicas</string>
+    <string name="tv_title_searching">Buscando...</string>
+    <string name="tv_title_choices">Escolha o disp. a controlar</string>
+    <string name="tv_title_unfound">Nenhum disp. encontrado</string>
+    <string name="tv_search_action_tx">Procurar Mi TV</string>
+    <string name="tv_voice_title">Volume</string>
+    <string name="tv_foot_search_again">Buscar de novo</string>
+    <string name="tv_use_content">Deixe sua TV ligada e conectada à mesma rede que o celular</string>
+    <string name="tv_current_device">Disp. Atual</string>
+    <string name="tv_launcher_guide">Dica: Algumas MiTV e MiBox não suportam controle por voz</string>
+    <string name="tv_power_title">Desligar</string>
+    <string name="tv_change_title">Alterar dispositivo</string>
+    <string name="error_bluetooth_title">Bluetooth desconectado</string>
+    <string name="error_bluetooth_content">Virifique a conexão bluetooth entre o relógio e o celular</string>
+    <string name="error_wifi_title">Erro conexão Wi-Fi</string>
+    <string name="error_wifi_content">Verifique a conexão Wi-Fi do seu telefone</string>
+    <string name="error_connect_title">Erro de conexão</string>
+    <string name="error_connect_content">Não é possível se conectar ao Wi-Fi, tente mais tarde.</string>
+    <string name="error_device_title">Não pode encontrar o disp.</string>
+    <string name="error_device_content">Verifique se o disp. está conectado à mesma rede que o celular.</string>
+</resources>

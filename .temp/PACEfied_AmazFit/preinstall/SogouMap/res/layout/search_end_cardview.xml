@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <com.sogou.map.android.maps.widget.SubCommonCardFrame n1:id="@id/end_card_view" style="@style/card_view_style">
+        <com.sogou.map.android.maps.widget.DefineMaxHeightScroolView n1:scrollbars="none" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+            <LinearLayout n1:gravity="center_vertical" n1:orientation="horizontal" n1:id="@id/scrollViewContainer" n1:paddingLeft="@dimen/common_margin_bigger" n1:paddingRight="@dimen/common_margin_big" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_centerInParent="true">
+                <LinearLayout n1:orientation="vertical" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:layout_weight="1.0">
+                    <TextView n1:textSize="@dimen/common_big_textsize" n1:id="@id/end_name" style="@style/card_Scroll_view_txt_style" />
+                    <TextView n1:textColor="@color/common_pop_layer_black" n1:id="@id/end_address" n1:layout_width="fill_parent" style="@style/card_Scroll_view_txt_style" />
+                </LinearLayout>
+                <ImageView n1:id="@id/end_go" n1:layout_width="20.0dip" n1:layout_height="24.0dip" n1:src="@drawable/ic_nav_mode_go_selector" />
+            </LinearLayout>
+        </com.sogou.map.android.maps.widget.DefineMaxHeightScroolView>
+    </com.sogou.map.android.maps.widget.SubCommonCardFrame>
+    <ImageView n1:id="@id/water_mark" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginRight="@dimen/map_logo_right_margin" n1:layout_marginBottom="@dimen/map_logo_bottom_margin" n1:src="@drawable/watermark" n1:layout_above="@id/end_card_view" n1:layout_alignParentRight="true" />
+</RelativeLayout>

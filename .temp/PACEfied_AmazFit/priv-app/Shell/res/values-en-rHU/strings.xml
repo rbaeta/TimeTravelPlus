@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Hibaüzenet</string>
+    <string name="bugreport_finished_text">Érintsd meg a hibaüzenet megosztásához</string>
+    <string name="bugreport_confirm">"A hibaüzenetek a rendszer különböző naplófájljairól származó adatokat tartalmaznak. Ezek magukban foglalják a személyes és a privát információkat is."</string>
+    <string name="bugreport_confirm_repeat">Üzenet megjelenítése legközelebb is</string>
+</resources>

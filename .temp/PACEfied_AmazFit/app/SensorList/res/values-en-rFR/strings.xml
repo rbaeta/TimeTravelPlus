@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SensorData</string>
+    <string name="hello_world">Selectionné:ACC PPG</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="title_activity_sensor_list">SensorListActivity</string>
+    <string name="title_activity_view_list">ViewListActivity</string>
+    <string name="title_activity_graph_list">GraphListActivity</string>
+    <string name="completed">Terminé %1$s</string>
+    <string name="upload_failed">envoi échoué!</string>
+    <string name="upload_success">envoyé avec succès!</string>
+    <string name="uploading">envoi!</string>
+    <string name="no_uploaded_files">Pas de fichiers envoyés!</string>
+    <string name="open_wifi_failed">WiFi échoué!</string>
+    <string name="connect_APP">Connecter l\'APP!</string>
+</resources>

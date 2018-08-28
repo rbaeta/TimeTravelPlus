@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="miot_supported">
+        <item>légfrissítő</item>
+        <item>plug</item>
+        <item>lámpa</item>
+    </string-array>
+    <string-array name="weekly_date">
+        <item>Vas</item>
+        <item>Hét</item>
+        <item>Ke</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pén</item>
+        <item>Szo</item>
+    </string-array>
+</resources>

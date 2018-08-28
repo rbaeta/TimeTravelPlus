@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="localapps">
+        <item>com.huami.watch.launcher</item>
+        <item>com.huami.watch.sport</item>
+    </string-array>
+    <integer-array name="appcolors">
+        <item>0xFF4160F5</item>
+        <item>0xFFF76C00</item>
+    </integer-array>
+    <array name="appload_drawables">
+        <item>-1</item>
+        <item>@drawable/sport_start_loading</item>
+    </array>
+    <string-array name="chatlables">
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.android.mms</item>
+    </string-array>
+    <string-array name="quick_settings_status_week">
+        <item>Dim</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
+        <item>Aujourd\'hui</item>
+    </string-array>
+    <string-array name="quick_settings_status_principleTerm">
+        <item>Grand froid</item>
+        <item>Pluie Forte</item>
+        <item>Equinoxe Printanier</item>
+        <item>Pluie</item>
+        <item>Bourgeons</item>
+        <item>Solstice d\'Eté</item>
+        <item>Très bon</item>
+        <item>Trop chaud</item>
+        <item>Équinoxe d\'Automne</item>
+        <item>Hoar-frost falls</item>
+        <item>Neige légère</item>
+        <item>Solstice d\'Hiver</item>
+    </string-array>
+    <string-array name="quick_settings_status_sectionalTerm">
+        <item>Léger rhume</item>
+        <item>Le printemps commence</item>
+        <item>Les insectes se réveillent</item>
+        <item>Clair et lumineux</item>
+        <item>L\'été commence</item>
+        <item>Grain à l\'oreille</item>
+        <item>Légère chaleur</item>
+        <item>L\'automne commence</item>
+        <item>Les rosées blanches</item>
+        <item>Les froides rosées</item>
+        <item>L\'hiver commence</item>
+        <item>Beaucoup de neige</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseTen">
+        <item>Chu</item>
+        <item>Shi</item>
+        <item>Er</item>
+        <item>San</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseNumber">
+        <item>Yi</item>
+        <item>Er</item>
+        <item>San</item>
+        <item>Si</item>
+        <item>Wu</item>
+        <item>Liu</item>
+        <item>Qi</item>
+        <item>Ba</item>
+        <item>Jiu</item>
+        <item>Shi</item>
+        <item>ShiYi</item>
+        <item>ShiEr</item>
+    </string-array>
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <string-array name="weather_card_aqilevel">
+        <item>Air Excellent</item>
+        <item>Air Correct</item>
+        <item>Pollution Légère</item>
+        <item>Pollution Modérée</item>
+        <item>Pollution Importante</item>
+        <item>Pollution Dangereuse</item>
+        <item></item>
+    </string-array>
+    <string-array name="weather_card_quality">
+        <item>Favorable pour le sport</item>
+        <item>Inapproprié pour le sport</item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_settings_status_weather">
+        <item>Ensoleillé</item>
+        <item>Nuageux</item>
+        <item>Couvert</item>
+        <item>Brouillard</item>
+        <item>Smog</item>
+        <item>Pluie</item>
+        <item>Orageux</item>
+        <item>Pluie Légère</item>
+        <item>Pluie Modérée</item>
+        <item>Pluie Forte</item>
+        <item>Pluie Très Forte</item>
+        <item>Pluie Torrentielle</item>
+        <item>Neige fondue</item>
+        <item>Pluie Verglaçante</item>
+        <item>Hail</item>
+        <item>Neige Légère</item>
+        <item>Neige Modérée</item>
+        <item>Neige Importante</item>
+        <item>Neige très Importante</item>
+        <item>Tempête de Neige</item>
+        <item>Poussière</item>
+        <item>Sableux</item>
+        <item>Sable Important</item>
+        <item>Tempête de sable</item>
+        <item>Pas de données</item>
+    </string-array>
+</resources>

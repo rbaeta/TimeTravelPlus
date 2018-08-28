@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="weeklysports_frequency">
+        <item quantity="one">זמן</item>
+        <item quantity="other">זמנים</item>
+        <item quantity="many"></item>
+        <item quantity="two"></item>
+    </plurals>
+    <plurals name="weeklysports_step">
+        <item quantity="one">צעד</item>
+        <item quantity="other">צעדים</item>
+        <item quantity="many"></item>
+        <item quantity="two"></item>
+    </plurals>
+    <plurals name="floor_unit">
+        <item quantity="one">קומה</item>
+        <item quantity="other">קומות</item>
+        <item quantity="many"></item>
+        <item quantity="two"></item>
+    </plurals>
+</resources>

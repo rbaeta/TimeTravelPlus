@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <ripple n1:color="?android:colorAccent"
+          xmlns:n1="http://schemas.android.com/apk/res/android" />
+    </item>
+    <item>
+        <ripple n2:color="?android:colorControlHighlight"
+          xmlns:n2="http://schemas.android.com/apk/res/android">
+            <item>
+                <shape n2:tint="@color/btn_colored_background_material" n2:shape="oval">
+                    <solid n2:color="@android:color/white" />
+                    <size n2:height="@dimen/diag_button_size" n2:width="@dimen/diag_button_size" />
+                </shape>
+            </item>
+        </ripple>
+    </item>
+</layer-list>

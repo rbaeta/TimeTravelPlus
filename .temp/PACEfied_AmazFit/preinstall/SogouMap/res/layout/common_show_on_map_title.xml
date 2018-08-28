@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <FrameLayout n1:id="@id/main_operation_layout" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_margin="@dimen/common_margin" n1:layout_alignParentRight="true" n1:layout_centerVertical="true">
+        <ImageButton n1:id="@id/HereSearchButton" n1:background="@drawable/main_mic_ico_selector" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+        <ImageButton n1:id="@id/TextInputButton" n1:background="@drawable/common_search_btn_selector" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+    </FrameLayout>
+    <com.sogou.map.android.maps.widget.pager.BTViewPager n1:layout_gravity="center" n1:id="@id/viewpager" n1:visibility="gone" n1:layout_width="fill_parent" n1:layout_height="fill_parent" />
+    <LinearLayout n1:gravity="center" n1:orientation="vertical" n1:id="@id/show_wifi_tip_view" n1:background="@color/black_86p" n1:visibility="gone" n1:layout_width="fill_parent" n1:layout_height="fill_parent">
+        <TextView n1:textColor="@color/white" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginLeft="@dimen/common_poplay_margin" n1:layout_marginRight="@dimen/common_poplay_margin" n1:text="@string/location_open_wifi_tip" />
+        <Button n1:textColor="@color/white" n1:gravity="center" n1:id="@id/hide_tip_btn" n1:background="@drawable/wifi_tip_btn" n1:paddingLeft="30.0dip" n1:paddingTop="10.0dip" n1:paddingRight="30.0dip" n1:paddingBottom="10.0dip" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="知道了" />
+    </LinearLayout>
+    <LinearLayout n1:gravity="center" n1:orientation="vertical" n1:id="@id/guide_view" n1:background="#7f000000" n1:paddingLeft="@dimen/common_dialog_padding_w" n1:paddingRight="@dimen/common_dialog_padding_w" n1:visibility="gone" n1:clickable="true" n1:layout_width="fill_parent" n1:layout_height="fill_parent">
+        <TextView n1:textColor="@color/white" n1:gravity="center" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/guide_text" />
+        <TextView n1:textColor="@color/black" n1:gravity="center" n1:id="@id/guide_button" n1:background="@drawable/card_frame" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="10.0dip" n1:text="@string/guide_button" />
+    </LinearLayout>
+</RelativeLayout>

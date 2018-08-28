@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Vytvorená chybová správa</string>
+    <string name="bugreport_finished_text">Klikutím odošlete túto chybovú správu</string>
+    <string name="bugreport_confirm">"Chybové správy obsahujú dáta z rôznych log súborov systému. Patria sem aj osobné a súkromné informácie. Zdieľajte chybové hlásenia len s aplikáciami a ľuďmi, ktorým dôverujete."</string>
+    <string name="bugreport_confirm_repeat">Zobraziť túto správu aj nabudúce</string>
+</resources>

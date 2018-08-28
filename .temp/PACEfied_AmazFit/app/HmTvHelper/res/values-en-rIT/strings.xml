@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Conferma</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Freq.card. ND</string>
+    <string name="no_altitude_hint">Altitudine ND</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Impostazioni</string>
+    <string name="sport_music_settings">Sports music</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Imposta lingua</string>
+    <string name="app_name">HmTvHelper</string>
+    <string name="tv_title_controller">Telecomando MilletTV</string>
+    <string name="tv_use_title">Suggerimenti</string>
+    <string name="tv_title_searching">Ricerca...</string>
+    <string name="tv_title_choices">Seleziona il dispositivo da controllare</string>
+    <string name="tv_title_unfound">Nessun dispositivo trovato</string>
+    <string name="tv_search_action_tx">Cerca MilletTV</string>
+    <string name="tv_voice_title">Volume</string>
+    <string name="tv_foot_search_again">Nuova ricerca</string>
+    <string name="tv_use_content">Tenere la TV accesa e collegata al telefono via WiFi</string>
+    <string name="tv_current_device">Dispositivo corrente</string>
+    <string name="tv_launcher_guide">Suggerimento: alcune TV e MilletTV box non supportano i comandi vocali</string>
+    <string name="tv_power_title">Spegni</string>
+    <string name="tv_change_title">Attiva il dispositivo</string>
+    <string name="error_bluetooth_title">Bluetooth disattivato</string>
+    <string name="error_bluetooth_content">Controllare collegamento Bluetooth tra orologio e telefono.</string>
+    <string name="error_wifi_title">Connessione WiFi interrotta</string>
+    <string name="error_wifi_content">Controlla la connessione WiFi del telefono.</string>
+    <string name="error_connect_title">Errore di connessione</string>
+    <string name="error_connect_content">Non è possibile connettere il WiFi. Riprova più tardi.</string>
+    <string name="error_device_title">Impossibile trovare il dispositivo</string>
+    <string name="error_device_content">Verificare che il dispositivo sia acceso e collegato alla stessa rete WiFi.</string>
+</resources>

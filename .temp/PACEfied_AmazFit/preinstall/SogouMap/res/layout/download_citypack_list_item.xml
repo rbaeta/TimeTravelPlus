@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sogou.map.android.maps.wearablelist.WearableListItemLayout n1:orientation="vertical" n1:id="@id/wearable_list_item" n1:paddingLeft="@dimen/citypack_page_margin_left" n1:paddingRight="@dimen/citypack_page_margin_left" n1:layout_width="fill_parent" n1:layout_height="wrap_content"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <RelativeLayout n1:id="@id/download_list_layout" n1:background="@drawable/common_bg_selector" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+        <ImageView n1:id="@id/download_list_icon" n1:layout_width="@dimen/citypack_page_icon_wh" n1:layout_height="@dimen/citypack_page_icon_wh" n1:src="@drawable/ic_downloaded" n1:layout_centerVertical="true" />
+        <LinearLayout n1:orientation="vertical" n1:id="@id/text" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginLeft="@dimen/citypack_page_interval" n1:layout_toRightOf="@id/download_list_icon" n1:layout_centerVertical="true">
+            <TextView n1:textSize="@dimen/citypack_page_text_size" n1:textStyle="bold" n1:textColor="@color/black" n1:id="@id/download_list_title" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="下载列表" />
+            <TextView n1:textSize="@dimen/citypack_page_text_size" n1:textColor="@color/black" n1:id="@id/download_list_info" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="10M" />
+        </LinearLayout>
+        <ImageView n1:id="@id/download_list_tip" n1:visibility="invisible" n1:layout_width="5.0dip" n1:layout_height="5.0dip" n1:layout_marginTop="0.0dip" n1:src="@drawable/common_update_circle_tip_shape" n1:layout_toRightOf="@id/text" n1:layout_alignTop="@id/text" />
+    </RelativeLayout>
+</com.sogou.map.android.maps.wearablelist.WearableListItemLayout>

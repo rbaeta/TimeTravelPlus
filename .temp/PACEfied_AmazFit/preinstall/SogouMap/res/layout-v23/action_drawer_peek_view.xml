@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:gravity="center_vertical" n1:layout_gravity="center" n1:orientation="vertical" n1:paddingTop="@dimen/action_drawer_peek_top_padding" n1:layout_width="wrap_content" n1:layout_height="@dimen/action_drawer_peek_view_height"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <ImageView n1:id="@id/wearable_support_action_drawer_peek_action_icon" n1:layout_width="@dimen/peek_view_icon_size" n1:layout_height="@dimen/peek_view_icon_size" n1:tint="?android:colorForeground" />
+    <ImageView n1:id="@id/wearable_support_action_drawer_expand_icon" n1:layout_width="@dimen/peek_view_icon_size" n1:layout_height="@dimen/peek_view_icon_size" n1:layout_marginTop="@dimen/action_drawer_expand_icon_top_margin" n1:src="@drawable/ic_expand_less_white_22" n1:tint="?android:colorForeground" n1:alpha="0.5" />
+</LinearLayout>

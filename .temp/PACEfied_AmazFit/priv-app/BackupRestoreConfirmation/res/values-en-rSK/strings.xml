@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Úplná záloha</string>
+    <string name="restore_confirm_title">Úplné obnovenie</string>
+    <string name="backup_confirm_text">"Bolo vyžiadané úplné zálohovanie všetkých údajov do pripojeného stolného počítača. Chcete to povoliť?
+
+Ak ste nepožiadali o zálohovanie sami, nedovoľte pokračovať v operácii."</string>
+    <string name="allow_backup_button_label">Zálohovať moje údaje</string>
+    <string name="deny_backup_button_label">Nezálohovať</string>
+    <string name="restore_confirm_text">"Bolo vyžiadané úlné obnovenie všetkých údajov z pripojeného stolového počítača. Chcete to povoliť?
+
+Ak ste nepožiadali o obnovenie sami, nedovoľte pokračovať v operácii. Tým sa nahradia všetky údaje aktuálne na zariadení!"</string>
+    <string name="allow_restore_button_label">Obnoviť moje údaje</string>
+    <string name="deny_restore_button_label">Neobnoviť</string>
+    <string name="current_password_text">Nižšie zadajte aktuálne heslo zálohovania:</string>
+    <string name="device_encryption_restore_text">Nižšie zadajte heslo šifrovania zariadenia.</string>
+    <string name="device_encryption_backup_text">Nižšie zadajte heslo šifrovania zariadenia. Toto sa tiež použije na zašifrovanie archívu záloh.</string>
+    <string name="backup_enc_password_text">Zadajte heslo, ktoré chcete použiť na šifrovanie plných zálohovaných údajov. Ak zostane prázdne, použije sa vaše súčasné heslo zálohy:</string>
+    <string name="backup_enc_password_optional">Ak chcete zašifrovať úplné zálohované údaje, zadajte heslo nižšie:</string>
+    <string name="backup_enc_password_required">Keďže je vaše zariadenie šifrované, musíte šifrovať zálohu. Zadajte heslo nižšie:</string>
+    <string name="restore_enc_password_text">Ak sú údaje o obnovení zašifrované, zadajte heslo nižšie:</string>
+    <string name="toast_backup_started">Spúšťanie zálohovania...</string>
+    <string name="toast_backup_ended">Zálohovanie ukončené</string>
+    <string name="toast_restore_started">Spúšťanie obnovovania...</string>
+    <string name="toast_restore_ended">Obnovenie ukončené</string>
+    <string name="toast_timeout">Časový limit vypršal</string>
+</resources>

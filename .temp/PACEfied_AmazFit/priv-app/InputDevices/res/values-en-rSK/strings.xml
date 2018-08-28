@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Vstupné zariadenia</string>
+    <string name="keyboard_layouts_label">Android klávesnica</string>
+    <string name="keyboard_layout_english_uk_label">Anglicky (UK)</string>
+    <string name="keyboard_layout_english_us_label">Anglicky (US)</string>
+    <string name="keyboard_layout_english_us_intl">Anglicky (US), Medzinárodná</string>
+    <string name="keyboard_layout_english_us_colemak_label">Anglicky (US), Colemak</string>
+    <string name="keyboard_layout_english_us_dvorak_label">Anglicky (US), Dvořák</string>
+    <string name="keyboard_layout_german_label">Nemecky</string>
+    <string name="keyboard_layout_french_label">Francúzsky</string>
+    <string name="keyboard_layout_french_ca_label">Francúzsky (Kanada)</string>
+    <string name="keyboard_layout_russian_label">Rusky</string>
+    <string name="keyboard_layout_russian_mac_label">Rusky Mac</string>
+    <string name="keyboard_layout_spanish_label">Španielsky</string>
+    <string name="keyboard_layout_swiss_french_label">Švajčiarsky Francúzština</string>
+    <string name="keyboard_layout_swiss_german_label">Švajčiarsky Nemčina</string>
+    <string name="keyboard_layout_belgian">Belgicky</string>
+    <string name="keyboard_layout_bulgarian">Bulharsky</string>
+    <string name="keyboard_layout_italian">Talianksy</string>
+    <string name="keyboard_layout_danish">Dánsky</string>
+    <string name="keyboard_layout_norwegian">Nórsky</string>
+    <string name="keyboard_layout_swedish">Svédsky</string>
+    <string name="keyboard_layout_finnish">Fínsky</string>
+    <string name="keyboard_layout_croatian">Chorvátsky</string>
+    <string name="keyboard_layout_czech">Česky</string>
+    <string name="keyboard_layout_estonian">Estónsky</string>
+    <string name="keyboard_layout_hungarian">Maďarsky</string>
+    <string name="keyboard_layout_icelandic">Islandsky</string>
+    <string name="keyboard_layout_brazilian">Brazílsky</string>
+    <string name="keyboard_layout_portuguese">Portugalsky</string>
+    <string name="keyboard_layout_slovak">Slovensky</string>
+    <string name="keyboard_layout_slovenian">Slovinsky</string>
+    <string name="keyboard_layout_turkish">Turecky</string>
+    <string name="keyboard_layout_ukrainian">Ukrajinsky</string>
+    <string name="keyboard_layout_arabic">Arabsky</string>
+    <string name="keyboard_layout_greek">Grécky</string>
+    <string name="keyboard_layout_hebrew">Hebrejsky</string>
+    <string name="keyboard_layout_lithuanian">Litovsky</string>
+    <string name="keyboard_layout_spanish_latin">Spanielsky (Latinčina)</string>
+    <string name="keyboard_layout_latvian">Lotyšsky</string>
+</resources>

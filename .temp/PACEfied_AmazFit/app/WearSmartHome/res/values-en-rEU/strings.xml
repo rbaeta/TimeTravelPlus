@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HmSmartHome</string>
+    <string name="average_text">Batazbestekoa</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Baieztatu</string>
+    <string name="picker_default_nagetive_text">Itzali</string>
+    <string name="no_heartrate_data_hint">Taupaden maiztasuna ez da antzeman</string>
+    <string name="no_altitude_hint">Altitude datuak ez dira antzeman</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Ezarpenak</string>
+    <string name="sport_music_settings">Kiroleraki Musika</string>
+    <string name="mihome_widget_title">Mi Casa</string>
+    <string name="mihome_widget_info_unbind">Ez utzi orri hau erlojua beste gailu batzuekin kontrolatzen denean, Mi APP-rekin sinkronizatu ondoren, batu egingo dira</string>
+    <string name="mihome_widget_info_no_devices">Mi Home App-ra gehitu, nahi ahal duzu erloju honek Mi-ren gailu bat kontrola dezan?</string>
+    <string name="mihome_activity_title_disconnected">Deskonektatua</string>
+    <string name="mihome_activity_info_disconnected">Mesedez, konektatu telefonoa ala Bluetooth-a</string>
+    <string name="mihome_activity_btn_disconnected">Mesedez, konektatu telefonoa ala Bluetooth-a</string>
+    <string name="mihome_device_card_2_offline">[Lineaz kanpo]</string>
+    <string name="widget_currentstep_title">Datu zentroa</string>
+    <string name="widget_currentstep_activities">Eguneroko jarduera</string>
+    <string name="widget_currentstep_sleep_hour">o</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Bart gauean</string>
+    <string name="widget_currentstep_sleep_no">Loaren daturik gabe</string>
+    <string name="widget_currentstep_activity_no">Gaur ez duzu ariketarik egingo?</string>
+</resources>

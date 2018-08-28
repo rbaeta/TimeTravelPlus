@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Mediá</string>
+    <string name="app_label">Úložisko médií</string>
+    <string name="upgrade_msg">Aktualizácia databázy médií.</string>
+    <string name="artist_label">Umelec</string>
+    <string name="ringtone_default">Predvolený zvuk</string>
+    <string name="notification_sound_default">Predvolený zvuk upozornenia</string>
+    <string name="alarm_sound_default">Predvolený zvuk budíka</string>
+    <string name="root_images">Obrázky</string>
+    <string name="root_videos">Videá</string>
+    <string name="root_audio">Zvuky</string>
+</resources>

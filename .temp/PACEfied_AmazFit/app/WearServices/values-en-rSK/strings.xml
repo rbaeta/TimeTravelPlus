@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appid_messages">Správy</string>
+    <string name="appid_wechat">WeChat</string>
+    <string name="appid_qq">QQ</string>
+    <string name="appid_facetime">FaceTime</string>
+    <string name="appid_contacts">Kontakty</string>
+    <string name="appid_camera">Fotoaparát</string>
+    <string name="appid_videos">Videá</string>
+    <string name="appid_maps">Mapy</string>
+    <string name="appid_calculator">Kalkulačka</string>
+    <string name="appid_photos">Fotografie</string>
+    <string name="appid_fmf1">Nájsť priateľov</string>
+    <string name="appid_fmip1">Nájsť iPhone</string>
+    <string name="appid_preferences">Nastavenia</string>
+    <string name="appid_tips">Tipy</string>
+    <string name="appid_mobiletimer">Čas</string>
+    <string name="appid_compass">Kompas</string>
+    <string name="appid_mobilenotes">Poznámky</string>
+    <string name="appid_music">Hudba</string>
+    <string name="appid_safari">Safari</string>
+    <string name="appid_voicememos">Diktafón</string>
+    <string name="appid_health">Zdravie</string>
+    <string name="appid_bridge">Hodinky</string>
+    <string name="appid_mobilestore">Obchod iTunes </string>
+    <string name="appid_itunesu">iTunes U</string>
+    <string name="appid_ibooks">iBooks</string>
+    <string name="appid_stocks">Stocks</string>
+    <string name="appid_weather">Počasie</string>
+    <string name="appid_reminders">Pripomienky</string>
+    <string name="appid_news">Novinky</string>
+    <string name="appid_gamecenter">Centrum hier</string>
+    <string name="appid_passbook">Peňaženka</string>
+    <string name="appid_mobilecal">Kalendár</string>
+    <string name="appid_appstore">Obchod s apl.</string>
+    <string name="appid_mobilemail">Pošta</string>
+</resources>

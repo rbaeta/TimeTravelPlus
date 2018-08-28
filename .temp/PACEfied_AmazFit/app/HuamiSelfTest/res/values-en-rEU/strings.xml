@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Eginda</string>
+    <string name="abc_action_bar_home_description">Asierara itzuli</string>
+    <string name="abc_action_bar_up_description">Gorantza nabigatu</string>
+    <string name="abc_action_menu_overflow_description">Aukera gehiago</string>
+    <string name="abc_toolbar_collapse_description">Akatsa</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Bilaketa</string>
+    <string name="abc_search_hint">Bilaketa</string>
+    <string name="abc_searchview_description_query">Bilaketa burutzen</string>
+    <string name="abc_searchview_description_clear">Kontsulta ezabatu</string>
+    <string name="abc_searchview_description_submit">Kontsulta bidali</string>
+    <string name="abc_searchview_description_voice">Ahots bidezko bilaketa</string>
+    <string name="abc_activitychooserview_choose_application">App bat aukeratu</string>
+    <string name="abc_activity_chooser_view_see_all">Ikusi dena</string>
+    <string name="abc_shareactionprovider_share_with_application">%s-rekin elkarbanatu</string>
+    <string name="abc_shareactionprovider_share_with">-rekin elkarbanatu</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="app_name">Auto-Test</string>
+    <string name="action_settings">Azarpenak</string>
+    <string name="section_format">Sekzioko kaixo mundua: %1$d</string>
+    <string name="btn_cancel">X</string>
+    <string name="btn_ok">OK</string>
+    <string name="prev_item">en</string>
+    <string name="next_item">Hurrengoa</string>
+    <string name="retest">Saiatu berriro</string>
+    <string name="start_ppg">Hasiera</string>
+    <string name="start_all">Dena hasierazi</string>
+    <string name="mic">Mikrofonoa</string>
+    <string name="start">Hasi</string>
+    <string name="start_gps_test">GPS testa hasi</string>
+    <string name="test_vibrator">Motorearen bibrazioa (Sakatu berriro ezeztatu botoian)</string>
+    <string name="test_tp">Ukipen-pantailaren froga</string>
+</resources>

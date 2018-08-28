@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SensorData</string>
+    <string name="hello_world">Geselecteerd:ACC PPG</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="title_activity_sensor_list">SensorListActivity</string>
+    <string name="title_activity_view_list">ViewListActivity</string>
+    <string name="title_activity_graph_list">GraphListActivity</string>
+    <string name="completed">Voltooid %1$s</string>
+    <string name="upload_failed">upload mislukt!</string>
+    <string name="upload_success">upload succes!</string>
+    <string name="uploading">aan het uploaden!</string>
+    <string name="no_uploaded_files">Geen geüploade bestanden!</string>
+    <string name="open_wifi_failed">openen wifi mislukt!</string>
+    <string name="connect_APP">Verbind APP!</string>
+</resources>

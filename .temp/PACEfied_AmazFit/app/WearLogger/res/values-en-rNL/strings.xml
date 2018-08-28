@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_item_high_light_scale_factor">0.71</string>
+    <string name="dropbox">dropbox</string>
+    <string name="logcat">logcat</string>
+    <string name="anr_trance">anrtrance</string>
+    <string name="dumpsys">dumpsys</string>
+    <string name="battery">BatteryInfo</string>
+    <string name="bugreport">Bugreport</string>
+    <string name="upload">Upload</string>
+    <string name="dump_sensor">DumpHmSensor</string>
+    <string name="dump">DumpSys</string>
+    <string name="log_path">Log Path:</string>
+    <string name="preparing">Rapport aanmaken...</string>
+    <string name="collecting">Rapport aanmaken...</string>
+    <string name="uploading">Uploaden...</string>
+    <string name="compressing">Rapport aanmaken...</string>
+    <string name="upload_finish">Log verzenden voltooid</string>
+    <string name="upload_failed">"verzenden mislukt,
+probeer opnieuw"</string>
+    <string name="open_wifi_hint">Wi-Fi openen...</string>
+    <string name="please_keep_wifi_connected">"Houd de horloge verbonden met Wi-Fi"</string>
+    <string name="percent_sign">%</string>
+    <string name="zero">0</string>
+    <string name="has_log_file_message">Er zijn niet-verzenden foutmeldingen, blijven verzenden?</string>
+    <string name="upload_failed_token_title">Uploaden mislukt</string>
+    <string name="upload_failed_token_message">Kan geen foutrapporten verzenden. Maak verbinding met de Amazfit Watch-app en probeer het opnieuw</string>
+    <string name="re_collecting">Opnieuw genereren</string>
+    <string name="continue_upload">Hervat verzenden</string>
+    <string name="alllog">Alle logs</string>
+    <string name="moreoptions">Meer opties</string>
+    <string name="allupload">Alles verzenden</string>
+    <string name="pleass_upload">Bedankt om te verzenden</string>
+    <string name="start_collection">Verzamelen gestart</string>
+    <string name="close_wifi_hint">Wi-Fi verbroken</string>
+    <string name="open_wifi_before_upload">Maak verbinding met Wi-Fi voordat u gaat downloaden</string>
+    <string name="packed_path">Lokaal pakketpad:</string>
+    <string name="c_bugreport">foutenrapport</string>
+    <string name="upload_timeout">time-out tijdens verzenden</string>
+    <string name="uploading_wait">aan het verzenden...</string>
+    <string name="collect_logcat">We verzamelen logcat-info</string>
+    <string name="collect_dropbox">We verzamelen dropbox</string>
+    <string name="collect_anr">We verzamelen ANR</string>
+    <string name="collect_dumpsys">We verzamelen dumpsys</string>
+    <string name="collect_bugreport">We verzamelen foutenrapport</string>
+    <string name="next_upload_message">Foutenrapport aangemaakt, bedankt voor het versturen</string>
+    <string name="please_upload">Verzenden aub</string>
+    <string name="app_name">Logger</string>
+    <string name="hello_world">Hallo wereld!</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="watch_ota">Horloge bijwerken</string>
+    <string name="wifi_disconnect">WiFi verbroken</string>
+    <string name="connect_phone_wifi">Verbinden met telefoon via WiFi</string>
+    <string name="please_update_rom">"ROM vernieuwen aub"</string>
+    <string name="connect_phone_input_wifi">"Maak verbinding met wifi via de telefoon"</string>
+    <string name="checking_rom">Verificatie van een nieuwe versie</string>
+    <string name="checking_rom_failed">Verificatie van een nieuwe versie mislukt</string>
+    <string name="current_is_new">Nieuwste ROM reeds aanwezig</string>
+    <string name="has_new_rom">"Controleren of er een nieuwe ROM versie is?"</string>
+    <string name="input_passwor_on_mobile">"%1$s
+Zet een wachtwoord op de telefoon"</string>
+    <string name="processbar_downloading_rom">Downloaden</string>
+    <string name="please_keep_wifi_connect">Blijf verbonden met Wi-Fi</string>
+    <string name="processbar_downloading_tips">%</string>
+    <string name="processbar_downloading_default">0</string>
+    <string name="download_rom_faild">"Downloaden mislukt,
+Probeer opnieuw."</string>
+    <string name="download_rom_success">"Succesvolle download,
+installeren"</string>
+    <string name="low_battery_message">"Update gedownload maar
+om het te installeren moet de batterij voor 50% worden opgeladen"</string>
+    <string name="low_battery_title">Opladen</string>
+    <string name="progressbar_tips">Verificatie...</string>
+    <string name="progressbar_percent">%1$d%%</string>
+    <string name="low_mem">"Niet genoeg opslagruimte
+Minstens %1$sM nodig, maak ruimte vrij"</string>
+    <string name="update_network_error">"Controleren mislukt,
+Probeer het later opnieuw"</string>
+    <string name="cancel_download">"Downloaden van de upgrade,
+Wil je annuleren?"</string>
+    <string name="new_rom_please_install">"Nieuwe versie beschikbaar
+Bedankt voor het bijwerken"</string>
+    <string name="btn_install_later">Installeer later</string>
+    <string name="btn_install_now">Installeer nu</string>
+    <string name="wifi_no_password">Wi-Fi niet beveiligd</string>
+    <string name="wifi_has_password">Wi-Fi beveiligd</string>
+    <string name="wifi_password_error">Paswoord niet correct</string>
+    <string name="wifi_connecting">Verbinden...</string>
+    <string name="wifi_auth">Authenticatie...</string>
+    <string name="wifi_get_ip">IP adres verkrijgen...</string>
+    <string name="wifi_link_fail">Kan geen verbinding maken...</string>
+    <string name="wifi_connected">Verbonden</string>
+    <string name="wifi_title">Wi-Fi verbinding</string>
+    <string name="wifi_wait_password">Wacht op het wachtwoord...</string>
+    <string name="toast_please_update_first">Eerst Updaten aub.</string>
+    <string name="wifi_turnon_going">Wi-Fi inschakelen</string>
+    <string name="system_update_title">Succesvolle upgrade</string>
+    <string name="system_update_content">Het systeem is bijgewerkt naar versie %1$s</string>
+    <string name="password_error">"%1$s verkeerd wachtwoord,
+bedankt voor het opnieuw invoeren"</string>
+    <string name="wifi_connect_fail">"Wi-Fi-verbinding mislukt,
+probeer het opnieuw"</string>
+    <string name="searching">Zoeken...</string>
+    <string name="hasNewUpdateTitle">Systeemupdates</string>
+    <string name="hasNewUpdateContent">%1$s versie kan worden geïnstalleerd, nu installeren?？</string>
+</resources>

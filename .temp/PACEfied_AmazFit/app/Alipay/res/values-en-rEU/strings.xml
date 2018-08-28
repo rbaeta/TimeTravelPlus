@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">"Alipay"</string>
+    <string name="confirm_unbind">"Deskonektatua"</string>
+    <string name="unbind_warning">"Alipay-ko funtzioak ez dira eskuragarri egongo gailutik deskonektatu ezkero."</string>
+    <string name="bind_my_watch">"Erlojua konektatu"</string>
+    <string name="user_hint">"Alipay (9.3 edo berriagoa), nire Profilera joan>; Ezarpenak>; Segurtasun ezarpenak>; Smartwhatch-ak."</string>
+    <string name="bind_im">"Uda"</string>
+    <string name="bind_from_qr">"QR elkartaratzea"</string>
+    <string name="bind_qr_code">"QR bitartez konektatzen da"</string>
+    <string name="user_hint_title">"Aholkuak"</string>
+    <string name="loading">"Kargatzen"</string>
+    <string name="title">"Alipay"</string>
+    <string name="widget_title">"Alipay"</string>
+    <string name="tip">"Alipay (9.3 edo berriagoa), nire Profilera joan>; Ezarpenak>; Segurtasun ezarpenak>; Smartwhatch-ak."</string>
+    <string name="ios_unsupport_tips">"(Alipay ez dago iOS-en onartua)"</string>
+    <string name="button_start_bind">"Konektatu"</string>
+    <string name="bind_usage">"QR konexioa"</string>
+    <string name="bar_code_tip">"Ordainketa burutua"</string>
+    <string name="qr_code_tip">"Transferentziaren xehetasunak"</string>
+    <string name="bind_success_title">"Konektatua"</string>
+    <string name="unbind_tip">"Smartfone bat erabili konektatzeko"</string>
+    <string name="button_ok">"OK"</string>
+    <string name="confirm_unbind_title">"Deskonektatu"</string>
+    <string name="unbind_alert_message">"Gailua deskonektatu ezkero, Alipay-ko funtzioak ez dira eskuragarri egongo. Deskonektatu?"</string>
+    <string name="not_available">"Funtzioa ez dago aldi batean eskuragarri"</string>
+    <string name="airplane_mode_tips">"Alipay erabiltzeko, egazkin modua ezgaitu"</string>
+    <string name="debug_nickname" />
+    <string name="debug_username" />
+    <string name="debug_paycode_string" />
+</resources>

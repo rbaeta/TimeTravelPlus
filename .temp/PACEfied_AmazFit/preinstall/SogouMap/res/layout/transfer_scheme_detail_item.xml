@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:gravity="center_vertical" n1:orientation="vertical" n1:paddingLeft="28.0dip" n1:paddingRight="18.0dip" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <LinearLayout n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+        <LinearLayout n1:orientation="horizontal" n1:id="@id/busSegmentTypeLayout" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginRight="3.0dip" n1:layout_weight="1.0" />
+        <TextView n1:textAppearance="@style/TransferDetailMemoText" n1:id="@id/busSegmentRowNo" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="1/7" n1:layout_alignParentRight="true" n1:layout_centerVertical="true" />
+    </LinearLayout>
+    <LinearLayout n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+        <TextView n1:textAppearance="@style/TransferDetailStopNameText" n1:id="@id/busSegmentDetailTxt" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="步行至五道口地铁站（A口入）" />
+    </LinearLayout>
+    <LinearLayout n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+        <TextView n1:textAppearance="@style/TransferDetailMemoText" n1:id="@id/busSegmentMemo" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="931米，大约12分钟" />
+    </LinearLayout>
+</LinearLayout>

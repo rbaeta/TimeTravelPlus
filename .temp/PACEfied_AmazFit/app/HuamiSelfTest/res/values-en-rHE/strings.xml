@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">סיום</string>
+    <string name="abc_action_bar_home_description">נווט הביתה</string>
+    <string name="abc_action_bar_up_description">נווט למעלה</string>
+    <string name="abc_action_menu_overflow_description">אפשרויות נוספות</string>
+    <string name="abc_toolbar_collapse_description">מוטט</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">חיפוש</string>
+    <string name="abc_search_hint">חיפוש...</string>
+    <string name="abc_searchview_description_query">שאילתת חיפוש</string>
+    <string name="abc_searchview_description_clear">נקה שאילתה</string>
+    <string name="abc_searchview_description_submit">שלח שאילתה</string>
+    <string name="abc_searchview_description_voice">חיפוש קולי</string>
+    <string name="abc_activitychooserview_choose_application">בחר אפליקציה</string>
+    <string name="abc_activity_chooser_view_see_all">ראה הכל</string>
+    <string name="abc_shareactionprovider_share_with_application">שתף עם %s</string>
+    <string name="abc_shareactionprovider_share_with">שתף עם</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="app_name">בדיקה עצמית של השעון</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="section_format">מקטע שלום עולם: %1$d</string>
+    <string name="btn_cancel">X</string>
+    <string name="btn_ok">אישור</string>
+    <string name="prev_item">הקודם</string>
+    <string name="next_item">הבא</string>
+    <string name="retest">בדיקה חוזרת</string>
+    <string name="start_ppg">התחל בדיקה</string>
+    <string name="start_all">הפעל מחדש את הכל</string>
+    <string name="mic">MIC</string>
+    <string name="start">התחל</string>
+    <string name="start_gps_test">התחל בדיקת GPS</string>
+    <string name="test_vibrator">בדיקת רטט (לחץ שוב כדי לבטל)</string>
+    <string name="test_tp">בדיקת מסך מגע</string>
+</resources>

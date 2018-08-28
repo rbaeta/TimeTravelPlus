@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+  <string name="average_text">Ort</string>
+  <string name="menu_item_high_light_scale_factor">0.5</string>
+  <string name="picker_default_positive_text">Tamam</string>
+  <string name="picker_default_nagetive_text">Kapalı</string>
+  <string name="no_heartrate_data_hint">Nabız oranı bilgisi alınamadı</string>
+  <string name="no_altitude_hint">Rakım bilgisi alınamadı</string>
+  <string name="ui_lib_name">Hm_UILib</string>
+  <string name="title_settings">Ayarlar</string>
+  <string name="sport_music_settings">Spor müzik</string>
+  <string name="app_name">Wi-Fi yükleme</string>
+  <string name="notice_text_success_top">veri yüklemesi tamamlandı</string>
+  <string name="notice_text_success_bottom">Bilgiler Amazfit uygulamasından takip edebilirsiniz</string>
+  <string name="notice_text_failed_top">Veri yüklemesi başarısız oldu</string>
+  <string name="net_failed">Lütfen saatinizin Wi-Fi ye bağlandığından emin olun</string>
+  <string name="date">Zaman:</string>
+  <string name="am">AM</string>
+  <string name="pm">PM</string>
+  <string name="date_">/</string>
+  <string name="date_m">:</string>
+  <string name="see_after_connect_app_token_faield">Erişim anahtarını ulaşmak için amazfit uygulamasına bağlanılamadı. </string>
+  <string name="cannot_acess_server">Server a bağlanılamadı</string>
+  <string name="cannot_upload_user">Erişim anahtarı doğrulanamadı. </string>
+  <string name="please_upload_assist_version">Lütfen Amazfit uygulamasını son versiyonuna güncelleyin ve tekrardan deneyin</string>
+  <string name="did_not_connect_assist">Lütfen servera veri yüklemek icin erişim anahtarını yenilemek amacıyla Amazfit uygulamasını bağlanır. </string>
+  <string name="upload_failed_full">Veri yükleme tamamlanamadı çıkılsın mı? </string>
+  <string name="percent_sign">%</string>
+  <string name="please_keep_wifi_connected">Lütfen saatinizi Wi-Fi ye bağlı tutun</string>
+  <string name="init_wifi">Wi-Fi ye bağlanılıyor</string>
+  <string name="init_user">Erişim anahtarı doğrulanıyor</string>
+  <string name="init_app">Amazfit uygulamasına bağlanılıyor</string>
+  <string name="init_update_user">Erişim anahtarı yenileniyor</string>
+  <string name="zero">0</string>
+  <string name="widget_currentstep_title">Veri merkezi</string>
+  <string name="widget_currentstep_activities">Bu günkü adımlar</string>
+  <string name="widget_currentstep_sleep_hour">s</string>
+  <string name="widget_currentstep_sleep_min">dk</string>
+  <string name="widget_currentstep_sleep_title">Dünkü uyku</string>
+  <string name="widget_currentstep_sleep_no">Uyku bilgisi yok</string>
+  <string name="widget_currentstep_activity_no">Bu gün egzersiz yapılmadı mı? </string>
+</resources>

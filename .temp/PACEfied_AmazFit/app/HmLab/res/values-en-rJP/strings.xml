@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Huami Lab</string>
+  <string name="main_title">Huami Lab</string>
+  <string name="agreement_title">心拍数の常時測定</string>
+  <string name="message">あなたのエクスペリエンスを向上させるために、ウォッチを着用した際に生の心拍数値を収集します。データは、アルゴリズムを改善するための研究目的でのみ使用されます。 この機能をオンにすると、バッテリーの寿命に悪影響を与えます。</string>
+  <string name="allow">承諾する</string>
+  <string name="exit">キャンセル</string>
+  <string name="heart_rate_collection_on">On</string>
+  <string name="heart_rate_collection_off">Off</string>
+  <string name="saving_data">データを保存する</string>
+  <string name="upload_data">アップロード</string>
+  <string name="upload_success">完了しました</string>
+  <string name="upload_failed">アップロードに失敗しました。時間をおいて再試行してください。</string>
+  <string name="air_mode_alert_title">接続することができません</string>
+  <string name="air_mode_alert_message">機内モードをオフにして再度お試しください</string>
+  <string name="average_text">平均</string>
+  <string name="menu_item_high_light_scale_factor">0.5</string>
+  <string name="picker_default_positive_text">確認</string>
+  <string name="picker_default_nagetive_text">オフ</string>
+  <string name="no_heartrate_data_hint">心拍数データが見つかりません</string>
+  <string name="no_altitude_hint">標高データが見つかりません</string>
+  <string name="ui_lib_name">Hm_UILib</string>
+  <string name="title_settings">設定</string>
+  <string name="sport_music_settings">Sports music</string>
+  <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+  <string name="locale_title">言語を選択する</string>
+  <!--START of missed texts by Huami-->
+  <string name="widget_currentstep_title">データーセンター</string>
+  <string name="widget_currentstep_activities">今日の歩数</string>
+  <string name="widget_currentstep_sleep_hour">時間</string>
+  <string name="widget_currentstep_sleep_min">分</string>
+  <string name="widget_currentstep_sleep_title">昨日の睡眠時間</string>
+  <string name="widget_currentstep_sleep_no">睡眠データがありません</string>
+  <string name="widget_currentstep_activity_no">アクティビティがありません</string>
+  <!--END of missed texts by Huami-->
+</resources>

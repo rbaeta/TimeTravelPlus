@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:gravity="center_vertical" n1:orientation="vertical" n1:paddingLeft="28.0dip" n1:paddingRight="18.0dip" n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:minHeight="55.0dip"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <TextView n1:textSize="20.0sp" n1:textColor="@color/black" n1:ellipsize="end" n1:id="@id/BusSchemeBusLineTitle" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="913/333内→地铁4号线" n1:maxLines="3" n1:lineSpacingExtra="3.0dip" />
+    <TextView n1:textAppearance="@style/TransferDetailMemoText" n1:textSize="15.0sp" n1:ellipsize="end" n1:gravity="center_vertical" n1:layout_gravity="center_vertical" n1:id="@id/RouteBusDetailItemTxt" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="10.0dip" n1:text="步行100米" n1:maxLines="2" />
+</LinearLayout>

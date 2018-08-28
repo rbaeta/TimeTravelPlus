@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<runreminds>
+        <runremind id="0">
+            <runType>Run</runType>
+            <trainContent>Jog</trainContent>
+            <copyWrite>800m jogging leve + 200m caminhada. Pulso Recomendado:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="1">
+            <runType>Corrida</runType>
+            <trainContent>Corrida de Recuperação</trainContent>
+            <copyWrite>Jogging leve. Pulso Recomendado:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="2">
+            <runType>Corrida</runType>
+            <trainContent>Corrida Básica</trainContent>
+            <copyWrite>Correr em ritmo de conversação. Pulso recomendado:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="3">
+            <runType>Corrida</runType>
+            <trainContent>Corrida Progressiva</trainContent>
+            <copyWrite>Iniciar devagar e aumentar o ritmo gradativamente. Pulso Recomendado:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="4">
+            <runType>Corrida</runType>
+            <trainContent>Fartlek</trainContent>
+            <copyWrite>Treino com troca livre de intensidade. Pulso Recomendado: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="5">
+            <runType>Corrida</runType>
+            <trainContent>Repetições de Colina</trainContent>
+            <copyWrite>Corrida numa subida num ritmo estável. Pulso Recomendado:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="6">
+            <runType>Corrida</runType>
+            <trainContent>Corrida Ritmada</trainContent>
+            <copyWrite>Corrida com ritmo normal e estável. Pulso Recomendado:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="7">
+            <runType>Corrida</runType>
+            <trainContent>Intervalos curtos</trainContent>
+            <copyWrite>800m corrida rápida + 800m caminhada, então repita. Pulso Recomendado: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="8">
+            <runType>Corrida</runType>
+            <trainContent>Intervalos longos</trainContent>
+            <copyWrite>2.4km jogging + 800m caminhada, então repita. Pulso Recomendado: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="9">
+            <runType>Descanso</runType>
+            <trainContent></trainContent>
+            <copyWrite>Descanse hoje.%1$d dias(s) até o próximo treino</copyWrite>
+        </runremind>
+        <runremind id="10">
+            <runType>Nado</runType>
+            <trainContent></trainContent>
+            <copyWrite>Nade para recuperar-se mais rápido. Lembre de marcar hoje como completo depois de nadar.</copyWrite>
+        </runremind>
+        <runremind id="11">
+            <runType>Pedalar</runType>
+            <trainContent></trainContent>
+            <copyWrite>Trabalho de velocidade de recuperação. Pulso Recomendado:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+</runreminds>
+
+

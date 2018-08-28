@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Key Chain</string>
+    <string name="title_no_certs">Egiaztagiria ez da aurkitu</string>
+    <string name="title_select_cert">Aukeratu egiaztagiria</string>
+    <string name="requesting_application">App-ak egiaztagiri bat eskatu du. Egiaztagiriaren aukeraketak, app-ari baimenduko dio zure nortasuna serbitzariekin orain eta geroan erabiltzeko.</string>
+    <string name="requesting_server">Aplikazioak %s serbitzariaren eskakizun bat detektatu du, Sarrera baimendu.</string>
+    <string name="install_new_cert_message">PKCS#12 egiaztagiria instalatu dezakezu kanpoko memoriako %1$s edo %2$s-n kokatuta daudelarik.</string>
+    <string name="allow_button">Baieztatu</string>
+    <string name="deny_button">Ezeztatu</string>
+</resources>

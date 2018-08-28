@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingTop="15.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:id="@id/power_change_container" android:paddingLeft="42.0dip" android:paddingRight="42.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/power_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true">
+                <ImageButton android:id="@id/power" android:background="@drawable/selector_tv_controller_power_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:textSize="@dimen/tv_commond_icon_title_size" android:textColor="@color/tv_device_tx_color" android:id="@id/power_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tv_power_title" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/change_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true">
+                <ImageButton android:id="@id/device_change" android:background="@drawable/selector_tv_voice_switch_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:textSize="@dimen/tv_commond_icon_title_size" android:textColor="@color/tv_device_tx_color" android:id="@id/device_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tv_change_title" />
+            </LinearLayout>
+        </RelativeLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/voice_controller_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.599976dip" android:layout_below="@id/power_change_container" android:layout_centerHorizontal="true">
+            <ImageButton android:id="@id/quiet" android:background="@drawable/selector_tv_voice_minus_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="6.0dip" />
+            <com.huami.watch.hmtvhelper.widget.VolumnView android:id="@id/voice_level" android:paddingLeft="4.0dip" android:paddingRight="4.0dip" android:layout_width="94.0dip" android:layout_height="11.0dip" />
+            <ImageButton android:id="@id/loud" android:background="@drawable/selector_tv_voice_plus_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="6.0dip" />
+        </LinearLayout>
+        <TextView android:textSize="@dimen/tv_commond_icon_title_size" android:textColor="@color/tv_title_color" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tv_voice_title" android:layout_below="@id/voice_controller_container" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</RelativeLayout>

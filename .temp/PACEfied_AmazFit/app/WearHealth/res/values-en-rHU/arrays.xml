@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="support_category">
+        <item>NAPI</item>
+        <item>HETI</item>
+    </string-array>
+    <string-array name="weekday_names">
+        <item>Hét</item>
+        <item>Ke</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pén</item>
+        <item>Szo</item>
+        <item>Vas</item>
+    </string-array>
+    <string-array name="subject_typenfreqs">
+        <item>Mai</item>
+        <item>Heti</item>
+        <item>Mai</item>
+        <item>Heti</item>
+    </string-array>
+    <string-array name="chart_x_titles">
+        <item>Hét</item>
+        <item>Ke</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pén</item>
+        <item>Szo</item>
+        <item>Vas</item>
+    </string-array>
+</resources>

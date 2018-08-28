@@ -1,0 +1,32 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: HmFTP.apk
+compressionType: false
+doNotCompress:
+- arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '14'
+  targetSdkVersion: '21'
+sharedLibrary: false
+unknownFiles:
+  org/apache/ftpserver/ftpserver.properties: '8'
+  org/apache/ftpserver/config/spring/ftpserver-1.0.xsd: '8'
+  org/apache/ftpserver/message/FtpStatus.properties: '8'
+  org/apache/ftpserver/message/FtpStatus_en.properties: '8'
+  org/apache/ftpserver/message/FtpStatus_zh-tw.properties: '8'
+  org/apache/log4j/lf5/config/defaultconfig.properties: '8'
+  org/apache/log4j/lf5/viewer/images/channelexplorer_new.gif: '8'
+  org/apache/log4j/lf5/viewer/images/channelexplorer_satellite.gif: '8'
+  org/apache/log4j/lf5/viewer/images/lf5_small_icon.gif: '8'
+  org/apache/log4j/xml/log4j.dtd: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: 1.2.48h
+version: 2.3.0
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'

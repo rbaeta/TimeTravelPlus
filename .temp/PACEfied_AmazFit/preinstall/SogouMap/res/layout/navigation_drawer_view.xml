@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <android.support.v4.view.ViewPager n1:id="@id/wearable_support_navigation_drawer_view_pager" n1:layout_width="fill_parent" n1:layout_height="fill_parent" />
+    <com.sogou.map.android.maps.widget.drawer.PageIndicatorView n1:layout_gravity="bottom|center" n1:id="@id/wearable_support_navigation_drawer_page_indicator" n1:layout_width="@dimen/peek_view_icon_size" n1:layout_height="@dimen/peek_view_icon_size" n1:layout_marginBottom="@dimen/peek_view_bottom_padding" n2:pageIndicatorDotColor="@color/white" n2:pageIndicatorDotColorSelected="@color/white" n2:pageIndicatorDotFadeWhenIdle="false" n2:pageIndicatorDotShadowColor="@color/white" xmlns:n2="http://schemas.android.com/apk/res-auto" />
+</FrameLayout>

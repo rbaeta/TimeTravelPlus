@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+  <plurals name="notification_time_day">
+    <item quantity="other">%s gün önce</item>
+    <item quantity="one">%s gün önce</item>
+  </plurals>
+  <plurals name="notification_time_hour">
+    <item quantity="other">%s saat önce</item>
+    <item quantity="one">%s saat önce</item>
+  </plurals>
+  <plurals name="notification_time_minute">
+    <item quantity="other">%s dk önce</item>
+    <item quantity="one">%s dk önce</item>
+  </plurals>
+</resources>

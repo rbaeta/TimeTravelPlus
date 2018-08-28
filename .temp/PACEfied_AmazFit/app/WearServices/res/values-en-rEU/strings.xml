@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appid_messages">Mezuak</string>
+    <string name="appid_wechat">WeChat</string>
+    <string name="appid_qq">QQ</string>
+    <string name="appid_facetime">FaceTime</string>
+    <string name="appid_contacts">Kontaktuak</string>
+    <string name="appid_camera">Kamera</string>
+    <string name="appid_videos">Bideoak</string>
+    <string name="appid_maps">Mapak</string>
+    <string name="appid_calculator">Kalculagailua</string>
+    <string name="appid_photos">Argazkiak</string>
+    <string name="appid_fmf1">Lagunak aurkitu</string>
+    <string name="appid_fmip1">Aurkitu iPhone</string>
+    <string name="appid_preferences">Ezarpenak</string>
+    <string name="appid_tips">Aholkuak</string>
+    <string name="appid_mobiletimer">Erlojua</string>
+    <string name="appid_compass">Iparorratza</string>
+    <string name="appid_mobilenotes">Notak</string>
+    <string name="appid_music">Musika</string>
+    <string name="appid_safari">Safari</string>
+    <string name="appid_voicememos">Grabazioak</string>
+    <string name="appid_health">Osasuna</string>
+    <string name="appid_bridge">Erlojua</string>
+    <string name="appid_mobilestore">iTunes denda</string>
+    <string name="appid_itunesu">iTunes</string>
+    <string name="appid_ibooks">iBooks</string>
+    <string name="appid_stocks">Aurkibideak</string>
+    <string name="appid_weather">Eguraldia</string>
+    <string name="appid_reminders">Gogorarazpenak</string>
+    <string name="appid_news">Berriak</string>
+    <string name="appid_gamecenter">Jokoen zentrua</string>
+    <string name="appid_passbook">Karpeta</string>
+    <string name="appid_mobilecal">Egutegia</string>
+    <string name="appid_appstore">App Store</string>
+    <string name="appid_mobilemail">Posta</string>
+</resources>

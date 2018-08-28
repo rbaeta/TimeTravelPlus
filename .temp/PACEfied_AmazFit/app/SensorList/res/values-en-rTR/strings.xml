@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+  <string name="app_name">SensorData</string>
+  <string name="hello_world">Seçildi:ACC PPG</string>
+  <string name="action_settings">Ayarlar</string>
+  <string name="title_activity_sensor_list">SensorListeAktivitesi</string>
+  <string name="title_activity_view_list">ListeAktivitesiniGörüntüle</string>
+  <string name="title_activity_graph_list">GrafikListeAktivitesi</string>
+  <string name="completed">Tamamlandı %1$s</string>
+  <string name="upload_failed">yükleme başarısız! </string>
+  <string name="upload_success">yükleme başarılı! </string>
+  <string name="uploading">yükleniyor! </string>
+  <string name="no_uploaded_files">Yüklenen dosya yok! </string>
+  <string name="open_wifi_failed">wifi açılması başarısız! </string>
+  <string name="connect_APP">Lütfen uygulamaya bağlanın! </string>
+</resources>

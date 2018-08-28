@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekdays">
+        <item>א\0027</item>
+        <item>ב\0027</item>
+        <item>ג\0027</item>
+        <item>ד\0027</item>
+        <item>ה\0027</item>
+        <item>ו\0027</item>
+        <item>ש\0027</item>
+    </string-array>
+</resources>

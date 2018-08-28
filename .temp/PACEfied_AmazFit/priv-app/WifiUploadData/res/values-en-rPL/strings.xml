@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Zatwierdź</string>
+    <string name="picker_default_nagetive_text">Wył.</string>
+    <string name="no_heartrate_data_hint">Brak danych tętna</string>
+    <string name="no_altitude_hint">Brak danych o wysokości</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Ustawienia</string>
+    <string name="sport_music_settings">Sports music</string>
+    <string name="app_name">Wi-Fi Upload</string>
+    <string name="notice_text_success_top">Przesył danych zakoń.</string>    
+    <string name="notice_text_success_bottom">Dane można wyświetlać w aplikacji Amazfit Watch</string>
+	<string name="notice_text_failed_top">Przesyłanie danych nie powiodło się</string>
+    <string name="net_failed">Upewnij się, że Zegarek jest podłączony do Wifi</string>
+    <string name="date">Znacznik czasu:</string>
+	<string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="date_">/</string>
+    <string name="date_m">:</string>
+    <string name="see_after_connect_app_token_faield">Nie można połączyć się z aplikacją Amazfit Watch, aby odświeżyć token dostępu</string>
+    <string name="cannot_acess_server">Nie można połączyć się z serwerem</string>
+    <string name="cannot_upload_user">Nie można zweryfikować tokenu dostępu</string>
+    <string name="please_upload_assist_version">Zaktualizuj aplikację Amazfit Watch do najnowszej wersji i spróbuj ponownie</string>
+    <string name="did_not_connect_assist">Połącz się z aplikacją Amazfit Watch, aby odświeżyć token dostępu, aby przesłać dane na serwer</string>
+    <string name="upload_failed_full">Przesyłanie danych nie zostało zakończone, wyjść teraz?</string>
+	<string name="percent_sign">%</string>
+    <string name="please_keep_wifi_connected">"Proszę trzymać zegarek podłączony do sieci WiFi"</string>
+    <string name="init_wifi">Podłączanie do sieci Wi-Fi</string>
+    <string name="init_user">Weryfikowanie tokenu dostępu</string>
+    <string name="init_app">Łączenie z aplikacją Amazfit Watch</string>
+    <string name="init_update_user">Odświeżanie tokenu dostępu</string>
+    <string name="zero">0</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Centrum danych</string>
+    <string name="widget_currentstep_activities">Kroki dzisiaj</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Il.snu ostat.nocy</string>
+    <string name="widget_currentstep_sleep_no">Brak danych snu</string>
+    <string name="widget_currentstep_activity_no">Dziś nie ma ćwiczeń?</string>
+<!--END of missed texts by Huami-->
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Potvrdit</string>
+    <string name="picker_default_nagetive_text">Vypnout</string>
+    <string name="no_heartrate_data_hint">Žádná data o tepu</string>
+    <string name="no_altitude_hint">Žádná data o výšce</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Nastavení</string>
+    <string name="sport_music_settings">Sportovní hudba</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Výběr jazyka</string>
+    <string name="app_name">Tv pomocník</string>
+    <string name="tv_title_controller">TVovladač</string>
+    <string name="tv_use_title">Použijte tipy</string>
+    <string name="tv_title_searching">Hledám...</string>
+    <string name="tv_title_choices">Vyberte prosím zařízení, které chcete ovládat</string>
+    <string name="tv_title_unfound">"Nebyl nalezen žádný 
+ovladatelný přístroj"</string>
+    <string name="tv_search_action_tx">Hledej Mi TV</string>
+    <string name="tv_voice_title">Ovládání hlasitosti</string>
+    <string name="tv_foot_search_again">Opakovat</string>
+    <string name="tv_use_content">Zapněte televizor a připojte se ke stejné Wi-Fi síti</string>
+    <string name="tv_current_device">Aktuální zařízení</string>
+    <string name="tv_launcher_guide">Tip: Některé TV a TV boxy nepodporují hlasové funkce</string>
+    <string name="error_bluetooth_title">Bluetooth byl odpojen</string>
+    <string name="error_bluetooth_content">Zkontrolujte prosím Bluetooth spojení hodinek s telefonem.</string>
+    <string name="error_wifi_title">Připojení Wi-Fi je přerušeno</string>
+    <string name="error_wifi_content">Zkontrolujte prosím připojení telefonu k vaší Wi-Fi.</string>
+    <string name="error_connect_title">Chyba spojení</string>
+    <string name="error_connect_content">Wi-Fi nelze připojit. Zkuste to prosím později.</string>
+    <string name="error_device_title">Nelze najít zařízení</string>
+    <string name="error_device_content">Zkontrolujte prosím, zda je zařízení zapnuté a připojeno ke stejné Wi-Fi jako telefon.</string>
+</resources>

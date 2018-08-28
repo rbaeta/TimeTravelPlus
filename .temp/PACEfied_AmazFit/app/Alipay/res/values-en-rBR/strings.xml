@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alipay</string>
+    <string name="confirm_unbind">OK Desvincular</string>
+    <string name="unbind_warning">Após desvincular a função do relógio na Alipay não estará mais disponível !</string>
+    <string name="bind_my_watch">Vincular meu relógio</string>
+    <string name="user_hint">Abra o Alipay no celular (9.3 e superior), em "Meu Perfil> Config.> Config. de Seg.> Smart Watch"</string>
+    <string name="bind_im">Vincular imediatamente</string>
+    <string name="bind_from_qr">Usar o Vínculo por Scan do Alipay</string>
+    <string name="bind_qr_code">Vinculando QR code</string>
+    <string name="user_hint_title">Aviso ao usuário</string>
+    <string name="loading">Carregando Alipay</string>
+    <string name="title">Watch Alipay</string>
+    <string name="widget_title">Alipay</string>
+    <string name="tip">No Alipay do telefone (9.3 e superior) "Eu - Config. - Central de Seg. - ferr. de seg. - smart watches"</string>
+    <string name="ios_unsupport_tips">(Não suporta o vínculo com o Alipay para iOS)</string>
+    <string name="button_start_bind">Iniciar vínculo</string>
+    <string name="bind_usage">Usar o Vínculo por Scan do Alipay</string>
+    <string name="bar_code_tip">O caixa aceitou o pagamento</string>
+    <string name="qr_code_tip">Examinar transferências ou adicionar meus amigos</string>
+    <string name="bind_success_title">Vínculado com sucesso</string>
+    <string name="unbind_tip">Para desvincular, no celular para o Alipay funcionar.</string>
+    <string name="button_ok">Ok</string>
+    <string name="confirm_unbind_title">Desvinculando</string>
+    <string name="unbind_alert_message">Desvinculando, não usará mais a função do relógio para o Alipay ?</string>
+    <string name="not_available">Este recurso está temporariamente indisponível</string>
+    <string name="airplane_mode_tips">Para usar o relógio com o Alipay, desligue o modo avião.</string>
+    <string name="debug_nickname" />
+    <string name="debug_username" />
+    <string name="debug_paycode_string" />
+</resources>

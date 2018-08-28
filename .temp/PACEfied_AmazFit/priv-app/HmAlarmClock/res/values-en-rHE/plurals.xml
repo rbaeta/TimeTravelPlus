@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="one">נודניק לעוד דקה.</item>
+        <item quantity="other">נודניק עוד %d דקות.</item>
+        <item quantity="many"></item>
+        <item quantity="two"></item>
+    </plurals>
+    <plurals name="Nhours_description">
+        <item quantity="one">1 שעה</item>
+        <item quantity="other">%d שעות</item>
+        <item quantity="many">שעות</item>
+        <item quantity="two">שעתיים</item>
+    </plurals>
+    <plurals name="Nminutes_description">
+        <item quantity="one">1 דקה</item>
+        <item quantity="other">%d דקות</item>
+        <item quantity="many">דקות</item>
+        <item quantity="two">2 דקות</item>
+    </plurals>
+    <plurals name="Nseconds_description">
+        <item quantity="one">1 שניה</item>
+        <item quantity="other">%d שניות</item>
+        <item quantity="many">שניות</item>
+        <item quantity="two">2 שניות</item>
+    </plurals>
+    <plurals name="plurals_hours">
+        <item quantity="other">%d ש\'</item>
+        <item quantity="many">שעות</item>
+        <item quantity="one">שעה</item>
+        <item quantity="two">שעתיים</item>
+    </plurals>
+    <plurals name="plurals_minutes">
+        <item quantity="other">%d ד\'</item>
+        <item quantity="many">דקות</item>
+        <item quantity="one">דקה</item>
+        <item quantity="two">2 דקות</item>
+    </plurals>
+</resources>

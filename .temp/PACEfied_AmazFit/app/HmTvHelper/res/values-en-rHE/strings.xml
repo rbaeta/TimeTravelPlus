@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">ממוצע</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">אשר</string>
+    <string name="picker_default_nagetive_text">כבוי</string>
+    <string name="no_heartrate_data_hint">נתוני קצב הלב לא זוהו</string>
+    <string name="no_altitude_hint">נתוני גובה לא אותרו</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">הגדרות</string>
+    <string name="sport_music_settings">מוסיקת ספורט</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">בחר שפה</string>
+    <string name="app_name">HmTvHelper</string>
+    <string name="tv_title_controller">שלט לטלויזיה</string>
+    <string name="tv_use_title">שימוש</string>
+    <string name="tv_title_searching">מחפש...</string>
+    <string name="tv_title_choices">בחר את המכשיר כדי לשלוט בו</string>
+    <string name="tv_title_unfound">לא נמצא התקן הניתן לשליטה</string>
+    <string name="tv_search_action_tx">חיפוש טלוויזיה</string>
+    <string name="tv_voice_title">בקרת עוצמה</string>
+    <string name="tv_foot_search_again">חפש שוב</string>
+    <string name="tv_use_content">השאר את הטלוויזיה דולקת והתחבר לאותו Wi-F באמצעות הטלפון</string>
+    <string name="tv_current_device">התקן הנוכחי</string>
+    <string name="tv_launcher_guide">עצה: חלק מהטלוויזיות אינם תומכים בפקודות קוליות</string>
+    <string name="tv_power_title">כבה</string>
+    <string name="tv_change_title">הפעל את ההתקן</string>
+    <string name="error_bluetooth_title">Bluetooth נותק</string>
+    <string name="error_bluetooth_content">אנא בדוק את חיבור ה-Bluetooth של השעון עם הטלפון。</string>
+    <string name="error_wifi_title">חיבור ה-Wi-Fi תקול</string>
+    <string name="error_wifi_content">בדוק את חיבור ה-Wi-Fi של הטלפון שלך.</string>
+    <string name="error_connect_title">שגיאת חיבור</string>
+    <string name="error_connect_content">אין אפשרות לחבר את ה-Wi-Fi. נסה שוב מאוחר יותר.</string>
+    <string name="error_device_title">לא ניתן למצוא את מכשיר</string>
+    <string name="error_device_content">ודא שההתקן מופעל ומחובר לאותו Wi-Fi.</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">מרכז הנתונים</string>
+    <string name="widget_currentstep_activities">צעדים היום</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">דקות</string>
+    <string name="widget_currentstep_sleep_title">שינה בלילה האחרון</string>
+    <string name="widget_currentstep_sleep_no">אין נתוני שינה</string>
+    <string name="widget_currentstep_activity_no">אין פעילות היום?</string>
+<!--END of missed texts by Huami-->
+</resources>

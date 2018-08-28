@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מתקין חבילות</string>
+    <string name="next">הבא</string>
+    <string name="install">התקן</string>
+    <string name="done">בוצע</string>
+    <string name="security_settings_desc">אפשר לאפליקציה הזו:</string>
+    <string name="cancel">ביטול</string>
+    <string name="unknown">לא ידוע</string>
+    <string name="installing">מתקין...</string>
+    <string name="install_done">האפליקציה מותקנת.</string>
+    <string name="install_confirm_question">האם ברצונך להתקין יישום זה? הוא יקבל גישה ל:</string>
+    <string name="install_confirm_question_no_perms">האם ברצונך להתקין את האפליקציה הזו? היא אינה דורשת גישה מיוחדת.</string>
+    <string name="install_confirm_question_update">האם ברצונך להתקין עדכון של אפליקציה זו? הנתונים הקיימים שלך לא יאבדו. היישום המעודכן יקבל גישה אל:</string>
+    <string name="install_confirm_question_update_system">האם ברצונך להתקין עדכון לאפליקציית מערכת? הנתונים הקיימים שלך לא יאבדו. היישום המעודכן יקבל גישה אל:</string>
+    <string name="install_confirm_question_update_no_perms">האם ברצונך להתקין עדכון של אפליקציה זו? הנתונים הקיימים שלך לא יאבדו. היא אינה דורשת גישה מיוחדת.</string>
+    <string name="install_confirm_question_update_system_no_perms">האם ברצונך להתקין עדכון לאפליקציית מערכת? הנתונים הקיימים שלך לא יאבדו. היא אינה דורשת גישה מיוחדת.</string>
+    <string name="install_failed">האפליקציה לא הותקנה.</string>
+    <string name="install_failed_invalid_apk">תוכן החבילה פגום.</string>
+    <string name="install_failed_inconsistent_certificates">כבר מותקנת חבילה קיימת עם אותו שם וחתימה.</string>
+    <string name="install_failed_older_sdk">החבילה עובדת רק על גירסאות חדשות יותר של אנדרואיד.</string>
+    <string name="install_failed_cpu_abi_incompatible">"האפליקציה הזו אינה תואמת לטאבלט שלך."</string>
+    <string name="install_failed_file_not_found">החבילה שצוינה נמחקה לפני השלמת ההתקנה.</string>
+    <string name="install_failed_verify_failed">החבילה לא עברה אימות ואינה ניתנת להתקנה.</string>
+    <string name="install_failed_verify_timeout">פג זמן הקצוב בעת הניסיון לאמת חבילה זו. נסה להתקין אותו שוב מאוחר יותר.</string>
+    <string name="install_failed_msg">"%1$s לא יכול להיות מותקן בטאבלט שלך."</string>
+    <string name="launch">פתח</string>
+    <string name="unknown_apps_dlg_title">התקנה חסומה</string>
+    <string name="unknown_apps_dlg_text">מטעמי אבטחה, הטאבלט שלך מוגדר לחסום התקנה של יישומים ממקורות לא ידועים.</string>
+    <string name="unknown_apps_admin_dlg_text">"מנהל המערכת אינו מאפשר התקנת אפליקציות ממקורות לא ידועים."</string>
+    <string name="ok">אישור</string>
+    <string name="settings">הגדרות</string>
+    <string name="allow_source_dlg_title">מקור חדש לאפליקציות</string>
+    <string name="allow_source_dlg_text">"%1$s רוצה להתקין אפליקציות אחרות.
+
+לאפשר את זה עכשיו ובעתיד?"</string>
+    <string name="manage_applications">ניהול אפליקציות</string>
+    <string name="dlg_app_replacement_title">להחליף את האפליקציה?</string>
+    <string name="dlg_app_replacement_statement">"האפליקציה שאתה מתקין תחליף אפליקציה אחרת.
+
+כל נתוני המשתמש הקודמים שלך יישמרו."</string>
+    <string name="dlg_sys_app_replacement_statement">"זוהי אפליקציית מערכת.
+
+כל נתוני המשתמש הקודמים שלך יישמרו."</string>
+    <string name="out_of_space_dlg_title">זיכרון מלא</string>
+    <string name="out_of_space_dlg_text">"%1$s לא ניתן להתקין. פנה שטח ונסה שוב."</string>
+    <string name="dlg_ok">אישור</string>
+    <string name="app_not_found_dlg_title">האפליקציה לא נמצאה</string>
+    <string name="app_not_found_dlg_text">"האפליקציה לא נמצאה ברשימת האפליקציות המותקנות."</string>
+    <string name="uninstall_application_title">הסר אפליקציה</string>
+    <string name="uninstall_update_title">הסר את העדכון</string>
+    <string name="uninstall_activity_text">%1$s הוא חלק מהאפליקציה הבאה:</string>
+    <string name="uninstall_application_text">האם ברצונך להסיר אפליקציה זו?</string>
+    <string name="uninstall_application_text_all_users">האם ברצונך להסיר את ההתקנה של האפליקציה הזו עבור <b>כל</b> המשתמשים? האפליקציה ונתוניה יוסרו על ידי <b>כל</b> המשתמשים במכשיר זה.</string>
+    <string name="uninstall_application_text_user">האם אתה רוצה להסיר את האפליקציה הזו עבור המשתמש %1$s?</string>
+    <string name="uninstall_update_text">האם ברצונך להחליף את האפליקציה הזו בגרסת היצרן?</string>
+    <string name="uninstalling">מסיר התקנה...</string>
+    <string name="uninstall_done">הסרת ההתקנה הסתיימה.</string>
+    <string name="uninstall_failed">הסרת התקנה נכשלה.</string>
+    <string name="uninstall_failed_device_policy_manager">"אין אפשרות להסיר את ההתקנה של החבילה מאחר שהיא התקן מנהל פעיל."</string>
+    <string name="uninstall_blocked_profile_owner">"האפליקציה הזו נחוצה לפרופיל %1$s ולא ניתן להסיר את ההתקנה."</string>
+    <string name="uninstall_blocked_device_owner">"האפליקציה הזו נדרשת על ידי מנהל המכשיר שלך ואינה ניתנת להסרה."</string>
+    <string name="manage_device_administrators">ניהול מנהלי התקנים</string>
+    <string name="uninstall_failed_msg">"%1$s לא ניתן להסרה."</string>
+    <string name="Parse_error_dlg_title">שגיאת ניתוח</string>
+    <string name="Parse_error_dlg_text">היתה בעיה בניתוח החבילה.</string>
+    <string name="newPerms">חדש</string>
+    <string name="allPerms">הכל</string>
+    <string name="privacyPerms">פרטיות</string>
+    <string name="devicePerms">גישה למכשיר</string>
+    <string name="no_new_perms">עדכון זה אינו מחייב הרשאות חדשות.</string>
+    <string name="grant_confirm_question">האם ברצונך להעניק את ההרשאות הבאות? הוא יקבל גישה ל:</string>
+</resources>

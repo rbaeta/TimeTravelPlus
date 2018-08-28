@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HmSmartHome</string>
+    <string name="average_text">Promedio</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirmar</string>
+    <string name="picker_default_nagetive_text">Apagar</string>
+    <string name="no_heartrate_data_hint">Ritmo Cardiaco no detectados</string>
+    <string name="no_altitude_hint">Datos de altitud no detectados</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Ajustes</string>
+    <string name="sport_music_settings">Música Deportiva</string>
+    <string name="mihome_widget_title">Mi Casa</string>
+    <string name="mihome_widget_info_unbind">Por favor, no abandonde esta página cuando este reloj controle otros dispositivos, después de la sincronización con Mi App, se unirán</string>
+    <string name="mihome_widget_info_no_devices">Añadir a Mi Home App, ¿quiere que este reloj controle un dispositivo de Mi</string>
+    <string name="mihome_activity_title_disconnected">Desconectado</string>
+    <string name="mihome_activity_info_disconnected">Por favor, conecte el teléfono o el Bluetooth</string>
+    <string name="mihome_activity_btn_disconnected">Por favor, conecte el teléfono o el Bluetooth</string>
+    <string name="mihome_device_card_2_offline">[Fuera de linea]</string>
+    <string name="widget_currentstep_title">Centro de Datos</string>
+    <string name="widget_currentstep_activities">Actividad diaria</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Anoche</string>
+    <string name="widget_currentstep_sleep_no">Sin datos de sueño</string>
+    <string name="widget_currentstep_activity_no">¿No te ejercitas hoy?</string>
+</resources>

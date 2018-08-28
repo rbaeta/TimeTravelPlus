@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alipay</string>
+    <string name="confirm_unbind">O.K. Verbreek</string>
+    <string name="unbind_warning">Na verbreken van de verbinding wordt Alipay op het uurwerk afgesloten</string>
+    <string name="bind_my_watch">Mijn uurwerk verbinden</string>
+    <string name="user_hint">Open de Smartphone Alipay (9.3 of hoger) via "Mijn profiel> Instellingen> beveiligingsInstellingen> Smart watch" </string>
+    <string name="bind_im">Onmiddellijk verbinden</string>
+    <string name="bind_from_qr">Verbind met Alipay QR code</string>
+    <string name="bind_qr_code">Bezig met verbinden met QR code</string>
+    <string name="user_hint_title">Gebruikerstips</string>
+    <string name="loading">Alipay is aan het laden</string>
+    <string name="title">Uurwerk Alipay</string>
+    <string name="widget_title">Alipay</string>
+    <string name="tip">Op de Smartphone Alipay (9.3 of hoger) : "Ik - instellingen - beveiligingscentrum - beveiligingstools - smart watches"</string>
+    <string name="ios_unsupport_tips">（iOs Alipay verbinden wordt niet ondersteund）</string>
+    <string name="button_start_bind">Verbinding maken</string>
+    <string name="bind_usage">Gebruik Alipay scan verbinding</string>
+    <string name="bar_code_tip">De kassier veegde de betaling weg</string>
+    <string name="qr_code_tip">Scan transfers of voeg mijn vrienden toe</string>
+    <string name="bind_success_title">Verbinding geslaagd</string>
+    <string name="unbind_tip">Om te verbreken en Alipay verder op de Smartphone te gebruiken.</string>
+    <string name="button_ok">OK</string>
+    <string name="confirm_unbind_title">Verbinding verbreken</string>
+    <string name="unbind_alert_message">Na sluiten van de verbinding wordt Alipay op het uurwerk afgesloten, verbreken?</string>
+    <string name="not_available">Deze functie is tijdelijk niet beschikbaar</string>
+    <string name="airplane_mode_tips">Om Alipay op het uurwerk te gebruiken, gelieve de vliegmodus uit te schakelen.</string>
+    <string name="debug_nickname" />
+    <string name="debug_username" />
+    <string name="debug_paycode_string" />
+</resources>

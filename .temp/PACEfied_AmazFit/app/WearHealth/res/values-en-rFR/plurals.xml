@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="weeklysports_frequency">
+        <item quantity="other">Fois</item>
+        <item quantity="one">Fois</item>
+    </plurals>
+    <plurals name="weeklysports_step">
+        <item quantity="other">Pas</item>
+        <item quantity="one">Pas</item>
+    </plurals>
+	<plurals name="floor_unit">
+        <item quantity="other"> Etages</item>
+        <item quantity="one"> Etage</item>
+    </plurals>
+</resources>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_item_high_light_scale_factor">0.71</string>
+    <string name="dropbox">Dropbox</string>
+    <string name="logcat">Logcat</string>
+    <string name="anr_trance">Anrtrance</string>
+    <string name="dumpsys">Dumpsys</string>
+    <string name="battery">BatteryInfo</string>
+    <string name="bugreport">Hibajelentés</string>
+    <string name="upload">Feltöltés</string>
+    <string name="dump_sensor">DumpHmSensor</string>
+    <string name="dump">DumpSys</string>
+    <string name="log_path">Napló:</string>
+    <string name="preparing">Jelentés készítés...</string>
+    <string name="collecting">Jelentés készítés...</string>
+    <string name="uploading">Feltöltés...</string>
+    <string name="compressing">Jelentés készítés...</string>
+    <string name="upload_finish">Napló feltöltés befejeződött</string>
+    <string name="upload_failed">"Feltöltés nem sikerült,
+próbáld újra"</string>
+    <string name="open_wifi_hint">Wi-Fi megnyitás...</string>
+    <string name="please_keep_wifi_connected">"Tartsd az órát a
+WiFi-hez csatlakozva"</string>
+    <string name="percent_sign">%</string>
+    <string name="zero">0</string>
+    <string name="has_log_file_message">Nincsenek feltöltetlen hibajelzések, folytatod a feltöltést?</string>
+    <string name="upload_failed_token_title">A feltöltés nem sikerült</string>
+    <string name="upload_failed_token_message">Nem lehet feltölteni a hibajelentést. Csatlakozz az Amazfit Watch apphoz és próbáld újra</string>
+    <string name="re_collecting">Újra generálás</string>
+    <string name="continue_upload">Feltöltés folytatása</string>
+    <string name="alllog">Fogja az összes naplót</string>
+    <string name="moreoptions">További lehetőségek</string>
+    <string name="allupload">Minden feltöltése</string>
+    <string name="pleass_upload">A napló nincs feltöltve</string>
+    <string name="start_collection">Indítsd el a gyűjtést</string>
+    <string name="close_wifi_hint">A Wi-Fi ki van kapcsolva</string>
+    <string name="open_wifi_before_upload">A feltöltés előtt csatlakozz Wi-Fi hálózatra</string>
+    <string name="packed_path">Helyi csomagolási útvonal：</string>
+    <string name="c_bugreport">Feltérképezi a hibajelentést</string>
+    <string name="upload_timeout">Feltöltési időtúllépés, próbálkozz újra</string>
+    <string name="uploading_wait">Feltöltés, várj...</string>
+    <string name="collect_logcat">Logcat információk gyűjtése</string>
+    <string name="collect_dropbox">Dropbox információk gyűjtése</string>
+    <string name="collect_anr">ANR információk gyűjtése</string>
+    <string name="collect_dumpsys">Dumpsys összegyűjtése</string>
+    <string name="collect_bugreport">Hibajelentés összegyűjtése</string>
+    <string name="next_upload_message">Hibaüzenet készült, kérjük töltsd fel.</string>
+    <string name="please_upload">A hibát sikeresen feltérképeztük, kérjük töltsd fel.</string>
+    <string name="app_name">Naplózó</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="watch_ota">Watch Ufrissítés</string>
+    <string name="wifi_disconnect">Kérjük, először csatlakoztasd az órát</string>
+    <string name="connect_phone_wifi">Csatlakoztasd Wifi-re a telefont</string>
+    <string name="please_update_rom">"Van egy új rendszer verzió
+Kérjük frissíts"</string>
+    <string name="connect_phone_input_wifi">"Kapcsold be az óra asszisztens segítségét
+Add meg az óra Wi-Fi jelszavát"</string>
+    <string name="checking_rom">Új verzió ellenőrzése</string>
+    <string name="checking_rom_failed">Hálózati kapcsolat hiba, próbálkozz újra</string>
+    <string name="current_is_new">A legfrissebb verzió</string>
+    <string name="has_new_rom">"Új verzió észlelve
+Akarsz frissíteni?"</string>
+    <string name="input_passwor_on_mobile">"%1$s
+Kérjük add meg a jelszót a telefonon"</string>
+    <string name="processbar_downloading_rom">Letöltés</string>
+    <string name="please_keep_wifi_connect">Kérjük tartsd meg a Wi-Fi kapcsolatot</string>
+    <string name="processbar_downloading_tips">%</string>
+    <string name="processbar_downloading_default">0</string>
+    <string name="download_rom_faild">"A frissítési csomag letöltése sikertelen,
+Próbálkozz újra"</string>
+    <string name="download_rom_success">"ROM letöltés sikeres, kérjük
+telepítsd"</string>
+    <string name="low_battery_message">"Töltsd fel az órát
+A frissítéshez legalább 50%-on kell lennie"</string>
+    <string name="low_battery_title">Előbb töltsd fel az órát</string>
+    <string name="progressbar_tips">Ellenőrzés...</string>
+    <string name="progressbar_percent">%1$d%%</string>
+    <string name="low_mem">"A frissítéshez szükséges memória nem elegendő
+Szüksége van %1$sMB-ra, kérjük szabadíts fel memóriát"</string>
+    <string name="update_network_error">"Ellenőrizd a hálózatot
+Próbáld újra később"</string>
+    <string name="cancel_download">"Megszakítod a letöltést？"</string>
+    <string name="new_rom_please_install">"Van egy új rendszer verzió
+Kérjük frissíts"</string>
+    <string name="btn_install_later">Később emlékeztessen</string>
+    <string name="btn_install_now">Most telepítem</string>
+    <string name="wifi_no_password">Nem titkosított</string>
+    <string name="wifi_has_password">Titkosítva volt</string>
+    <string name="wifi_password_error">A jelszó helytelen</string>
+    <string name="wifi_connecting">Csatlakozva...</string>
+    <string name="wifi_auth">Jelszó ellenőrzése...</string>
+    <string name="wifi_get_ip">IP cím lekérése...</string>
+    <string name="wifi_link_fail">A kapcsolódás sikertelen...</string>
+    <string name="wifi_connected">Kapcsolódik</string>
+    <string name="wifi_title">Csatlakozás Wi-Fi hálózathoz</string>
+    <string name="wifi_wait_password">Várakozás a jelszó beírására...</string>
+    <string name="toast_please_update_first">Kérjük frissíts először</string>
+    <string name="wifi_turnon_going">A Wi-Fi megnyitása</string>
+    <string name="system_update_title">Frissítés sikeres</string>
+    <string name="system_update_content">A rendszer frissítve lett a(z) %1$s verzióra</string>
+    <string name="password_error">"%1$s jelszó helytelen,
+Kérjük add meg újra"</string>
+    <string name="wifi_connect_fail">"A Wi-Fi kapcsolat sikertelen 
+	csatlakozz újra"</string>
+    <string name="searching">Keres...</string>
+    <string name="hasNewUpdateTitle">A rendszer frissül</string>
+    <string name="hasNewUpdateContent">%1$s verzió már telepítve van？</string>
+</resources>

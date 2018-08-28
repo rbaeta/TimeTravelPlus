@@ -1,0 +1,23 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: webview.apk
+compressionType: false
+doNotCompress:
+- arsc
+- pak
+isFrameworkApk: true
+packageInfo:
+  forcedPackageId: '2'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '21'
+sharedLibrary: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: 1.2.48h
+version: 2.3.0
+versionInfo:
+  versionCode: '300004'
+  versionName: 39 (136-mips)

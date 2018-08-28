@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="day_of_weak">
+	
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>1</item>
+    </integer-array>
+    <string-array name="alarm_set">
+        <item>Alarma minutu bat baino lehen izango da</item>
+        <item>Alarma %1$s-tan izango da</item>
+        <item>Alarma %2$s-tan izango da</item>
+        <item>Alarma %1$s eta %2$s-tan izango da</item>
+        <item>Alarma %3$s-tan izango da</item>
+        <item>Alarma %1$seta %3$s-tan izango da</item>
+        <item>Alarma %2$s eta %3$s-tan izango da</item>
+        <item>Aralma %1$s , %2$s eta %3$s-tan izango da.</item>
+    </string-array>
+    <string-array name="repeat_description">
+	
+        <item>Behin bakarrik</item>
+        <item>Astelehena</item>
+        <item>Asteartea</item>
+	<item>Asteazkena</item>
+	<item>Osteguna</item>
+        <item>Ostirala</item>
+        <item>Larunbata</item>
+        <item>Igandea</item>
+    </string-array>
+    <string-array name="short_week_days">
+        <item></item>
+        <item>Ig</item>
+        <item>Al</item>
+        <item>As</item>
+        <item>Az</item>
+        <item>Og</item>
+        <item>or</item>
+        <item>Lr</item>
+    </string-array>
+    <string-array name="stopwatch_format_set">
+        <item>%2$02d:%3$02d.%4$02d</item>
+        <item>%2$02d:%3$02d.%4$02d</item>
+        <item>%1$02d:%2$02d:%3$02d.%4$02d</item>
+        <item>%1$02d:%2$02d:%3$02d.%4$02d</item>
+        <item>%1$03d:%2$02d:%3$02d.%4$02d</item>
+    </string-array>
+    <string-array name="am_pm">
+        <item>A.M.</item>
+        <item>P.M.</item>
+    </string-array>
+</resources>

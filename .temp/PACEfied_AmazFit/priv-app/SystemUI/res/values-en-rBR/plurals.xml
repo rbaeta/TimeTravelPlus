@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d telas na Visão geral</item>
+        <item quantity="one">1 tela na Visão geral</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Código PIN incorreto, você tem %d tentativas restantes.</item>
+        <item quantity="one">Código PIN incorreto, você tem %d tentativa restante antes você precisa contatar sua operadora para de desbloquear o seu dispositivo.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Código SIM PUK incorreto, você tem %d tentativas restantes antes que o SIM se torne permanentemente inutilizável.</item>
+        <item quantity="one">Código SIM PUK incorreto, você tem %d tentativa restante antes que o SIM se torne permanentemente inutilizável.</item>
+    </plurals>
+</resources>

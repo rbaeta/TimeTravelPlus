@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instalačný balíček</string>
+    <string name="next">Ďalší</string>
+    <string name="install">Inštaluj</string>
+    <string name="done">Hotovo</string>
+    <string name="security_settings_desc">Povoľ nasledujúcu aplikáciu:</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="unknown">Neznáma</string>
+    <string name="installing">Inštalujem…</string>
+    <string name="install_done">App nainštalovaná.</string>
+    <string name="install_confirm_question">Chcete nainštalovať túto aplikáciu? Tá získa prístup k:</string>
+    <string name="install_confirm_question_no_perms">Chcete nainštalovať túto aplikáciu? Nie je potrebné žiadne povolenie prístupu.</string>
+    <string name="install_confirm_question_update">Chcete nainštalovať aktualizáciu existujúcej aplikácie? Vaša dáta nebudú stratené. Aktualizovaná aplikácia bude mať prístup k:</string>
+    <string name="install_confirm_question_update_system">Chcete nainštalovať aktualizáciu zabudovanej aplikácie? Vaša dáta nebudú stratené. Aktualizovaná aplikácia bude mať prístup k:</string>
+    <string name="install_confirm_question_update_no_perms">Chcete nainštalovať aktualizáciu existujúcej aplikácie? Vaša dáta nebudú stratené. Nie je potrebné žiadne povolenie prístupu.</string>
+    <string name="install_confirm_question_update_system_no_perms">Chcete nainštalovať aktualizáciu zabudovanej aplikácie? Vaša dáta nebudú stratené. Nie je potrebné žiadne povolenie prístupu.</string>
+    <string name="install_failed">App nenainštalovaná.</string>
+    <string name="install_failed_invalid_apk">Balíček je asi poškodený.</string>
+    <string name="install_failed_inconsistent_certificates">Balíček s rovnakým menom ale s rozdielnym podpisom je už nainštalovaný.</string>
+    <string name="install_failed_older_sdk">Balíček funguje iba na novších verziách Androidu.</string>
+    <string name="install_failed_cpu_abi_incompatible">"Táto aplikácia nie je kompatibilná s tabletom."</string>
+    <string name="install_failed_file_not_found">Inštalácia nemohla byť dokončená. Uvedený balík bol už odstránený.</string>
+    <string name="install_failed_verify_failed">Balíček neprešiel overením a nemôže byť nainštalovaný.</string>
+    <string name="install_failed_verify_timeout">Došlo k vypršaniu časového limitu pri pokuse o overenie balíčku. Skúste inštaláciu neskôr.</string>
+    <string name="install_failed_msg">"%1$s nemohol byť inštalovaný na váš tablet."</string>
+    <string name="launch">Otevoriť</string>
+    <string name="unknown_apps_dlg_title">Inštalácia zablokovaná</string>
+    <string name="unknown_apps_dlg_text">Z bezpečnostných dôvodov je tablet nastavený tak, aby blokoval inštaláciu aplikácií z neznámych zdrojov.</string>
+    <string name="unknown_apps_admin_dlg_text">"Váš správca neumožňuje inštaláciu aplikácií z neznámych zdrojov."</string>
+    <string name="ok">OK</string>
+    <string name="settings">Nastavenia</string>
+    <string name="allow_source_dlg_title">Nový zdroj aplikácií</string>
+    <string name="allow_source_dlg_text">"%1$s chce nainštalovať ďalšie aplikácie..
+
+Povoliť teraz aj nabudúce?"</string>
+    <string name="manage_applications">Správa aplikácií</string>
+    <string name="dlg_app_replacement_title">Nahradiť aplikáciu?</string>
+    <string name="dlg_app_replacement_statement">"Aplikácia, ktorú inštalujete, nahradí inú aplikáciu.	
+
+Všetky vaše predchádzajúce používateľské dáta budú uložené."</string>
+    <string name="dlg_sys_app_replacement_statement">"Toto je systémová applikácia.
+
+Všetky vaše predchádzajúce používateľské dáta budú uložené."</string>
+    <string name="out_of_space_dlg_title">V úložisku nie je dostatok miesta</string>
+    <string name="out_of_space_dlg_text">"%1$s sa nedá nainštalovať. Uvoľnite nejaké miesto v úložisku a skúste to znovu."</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">App nenájdená</string>
+    <string name="app_not_found_dlg_text">"Aplikácia nebola nájdená na zozname nainštalovaných aplikácií."</string>
+    <string name="uninstall_application_title">Odinštalovať app</string>
+    <string name="uninstall_update_title">Odinštalovať aktualizácie</string>
+    <string name="uninstall_activity_text">%1$s je čásťou následujúcej app:</string>
+    <string name="uninstall_application_text">Chcete odinštalovať túto aplikáciu?</string>
+    <string name="uninstall_application_text_all_users">Chcete odinštalovať túto aplikáciu pre <b>všetkých</b> používateľov? Aplikácie a dáta budú odstránené pre <b>všetkých</b> používateľov tohoto zariadenia.</string>
+    <string name="uninstall_application_text_user">Chcete odinštalovať túto aplikáciu používateľa %1$s?</string>
+    <string name="uninstall_update_text">Chcete nahradiť túto aplikáciu s továrenskou verziou?</string>
+    <string name="uninstalling">Odstraňujem…</string>
+    <string name="uninstall_done">Odinštalovanie bola dokončené.</string>
+    <string name="uninstall_failed">Odinštalácia sa nepodarila</string>
+    <string name="uninstall_failed_device_policy_manager">"Nemožno odinštalovať, pretože tento balík je aktívnym správcom zariadenia."</string>
+    <string name="uninstall_blocked_profile_owner">"Táto aplikácia je potrebná pre váš %1$s profil a nemožno ju odinštalovať."</string>
+    <string name="uninstall_blocked_device_owner">"Táto aplikácia je vyžadovaná správcom zariadenia a nemôže byť odinštalovaná."</string>
+    <string name="manage_device_administrators">Nastaviť správcu zariadenia</string>
+    <string name="uninstall_failed_msg">"%1$s sa nedá odinštalovať."</string>
+    <string name="Parse_error_dlg_title">Chyba analýzy</string>
+    <string name="Parse_error_dlg_text">Pri analýze balíčka sa vyskytol problém.</string>
+    <string name="newPerms">Nový</string>
+    <string name="allPerms">Všetko</string>
+    <string name="privacyPerms">Súkromie</string>
+    <string name="devicePerms">Prístup k zariadeniu</string>
+    <string name="no_new_perms">Táto aktualizácia nevyžaduje nové oprávnenia.</string>
+    <string name="grant_confirm_question">Chcete udeliť nasledujúce povolenia? Aplikácia bude mať prístup k:</string>
+</resources>

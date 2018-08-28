@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector n1:name="generic_confirmation" n1:height="80.0dip" n1:width="80.0dip" n1:alpha="0.0" n1:viewportWidth="80.0" n1:viewportHeight="80.0"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <group n1:name="icon" n1:scaleX="1.0" n1:scaleY="1.0" n1:rotation="65.0" n1:translateX="40.0" n1:translateY="33.5">
+        <group n1:name="check">
+            <path n1:name="check_path" n1:fillColor="#ffffffff" n1:pathData="m14.68171,-20c0,0 -21.14918,23.66343 -21.14918,23.66343c0,0 -13.53253,-8.72588 -13.53253,-8.72588c0,0 0,4.73268 0,4.73268c0,0 13.60647,14.12411 13.60647,14.12411c0,0 1.55292,0 1.55292,0c0,0 22.92395,-30.91035 22.92395,-30.91035c0,0 -3.40163,-2.88399 -3.40163,-2.88399l-0.00002,0l0.00001,0z" />
+        </group>
+    </group>
+</vector>

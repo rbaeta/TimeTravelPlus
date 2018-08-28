@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d Pantailak Orokorrean</item>
+        <item quantity="one">1 pantaila Orokorrean</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">PIN kode okerra, %d saiakera geratzen zaizkizu.</item>
+        <item quantity="one">PIN kodea okerra, %d saiakera duzu zure telefonoa desblokeatzeko zure konpainiarekin harremanetan jarri behar izan aurretik.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">PUK SIM kodea okerra da, %d saiakera gelditzen dira SIM-a betirako erabilezin gelditu aurretik.</item>
+        <item quantity="one">PUK SIM kodea ez da zuzena, %d saiakera gelditzen dira SIM-a betirako erabilezin gelditu aurretik.</item>
+    </plurals>
+</resources>

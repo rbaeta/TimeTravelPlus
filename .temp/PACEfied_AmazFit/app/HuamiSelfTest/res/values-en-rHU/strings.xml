@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Kész</string>
+    <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+    <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
+    <string name="abc_action_menu_overflow_description">További lehetőségek</string>
+    <string name="abc_toolbar_collapse_description">Összezár</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Keresés</string>
+    <string name="abc_search_hint">Keresés…</string>
+    <string name="abc_searchview_description_query">Keresési lekérdezés</string>
+    <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
+    <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
+    <string name="abc_searchview_description_voice">Hangalapú keresés</string>
+    <string name="abc_activitychooserview_choose_application">Válassz ki egy alkalmazást</string>
+    <string name="abc_activity_chooser_view_see_all">Összes megtekintése</string>
+    <string name="abc_shareactionprovider_share_with_application">Megosztás a következővel: %s</string>
+    <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="app_name">Watch Önteszt</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="btn_cancel">X</string>
+    <string name="btn_ok">OK</string>
+    <string name="prev_item">Előző</string>
+    <string name="next_item">Köv.</string>
+    <string name="retest">Újrateszt</string>
+    <string name="start_ppg">Teszt indítás</string>
+    <string name="start_all">Össz újraindítása</string>
+    <string name="mic">MIC</string>
+    <string name="start">Start</string>
+    <string name="start_gps_test">GPS teszt start</string>
+    <string name="test_vibrator">Rezgés teszt (katt ismét, Mégse)</string>
+    <string name="test_tp">Érintőképernyő teszt</string>
+</resources>

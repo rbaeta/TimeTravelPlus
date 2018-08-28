@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.sport" platformBuildVersionCode="22" platformBuildVersionName="5.1-136">
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.BODY_SENSORS"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="com.huami.watch.companion.permission.READ_SETTINGS"/>
+    <uses-permission android:name="com.huami.watch.companion.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permisison android:name="com.huami.watch.permission.RECEIVE_WAKEUP"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="com.huami.watch.permission.READ_USER_SETTINGS"/>
+    <instrumentation android:name="android.support.test.runner.AndroidJUnitRunner" android:targetPackage="com.huami.watch.sport"/>
+    <application android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:largeHeap="true" android:name="com.huami.watch.sport.SportApplication" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+        <meta-data android:name="com.huami.watch.launcher.springboard.PASSAGER_TARGET" android:resource="@array/spring_depend"/>
+        <provider android:authorities="com.huami.watch.sport.provider" android:exported="true" android:name="com.huami.watch.sport.db.SportContentProvider"/>
+        <service android:exported="true" android:name="com.huami.watch.sport.sportservice.SportsDataManagerService"/>
+        <activity android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:launchMode="singleTask" android:name="com.huami.watch.sport.ui.SportMainActivity" android:theme="@style/Theme.Sport">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboard|orientation|screenSize" android:exported="true" android:label="@string/title_activity_running" android:launchMode="singleInstance" android:name="com.huami.watch.sport.ui.SportActivity" android:parentActivityName=".ui.SportMainActivity" android:theme="@style/Theme.Sport.WarkingCustom"/>
+        <activity android:name="com.huami.watch.sport.ui.VoiceSportActivity" android:theme="@android:style/Theme.DeviceDefault.Light">
+            <intent-filter>
+                <action android:name="com.huami.watch.sports.action.SPORTS"/>
+                <action android:name="com.huami.watch.sports.action.HISTORY"/>
+                <action android:name="com.huami.watch.sports.action.SETTINGS"/>
+                <action android:name="com.huami.watch.sports.action.ACHIEVEMENT"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <meta-data android:name="voice_ability" android:resource="@array/support_sport"/>
+        </activity>
+        <activity android:label="@string/title_activity_sport_history_detail" android:name="com.huami.watch.sport.ui.SportHistoryDetailActivity" android:theme="@android:style/Theme.DeviceDefault.Light"/>
+        <uses-library android:name="com.google.android.wearable" android:required="false"/>
+        <activity android:exported="true" android:label="@string/title_activity_gpswaiting" android:launchMode="singleTask" android:name="com.huami.watch.sport.ui.WaitingGPSActivity" android:parentActivityName=".ui.SportMainActivity" android:theme="@android:style/Theme.DeviceDefault.Light"/>
+        <activity android:label="@string/title_activity_selector" android:launchMode="singleInstance" android:name="com.huami.watch.sport.ui.SportPickerActivity" android:theme="@android:style/Theme.DeviceDefault.Light"/>
+        <receiver android:enabled="true" android:exported="false" android:name="com.huami.watch.sport.notification.NotificationPauseReceiver"/>
+        <receiver android:enabled="true" android:exported="false" android:name="com.huami.watch.sport.notification.NotificationContinueReceiver"/>
+        <activity android:label="@string/title_activity_sport_history" android:name="com.huami.watch.sport.ui.SportHistoryActivity" android:theme="@style/Theme.Sport.NoTransition">
+            <intent-filter>
+                <action android:name="com.huami.watch.sport.action.VIEW_HISTORY"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/title_activity_sport_medal_list" android:launchMode="singleInstance" android:name="com.huami.watch.sport.ui.SportMedalListActivity" android:theme="@style/Theme.Sport.NoTransition">
+            <intent-filter>
+                <action android:name="com.huami.watch.sport.action.VIEW_MEDAL"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.huami.watch.sport.ui.SportLauncherActivity" android:theme="@style/Theme.Sport.NoTransition">
+            <intent-filter>
+                <action android:name="com.huami.watch.sport.action.SPORT_LAUNCHER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleInstance" android:name="com.huami.watch.sport.ui.SportSettingsActivity" android:theme="@style/Theme.Sport.NoTransition">
+            <intent-filter>
+                <action android:name="com.huami.watch.sport.action.SPORT_SETTINGS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <receiver android:enabled="true" android:exported="true" android:name="com.huami.watch.sport.syncservice.SyncReceiver">
+            <intent-filter>
+                <action android:name="com.huami.watch.broadcast.SYNC_DATA"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.huami.watch.companion.action.DataSyncRequestApps"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="false" android:name="com.huami.watch.sport.syncservice.GetHistoryService"/>
+        <service android:exported="false" android:name="com.huami.watch.sport.syncservice.UploadUnsyncDataService"/>
+        <service android:exported="false" android:name="com.huami.watch.sport.sportservice.BluetoothLeService"/>
+        <activity android:name="com.huami.watch.sport.ui.TrailTestActivity"/>
+        <activity android:name="com.huami.watch.sport.ui.TestActiveMedalActivity"/>
+        <receiver android:name="com.huami.watch.sport.db.BootCompleteReceiver">
+            <intent-filter android:priority="1000">
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="true" android:name="com.huami.watch.sport.sportservice.reminder.ReminderReceiver">
+            <intent-filter>
+                <action android:name="com.huami.watch.action.SENSOR_WAKEUP"/>
+            </intent-filter>
+        </receiver>
+        <activity android:name="com.huami.watch.sport.ui.gpxroute.SelectGPXRouteActivity"/>
+        <activity android:name="com.huami.watch.sport.ui.gpxroute.GPXRouteDetailActivity"/>
+        <activity android:name="com.huami.watch.sport.ui.hearregion.HearRegionSettingActivity"/>
+        <activity android:name="com.huami.watch.sport.ui.hearregion.HeartRegionSelectActivity"/>
+        <activity android:name="com.huami.watch.sport.gpxexport.ExportGPXActivity"/>
+    </application>
+</manifest>

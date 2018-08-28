@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+  <string name="app_name">Pusula</string>
+  <string name="action_settings">Ayarlar</string>
+  <string name="north_latitude">Kuzey Enlemi</string>
+  <string name="south_latitude">Güney Enlemi</string>
+  <string name="east_longitude">Doğu Boylamı</string>
+  <string name="west_longitude">Batı Boylamı</string>
+  <string name="altitude">Rakım(m)</string>
+  <string name="altitude_ft">Rakım(ft)</string>
+  <string name="atmospheric_pressure">Hava Basıncı</string>
+  <string name="ori_north">K</string>
+  <string name="ori_northeast">KD</string>
+  <string name="ori_east">D</string>
+  <string name="ori_southeast">GD</string>
+  <string name="ori_south">G</string>
+  <string name="ori_southwest">GB</string>
+  <string name="ori_west">B</string>
+  <string name="ori_northwest">KB</string>
+  <string name="correcting">Kalibre ediliyor</string>
+  <string name="correcting_line1">Bileğinizi çevirin</string>
+  <string name="correcting_line2">daireyi tamamlayın</string>
+  <string name="value_default">-</string>
+  <string name="loading">Yükleniyor</string>
+  <string name="degree">°</string>
+  <string name="zero">0.00</string>
+  <string name="latitude_longitude_value_format_str">%1$s°%2$s′%3$s″</string>
+  <string name="gps_tip">"Veri alınamadı, lütfen açık bir alan da deneyiniz." </string>
+  <string name="confirm">Doğrula</string>
+  <string name="unknown">--</string>
+  <string name="compass_roll_tip">"Saatin yüzünü yatay konuma getirin" </string>
+</resources>

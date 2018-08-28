@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Selecionar idioma</string>
+    <string name="app_name">Centro de\nTreinamento</string>
+    <string name="app_train_center">Centro de\nTreinamento</string>
+    <string name="my_train">Meu treino</string>
+    <string name="please_select_train_plan">Escolha um treino</string>
+    <string name="start_new_train">Começar treino</string>
+    <string name="train_center">Centro de\nTreinamento</string>
+    <string name="train_detail">Detalhes</string>
+    <string name="day_train_record_stag">%1$s Semana %2$d Dia %3$d</string>
+    <string name="day_train_record_stag_simple">Semana %1$d Dia %2$d</string>
+    <string name="day_train_record_train_stage">Dia %1$s</string>
+    <string name="remind_train_first_text">"Treino científico melhora seu 
+ desempenho, Vamos começar!"</string>
+    <string name="train_start">Começar</string>
+    <string name="hidtory_train_start_date">Início %1$s</string>
+    <string name="hidtory_train_end_date">Fim %1$s</string>
+    <string name="train_detail_number_weekly">Semana %1$d</string>
+    <string name="day_train_status_done">(Completo)</string>
+    <string name="train_record_complete_percent">Completo</string>
+    <string name="day_train_record_status_finish">Completo</string>
+    <string name="day_train_record_statis_un_finish">Incompleto</string>
+    <string name="dialog_day_train_plan_is_complete">"Marcar o progresso de hoje como completo?"</string>
+    <string name="dialog_delete_history_record">Excluindo este registro, ele não poderá ser restaurado.</string>
+    <string name="dialog_train_plan_is_complete">Terminando seu treino, continuar?</string>
+    <string name="last_day_rest_remind">O treino está perto do fim e descanse por um dia|Ajuda na recuperação do último exercício</string>
+    <string name="cancel">Cancelar</string>
+    <string name="dialog_delete">Excluir</string>
+    <string name="day_train_plan_record_marked">Marcar</string>
+    <string name="train_plan_recode_finished">Fim</string>
+    <string name="train_mileage">Distância Total(km)</string>
+    <string name="train_mileage_mils">Distância Total(milhas)</string>
+    <string name="train_days">Dias de treino</string>
+    <string name="train_finish">Finalizar meu treino</string>
+    <string name="train_finished">O treino atual acabou</string>
+    <string name="today">Hoje</string>
+    <string name="train_complete_rate">Avaliar</string>
+    <string name="assing_train_plan">%1$s</string>
+    <string name="train_plan_already_assgn">Inscrito</string>
+    <string name="notification_title">Centro de Treinamento</string>
+    <string name="notificaiton_train_content">"O treino de hoje não está completo ainda. Continue!"</string>
+    <string name="this_train_record_finish">Este treino já acabou</string>
+    <string name="train_finish_reason">Motivo para terminar</string>
+    <string name="length_unit_km">km</string>
+    <string name="length_unit_miles">milhas</string>
+    <string name="unit_yinli">milha</string>
+    <string name="unit_gongli">km</string>
+    <string name="app_list_title">Treino</string>
+    <string name="average_text">Média</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirmar</string>
+    <string name="picker_default_nagetive_text">Desligar</string>
+    <string name="no_heartrate_data_hint">Dados de pulso não detectados</string>
+    <string name="no_altitude_hint">Dados de altitude não detectados</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Configurações</string>
+    <string name="sport_music_settings">Música esportiva</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Estatísticas</string>
+    <string name="widget_currentstep_activities">Passos hoje</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Sono noite passada</string>
+    <string name="widget_currentstep_sleep_no">Sem dados de sono</string>
+    <string name="widget_currentstep_activity_no">Sem exercícios hoje?</string>
+<!--END of missed texts by Huami-->
+</resources>

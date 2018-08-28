@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Média</string>
+    <string name="app_label">Úložiště médií</string>
+    <string name="upgrade_msg">Aktualizace databáze médií.</string>
+    <string name="artist_label">Artist</string>
+    <string name="ringtone_default">Vychozí zvuk</string>
+    <string name="notification_sound_default">Vychozí zvuk notifikace</string>
+    <string name="alarm_sound_default">Vychozí zvuk budíku</string>
+    <string name="root_images">Obrázky</string>
+    <string name="root_videos">Videa</string>
+    <string name="root_audio">Zvuky</string>
+</resources>

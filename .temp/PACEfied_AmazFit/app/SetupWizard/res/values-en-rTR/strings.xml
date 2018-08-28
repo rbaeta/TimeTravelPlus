@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+  <string name="app_name">BaşlangıçSihirbazı</string>
+  <string name="locale_title">Dil Seçiniz</string>
+  <string name="lang_zh_cn">中文(简体)</string>
+  <string name="lang_en_us">English(US)</string>
+  <string name="tip_install_wear_companion">Lütfen Amazfit uygulamasını telefonunuza indirin</string>
+  <string name="tip_low_battery">Şarjınız 5% den az, lütfen şarj aletini bağlayınız</string>
+  <string name="pair_scan_qr">QR kodunu "Amazfit" uygulamasından taratın</string>
+  <string name="pair_skip">Atla</string>
+  <string name="tip_pair_skip">Bazı özellikler devre dışı bırakıldı, devam edilsin mi? </string>
+  <string name="tip_restoring">Geri yükleniyor</string>
+  <string name="tip_binding_failed">Eşleştirme başarısız</string>
+  <string name="tip_binding_failed_restart">Bağlantı koptu, tekrar deneyin</string>
+  <string name="tip_no_bluetooth_adapter">Bluetooth hatası</string>
+  <string name="tip_wear_hand">Hangi bileğinizde saatinizi kullanıyorsunuz? </string>
+</resources>

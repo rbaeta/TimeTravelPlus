@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout n1:orientation="vertical" n1:id="@id/wearable_support_overlay_confirmation" n1:background="#cc000000" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <ImageView n1:id="@id/wearable_support_confirmation_overlay_image" n1:background="@android:color/transparent" n1:layout_width="@dimen/confirmation_overlay_image_size" n1:layout_height="@dimen/confirmation_overlay_image_size" n1:layout_centerInParent="true" />
+    <TextView n1:textSize="@dimen/confirmation_overlay_text_size" n1:textColor="@android:color/white" n1:gravity="center_horizontal" n1:id="@id/wearable_support_confirmation_overlay_message" n1:background="@android:color/transparent" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_below="@id/wearable_support_confirmation_overlay_image" n1:layout_centerHorizontal="true" n1:fontFamily="sans-serif-condensed-light" />
+</RelativeLayout>

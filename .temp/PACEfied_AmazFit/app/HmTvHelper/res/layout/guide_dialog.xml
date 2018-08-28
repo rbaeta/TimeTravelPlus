@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/tv_dialog_title_size" android:textColor="@color/tv_dialog_tx_color" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="33.0dip" android:layout_centerHorizontal="true" />
+    <TextView android:textSize="@dimen/tv_dialog_content_size" android:textColor="@color/tv_dialog_tx_color" android:id="@id/content" android:layout_width="150.0dip" android:layout_height="wrap_content" android:layout_marginTop="14.0dip" android:layout_below="@id/title" android:layout_centerHorizontal="true" />
+    <ImageButton android:id="@id/know" android:background="@mipmap/alter_dialog_button1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="14.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+</RelativeLayout>

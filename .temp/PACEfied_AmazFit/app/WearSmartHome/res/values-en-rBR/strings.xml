@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HmSmartHome</string>
+    <string name="average_text">Média</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirmar</string>
+    <string name="picker_default_nagetive_text">Desligar</string>
+    <string name="no_heartrate_data_hint">Dados de pulso não detectados</string>
+    <string name="no_altitude_hint">Dados de altitude não detectados</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Configurações</string>
+    <string name="sport_music_settings">Música esportiva</string>
+    <string name="mihome_widget_title">Mi Home</string>
+    <string name="mihome_widget_info_unbind">Pareado com o app Mi Home, Este relógio pode controlar dispositivos Mi compatíveis; não saia durante o pareamento</string>
+    <string name="mihome_widget_info_no_devices">No app Mi Home, adicione dispositivos Mi que você quer controlar com este relógio</string>
+    <string name="mihome_activity_title_disconnected">Não Conectado</string>
+    <string name="mihome_activity_info_disconnected">Conectar ao app Mi Home no seu telefone por Bluetooth</string>
+    <string name="mihome_activity_btn_disconnected">Conectar ao app Mi Home no seu telefone por Bluetooth</string>
+    <string name="mihome_device_card_2_offline">[Offline]</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Estatísticas</string>
+    <string name="widget_currentstep_activities">Passos hoje</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Sono noite passada</string>
+    <string name="widget_currentstep_sleep_no">Sem dados de sono</string>
+    <string name="widget_currentstep_activity_no">Sem exercícios hoje?</string>
+<!--END of missed texts by Huami-->
+</resources>

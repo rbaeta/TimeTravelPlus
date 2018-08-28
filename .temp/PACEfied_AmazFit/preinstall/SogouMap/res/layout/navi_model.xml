@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout n1:background="@color/white" n1:padding="@dimen/common_margin_big" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <com.sogou.map.android.maps.widget.CommonWearableListView n1:id="@id/wearable_list" n1:layout_width="fill_parent" n1:layout_height="fill_parent" />
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout n1:id="@id/MapLayout" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <LinearLayout n1:gravity="center" n1:orientation="horizontal" n1:id="@id/OperationAreaZoom" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="@dimen/common_margin_bigger" n1:layout_centerHorizontal="true">
+        <ImageButton n1:id="@id/ZoomInButton" n1:background="@drawable/zoom_in_selector" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+        <ImageButton n1:id="@id/ZoomOutButton" n1:background="@drawable/zoom_out_selector" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+    </LinearLayout>
+    <ImageButton n1:id="@id/GpsButton" n1:background="@drawable/maptool_gps_point_selector" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_margin="@dimen/common_margin" n1:layout_marginBottom="@dimen/common_map_button_margin" n1:layout_centerVertical="true" />
+    <ImageView n1:layout_gravity="right" n1:id="@id/water_mark" n1:visibility="visible" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginRight="@dimen/map_logo_right_margin_big" n1:layout_marginBottom="@dimen/common_margin" n1:src="@drawable/watermark" n1:layout_alignParentRight="true" n1:layout_alignParentBottom="true" />
+    <RelativeLayout n1:id="@id/ParentLayout" n1:layout_width="fill_parent" n1:layout_height="fill_parent" />
+</RelativeLayout>

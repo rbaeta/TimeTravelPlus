@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.sogou.map.android.maps">
+    <uses-feature android:name="android.hardware.type.watch"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <meta-data android:name="android.support.VERSION" android:value="25.3.1"/>
+    <application android:allowBackup="false" android:debuggable="false" android:icon="@drawable/icon" android:label="@string/common_app_name" android:name="com.sogou.map.android.maps.SogouMapApplication" android:theme="@style/AppTheme">
+        <uses-library android:name="com.google.android.wearable" android:required="false"/>
+        <service android:name="com.sogou.map.ticwear.TicWearListener">
+            <intent-filter>
+                <action android:name="com.mobvoi.android.wearable.BIND_LISTENER"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.sogou.map.flp.SGFusedLocationListener">
+            <intent-filter>
+                <action android:name="com.google.android.gms.wearable.BIND_LISTENER"/>
+            </intent-filter>
+        </service>
+        <activity android:allowEmbedded="true" android:exported="true" android:label="@string/common_app_name" android:name="com.sogou.map.android.maps.SplashActivity" android:taskAffinity="" android:theme="@style/SplashActivityTheme">
+            <intent-filter>
+                <action android:name="com.mobvoi.semantic.action.NAVIGATION"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="vnd.android.cursor.item/postal-address"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="vnd.android.cursor.item/postal-address_v2"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="geo"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="sgmap"/>
+                <data android:host="map.sogou.com"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="http"/>
+                <data android:host="map.sogou.com"/>
+                <data android:pathPrefix="/map_api"/>
+                <data android:pathPrefix="/t/"/>
+                <data android:pathPrefix="/u/"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="wechatnav"/>
+            </intent-filter>
+        </activity>
+        <activity android:allowEmbedded="true" android:configChanges="locale|fontScale|keyboardHidden|orientation" android:exported="true" android:label="@string/common_app_name" android:launchMode="singleTask" android:name="com.sogou.map.android.maps.MainActivity" android:taskAffinity=""/>
+        <service android:enabled="true" android:name="com.sogou.map.loc.SGLocService"/>
+        <service android:name="com.sogou.map.android.maps.GoogleMessageService">
+            <intent-filter>
+                <action android:name="com.google.android.gms.wearable.BIND_LISTENER"/>
+            </intent-filter>
+        </service>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <meta-data android:name="com.google.android.wearable.standalone" android:value="true"/>
+        <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+    </application>
+</manifest>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+  <string-array name="weekdays">
+    <item>Paz</item>
+    <item>Pzt</item>
+    <item>Sal</item>
+    <item>Çar</item>
+    <item>Per</item>
+    <item>Cum</item>
+    <item>Cmt</item>
+  </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d obrazoviek v Prehľade</item>
+        <item quantity="one">1 obrazovka v Prehľade</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Nesprávny kód PIN SIM karty, máte %d zostávajúcich pokusov.</item>
+        <item quantity="one">Nesprávny PIN kód SIM karty, máte %d zostávajúcich pokusov na odblokovanie zariadenia skôr, ako budete musieť kontaktovať Vášho operátora.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Nesprávny PUK kód SIM karty, zostáva %d pokusov, než bude SIM karta natrvalo zablokovaná.</item>
+        <item quantity="one">Nesprávny PUK kód SIM karty, máte %d zostávajúci pokus, než bude SIM karta natrvalo zablokovaná.</item>
+    </plurals>
+</resources>

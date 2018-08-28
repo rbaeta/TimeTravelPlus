@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="miot_supported">
+        <item>מטהר אוויר</item>
+        <item>תקע</item>
+        <item>אוֹר</item>
+    </string-array>
+    <string-array name="miot_supported_light">
+        <item>yeelink.light.lamp1</item>
+        <item>philips.light.mono1</item>
+        <item>yeelink.light.color1</item>
+        <item>philips.light.sread1</item>
+    </string-array>
+    <string-array name="weekly_date">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>חמישי</item>
+        <item>שישי</item>
+        <item>שבת</item>
+    </string-array>
+</resources>

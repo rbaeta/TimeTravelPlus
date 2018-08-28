@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: WearLauncher.apk
+compressionType: false
+doNotCompress:
+- arsc
+- bin
+- zip
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '23'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: 1.2.48h
+version: 2.3.0
+versionInfo:
+  versionCode: '16777298'
+  versionName: 1.0.0.2

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Huami Lab</string>
+    <string name="main_title">Huami Lab</string>
+    <string name="agreement_title">Capture PPG 24/7</string>
+    <string name="message">Afin d\'améliorer votre expérience, nous recueillons des données PPG brutes lorsque vous portez la montre. Les données ne seront utilisées qu\'à des fins de recherche pour améliorer nos algorithmes. L\'activation de cette fonction aura une incidence défavorable sur la durée de vie de la batterie.</string>
+    <string name="allow">Accepter</string>
+    <string name="exit">Annuler</string>
+    <string name="heart_rate_collection_on">On</string>
+    <string name="heart_rate_collection_off">Off</string>
+    <string name="saving_data">Sauvegarde des données</string>
+    <string name="upload_data">Envoi</string>
+    <string name="upload_success">Terminé</string>
+    <string name="upload_failed">Impossible d\'envoyer, réessayer</string>
+    <string name="air_mode_alert_title">Ne peut pas se connecter</string>
+    <string name="air_mode_alert_message">Veuillez désactiver le mode avion, puis réessayer.</string>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirmer</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Données cardio non détectées</string>
+    <string name="no_altitude_hint">Données d\altitude non détectées</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Paramètres</string>
+    <string name="sport_music_settings">Musique Sport</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Selectionner Langue</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Centre de Données</string>
+    <string name="widget_currentstep_activities">Pas aujourd\hui</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Sommeil la nuit dernière</string>
+    <string name="widget_currentstep_sleep_no">Pas de données de sommeil</string>
+    <string name="widget_currentstep_activity_no">Pas d\exercice aujourd\hui?</string>
+<!--END of missed texts by Huami-->
+</resources>

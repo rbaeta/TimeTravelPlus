@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">שירות Wear</string>
+    <string name="ble_lost_notification_very_far">הטלפון רחוק מדי</string>
+    <string name="ble_lost_notification_phone_is_not_near">אנא שים לב, הטלפון אינו בסביבה。</string>
+    <string name="ble_lost_notification_prevent_lost_remind">תזכורת נגד איבוד הטלפון</string>
+    <string name="ble_lost_notification_disconnect">השעון מנותק מהטלפון。</string>
+    <string name="appid_messages">הודעות</string>
+    <string name="appid_wechat">WeChat</string>
+    <string name="appid_qq">QQ</string>
+    <string name="appid_facetime">FaceTime</string>
+    <string name="appid_contacts">אנשי קשר</string>
+    <string name="appid_camera">מצלמה</string>
+    <string name="appid_videos">וידאו</string>
+    <string name="appid_maps">מפות</string>
+    <string name="appid_calculator">מחשבון</string>
+    <string name="appid_photos">תמונות</string>
+    <string name="appid_fmf1">מצא חברים</string>
+    <string name="appid_fmip1">אתר iPhone</string>
+    <string name="appid_preferences">הגדרות</string>
+    <string name="appid_tips">טיפים</string>
+    <string name="appid_mobiletimer">שעון</string>
+    <string name="appid_compass">מצפן</string>
+    <string name="appid_mobilenotes">תזכירים</string>
+    <string name="appid_music">מוסיקה</string>
+    <string name="appid_safari">Safari</string>
+    <string name="appid_voicememos">תזכירים קוליים</string>
+    <string name="appid_health">בריאות</string>
+    <string name="appid_bridge">שעון</string>
+    <string name="appid_mobilestore">חנות iTunes</string>
+    <string name="appid_itunesu">iTunes U</string>
+    <string name="appid_ibooks">iBooks</string>
+    <string name="appid_stocks">מניות</string>
+    <string name="appid_weather">מזג אוויר</string>
+    <string name="appid_reminders">תזכורות</string>
+    <string name="appid_news">חדשות</string>
+    <string name="appid_gamecenter">מרכז משחקים</string>
+    <string name="appid_passbook">ארנק</string>
+    <string name="appid_mobilecal">יומן</string>
+    <string name="appid_appstore">חנות אפליקציות</string>
+    <string name="appid_mobilemail">דואר</string>
+</resources>

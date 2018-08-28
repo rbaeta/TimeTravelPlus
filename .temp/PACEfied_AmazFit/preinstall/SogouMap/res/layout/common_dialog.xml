@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView n1:background="#e5000000" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <LinearLayout n1:gravity="center" n1:layout_gravity="center" n1:orientation="vertical" n1:id="@id/dialogLayout" n1:paddingTop="20.0dip" n1:paddingBottom="20.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+        <LinearLayout n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+            <LinearLayout n1:gravity="center" n1:id="@id/CommonDialogHeader" n1:paddingLeft="@dimen/common_dialog_padding_w" n1:paddingRight="@dimen/common_dialog_padding_w" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_weight="0.0">
+                <TextView n1:textSize="@dimen/common_dialog_tilte_text_size" n1:textColor="@color/DialogTitle" n1:gravity="center" n1:id="@id/CommonDialogTitle" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="对话框" />
+            </LinearLayout>
+            <LinearLayout n1:gravity="center" n1:orientation="vertical" n1:id="@id/CommonDialogContent" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+                <View n1:id="@id/CommonDialogDividerBtTitleAndContent" n1:layout_width="fill_parent" n1:layout_height="@dimen/common_dialog_content_margin" />
+                <TextView n1:textSize="@dimen/common_dialog_content_text_size" n1:textColor="@color/DialogText" n1:gravity="center" n1:id="@id/CommonDialogMessage" n1:paddingLeft="@dimen/common_dialog_padding_w" n1:paddingRight="@dimen/common_dialog_padding_w" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginBottom="@dimen/common_dialog_content_margin_bottom" n1:text="文字内容" n1:lineSpacingExtra="@dimen/common_dialog_content_line_spacing" />
+            </LinearLayout>
+        </LinearLayout>
+        <View n1:id="@id/CommonDialogStyleCtrlView" n1:layout_width="20000.0dip" n1:layout_height="0.0dip" />
+        <LinearLayout n1:gravity="center" n1:orientation="vertical" n1:id="@id/CommonDialogButtom" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="@dimen/common_dialog_content_margin">
+            <LinearLayout n1:gravity="center" n1:orientation="horizontal" n1:paddingLeft="@dimen/citypack_page_margin_left" n1:paddingRight="@dimen/citypack_page_margin_left" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+                <ImageView n1:gravity="center" n1:id="@id/CommonDialogNegativeButton" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:src="@drawable/ic_clear" n1:layout_weight="1.0" />
+                <ImageView n1:gravity="center" n1:id="@id/CommonDialogPositiveButton" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:src="@drawable/ic_confirm" n1:layout_weight="1.0" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

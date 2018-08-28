@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sogou.map.android.maps.widget.SildingLayout n1:orientation="vertical" n1:id="@id/silding_view" n1:background="@color/white" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <TextView n1:textSize="@dimen/citypack_page_text_size" n1:textStyle="bold" n1:textColor="@color/black" n1:id="@id/title" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="@dimen/citypack_page_margin_top" n1:text="离线地图下载" n1:layout_centerHorizontal="true" />
+    <FrameLayout n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:layout_below="@id/title">
+        <com.sogou.map.android.maps.widget.CommonWearableListView n1:id="@id/page_list" n1:visibility="gone" n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:layout_below="@id/title" />
+        <include n1:visibility="gone" layout="@layout/citypack_download_loading" />
+    </FrameLayout>
+</com.sogou.map.android.maps.widget.SildingLayout>

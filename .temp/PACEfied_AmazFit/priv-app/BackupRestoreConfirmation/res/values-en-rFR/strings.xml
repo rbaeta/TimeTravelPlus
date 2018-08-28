@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Sauvegarde complète</string>
+    <string name="restore_confirm_title">Restauration complète</string>
+    <string name="backup_confirm_text">"Une sauvegarde complète de toutes les données sur un ordinateur de bureau connecté a été demandée. Voulez-vous permettre que cela se produise?
+
+Si vous n\'avez pas demandé la sauvegarde vous-même, n\'autorisez pas l\'opération à procéder."</string>
+    <string name="allow_backup_button_label">Sauvegarder mes données</string>
+    <string name="deny_backup_button_label">Ne pas sauvegarder</string>
+    <string name="restore_confirm_text">"Une restauration complète de toutes les données d'un ordinateur de bureau connecté a été demandée. Voulez-vous que cela se produise?
+
+
+Si vous n\'avez pas demandé la restauration, n\'autorisez pas l\'opération à procéder. Cela remplacera toutes les données actuellement disponibles sur l\'appareil!"</string>
+    <string name="allow_restore_button_label">Restaurer mes données</string>
+    <string name="deny_restore_button_label">Ne pas restaurer</string>
+    <string name="current_password_text">Entrez votre mot de passe de sauvegarde actuel ci-dessous:</string>
+    <string name="device_encryption_restore_text">Veuillez entrer le mot de passe de cryptage de votre appareil ci-dessous.</string>
+    <string name="device_encryption_backup_text">Veuillez entrer le mot de passe de cryptage de votre appareil ci-dessous. Cela servira également à chiffrer l\'archive de sauvegarde.</string>
+    <string name="backup_enc_password_text">Entrez un mot de passe à utiliser pour chiffrer les données de sauvegarde complètes. Si cela reste vide, votre mot de passe de sauvegarde actuel sera utilisé:</string>
+    <string name="backup_enc_password_optional">Si vous souhaitez chiffrer les données de sauvegarde complète, entrez un mot de passe ci-dessous:</string>
+    <string name="backup_enc_password_required">Comme votre appareil est crypté, vous devez crypter votre sauvegarde. Entrez un mot de passe ci-dessous:</string>
+    <string name="restore_enc_password_text">Si les données de restauration sont cryptées, entrez le mot de passe ci-dessous:</string>
+    <string name="toast_backup_started">Sauvegarde démarrée...</string>
+    <string name="toast_backup_ended">Sauvegarde terminée</string>
+    <string name="toast_restore_started">Restauration démarrée...</string>
+    <string name="toast_restore_ended">Restauration terminée</string>
+    <string name="toast_timeout">L\'opération a expiré</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Alipay</string>
+  <string name="confirm_unbind">OKして関連付けを解除する</string>
+  <string name="unbind_warning">関連付けを解除したウォッチではAlipayを利用することができなくなります</string>
+  <string name="bind_my_watch">このウォッチを関連付けする</string>
+  <string name="user_hint">Alipayアプリ(v9.3以降)を開き、以下の順に進めてください"My Profile&gt; Settings&gt; Security Settings&gt; Smart Watch"</string>
+  <string name="bind_im">直ちに関連付けする</string>
+  <string name="bind_from_qr">AlipayのQRコードスキャンを利用して関連付けする</string>
+  <string name="bind_qr_code">QRコードを関連付けする
+</string>
+  <string name="user_hint_title">ユーザーのヒント</string>
+  <string name="loading">Alipayをロード中</string>
+  <string name="title">Watch Alipay</string>
+  <string name="widget_title">Alipay</string>
+  <string name="tip">Alipayアプリ(v9.3以降)を開き、以下の順に進めてください"My - Settings - Security Center - security tools - smart watches"</string>
+  <string name="ios_unsupport_tips">(iOS端末との関連付けはサポートされていません)</string>
+  <string name="button_start_bind">関連付けを行う</string>
+  <string name="bind_usage">AlipayのQRコードスキャンを利用して関連付けする</string>
+  <string name="bar_code_tip">このバーコードは相手に支払いをするために使用されます</string>
+  <string name="qr_code_tip">支払いを行う、もしくは友達を追加する</string>
+  <string name="bind_success_title">関連付けが正常に行われました</string>
+  <string name="unbind_tip">関連付けを解除するには、利用しているAlipayアプリから行ってください</string>
+  <string name="button_ok">Ok</string>
+  <string name="confirm_unbind_title">関連付けを解除する</string>
+  <string name="unbind_alert_message">関連付けを解除すると、このウォッチではAlipayを利用することができなくなります。続行しますか?</string>
+  <string name="not_available">この機能は一時的に利用できません</string>
+  <string name="airplane_mode_tips">Alipayを利用する際は、機内モードをオフにしてください</string>
+  <string name="debug_nickname" />
+  <string name="debug_username" />
+  <string name="debug_paycode_string" />
+</resources>

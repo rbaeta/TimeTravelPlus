@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Media</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Baieztatu</string>
+    <string name="picker_default_nagetive_text">Ezeztatu</string>
+    <string name="no_heartrate_data_hint">Bihotzeko taupaden frekuentzia ez da aurkitu</string>
+    <string name="no_altitude_hint">Altitude datuak ez dira aurkitu</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Ezarpenak</string>
+    <string name="sport_music_settings">Kirolerako musika</string>
+    <string name="app_name">WifiUploadData</string>
+    <string name="notice_text_success_top">Kargatze arrakastatsua</string>
+    <string name="notice_text_success_bottom">Gorde nire jarduera</string>
+    <string name="notice_text_failed_top">Ezin izan dira datuak igo</string>
+    <string name="net_failed">Egiaztatu konexioa eta saiatu berriro</string>
+    <string name="date">Data:</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="date_">/</string>
+    <string name="date_m">:</string>
+    <string name="see_after_connect_app_token_faield">Token laguntza iraungi da.</string>
+    <string name="cannot_acess_server">Serbitzaria ez dago eskuragarri</string>
+    <string name="cannot_upload_user">Ezin izan dira datuak eguneratu</string>
+    <string name="please_upload_assist_version">Zerbitzuaren bertsioa eguneratzea</string>
+    <string name="did_not_connect_assist">Konektatu Amazfit aplikaziora autentifikazio informazioa eguneratzeko eta saioa zerbitzarian hasteko.</string>
+    <string name="upload_failed_full">Ezin da dauten igoera amaitu, gelditu?</string>
+    <string name="percent_sign">%</string>
+    <string name="please_keep_wifi_connected">"Wi-Fi konexioa mandendu"</string>
+    <string name="init_wifi">Wi-Fi-a konektatu</string>
+    <string name="init_user">Erabiltzailearen kontrola</string>
+    <string name="init_app">Konektatutako aplikazioa</string>
+    <string name="init_update_user">Eguneratu erabiltzailea</string>
+    <string name="zero">0</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Datu zentroa</string>
+    <string name="widget_currentstep_activities">Gaurko mugimenduak</string>
+    <string name="widget_currentstep_sleep_hour">o</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Atzo gaueko loa</string>
+    <string name="widget_currentstep_sleep_no">Loaren inormazioa ez eskuragarri</string>
+    <string name="widget_currentstep_activity_no">Gaur ez duzu ariketarik egingo?</string>
+<!--END of missed texts by Huami-->
+</resources>

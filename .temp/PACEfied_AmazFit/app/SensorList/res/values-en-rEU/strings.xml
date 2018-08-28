@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SensorData</string>
+    <string name="hello_world">Selected:ACC PPG</string>
+    <string name="action_settings">Ezarpenak</string>
+    <string name="title_activity_sensor_list">SensorListActivity</string>
+    <string name="title_activity_view_list">ViewListActivity</string>
+    <string name="title_activity_graph_list">GraphListActivity</string>
+    <string name="completed">%1$s betea</string>
+    <string name="upload_failed">kargatzeak huts egin du!</string>
+    <string name="upload_success">kargatze arrakastatsua!</string>
+    <string name="uploading">Igotzen!</string>
+    <string name="no_uploaded_files">Ez dira fitxategirik igo!</string>
+    <string name="open_wifi_failed">zabaldutako wifi-ak huts egin du!</string>
+    <string name="connect_APP">Mesedez konektatu APP-a!</string>
+</resources>

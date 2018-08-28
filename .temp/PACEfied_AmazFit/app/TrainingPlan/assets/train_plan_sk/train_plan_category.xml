@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trainplans>
+        <trainplan id="1">
+            <title>Začínajúci bežec</title>
+            <type>1</type>
+            <orderId>1</orderId>
+            <copyWrite>Začiatočníci od chôdze po jogging. Tento kurz Vám pomôže stať sa bežcom.</copyWrite>
+            <totalLength>85.6</totalLength>
+            <totalDays>56</totalDays>
+        </trainplan>
+        <trainplan id="2">
+            <title>5 kilometrov</title>
+            <type>2</type>
+            <orderId>2</orderId>
+            <totalLength>148</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Začínajúci bežci. Tento kurz Vám pomôže zlepšiť vaše bežecké techniky.</copyWrite>
+        </trainplan>
+        <trainplan id="3">
+            <title>10 kilometrov</title>
+            <type>3</type>
+            <orderId>3</orderId>
+            <totalLength>212</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Pokročilí bežci. Tento kurz Vám pomôže zlepšiť výdrž.</copyWrite>
+        </trainplan>
+        <trainplan id="4">
+            <title>Polmaratón</title>
+            <type>4</type>
+            <orderId>4</orderId>
+            <totalLength>307.4</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Tréning na polmaratón. Kurz pre zlepšenie vytrvalosti.</copyWrite>
+        </trainplan>
+        <trainplan id="5">
+            <title>Celý maratón</title>
+            <type>5</type>
+            <orderId>5</orderId>
+            <totalLength>436.0</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Tréning na maratón. Pomôže Vám s plánovaním časového harmonogramu a stratégie pretekov.</copyWrite>
+        </trainplan>
+</trainplans>

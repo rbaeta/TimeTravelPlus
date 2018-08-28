@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="localapps">
+        <item>com.huami.watch.launcher</item>
+        <item>com.huami.watch.sport</item>
+    </string-array>
+    <integer-array name="appcolors">
+        <item>0xFF4160F5</item>
+        <item>0xFFF76C00</item>
+    </integer-array>
+    <array name="appload_drawables">
+        <item>-1</item>
+        <item>@drawable/sport_start_loading</item>
+    </array>
+    <string-array name="quick_settings_status_week">
+        <item>Neděle</item>
+        <item>Pondělí</item>
+        <item>Úterý</item>
+        <item>Středa</item>
+        <item>Čtvrtek</item>
+        <item>Pátek</item>
+        <item>Sobota</item>
+        <item>Dnes</item>
+    </string-array>
+    <string-array name="quick_settings_status_principleTerm">
+        <item>Velmi chladno</item>
+        <item>Dešte</item>
+        <item>Jarní rovnodennost</item>
+        <item>Dešťové srážky</item>
+        <item>Kvetou pupeny</item>
+        <item>Letní slunovrat</item>
+        <item>Velké teplo</item>
+        <item>Konec tepla</item>
+        <item>Podzimní rovnodennost</item>
+        <item>Jinovatka</item>
+        <item>Slabé sněžení</item>
+        <item>Zimní slunovrat</item>
+    </string-array>
+    <string-array name="quick_settings_status_sectionalTerm">
+        <item>Mírný chlad</item>
+        <item>Jaro začíná</item>
+        <item>Hmyz se probouzí</item>
+        <item>Jasno a slunečno</item>
+        <item>Léto začíná</item>
+        <item>Grain in ear</item>
+        <item>Mírné teplo</item>
+        <item>Podzim začíná</item>
+        <item>Bílá rosa</item>
+        <item>Studená rosa</item>
+        <item>Zima začíná</item>
+        <item>Silné sněžení</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseTen">
+        <item>Jaro</item>
+        <item>Léto</item>
+        <item>Podzim</item>
+        <item>Zima</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseNumber">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <string-array name="weather_card_aqilevel">
+        <item>Ovzduší velmi dobré</item>
+        <item>Ovzduší dobré</item>
+        <item>Ovzduší uspokojivé</item>
+        <item>Ovzduší vyhovující</item>
+        <item>Ovzduší špatné</item>
+        <item>Ovzduší velmi špatné</item>
+        <item></item>
+    </string-array>
+    <string-array name="weather_card_quality">
+        <item>Vhodné ke sportování</item>
+        <item>Nevhodné ke sportování</item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_settings_status_weather">
+        <item>Jasno</item>
+        <item>Zamračeno</item>
+        <item>Zataženo</item>
+        <item>Mlha</item>
+        <item>Smog</item>
+        <item>Déšť</item>
+        <item>Bouřky</item>
+        <item>Slabý déšť</item>
+        <item>Mírný déšť</item>
+        <item>Silný déšť</item>
+        <item>Velmi silný déšť</item>
+        <item>Přívalový déšť</item>
+        <item>Déšť se sněhem</item>
+        <item>Mrznoucí déšť</item>
+        <item>Kroupy</item>
+        <item>Slabé sněžení</item>
+        <item>Mírné sněžení</item>
+        <item>Silné sněžení</item>
+        <item>Velmi silné déšť sněžení</item>
+        <item>Sněhové přeháňky</item>
+        <item>Prach</item>
+        <item>Zvířený písek</item>
+        <item>Písečná bouře</item>
+        <item>Silná písečná bouře</item>
+        <item>Bez dat</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">ChargingUI</string>
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">設定</string>
+  <string name="unit">%</string>
+  <string name="am">午前</string>
+  <string name="pm">午後</string>
+</resources>

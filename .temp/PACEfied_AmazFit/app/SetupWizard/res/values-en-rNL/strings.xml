@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SetupWizard</string>
+    <string name="locale_title">Select Taal</string>
+    <string name="lang_zh_cn">Chinees (Simple)</string>
+    <string name="lang_en_us">Engels(US)</string>
+    <string name="tip_install_wear_companion">Installeer de \"Amazfit Watch\" App op je telefoon</string>
+    <string name="tip_low_battery">Minder dan 5% batterijspanning, sluit de lader aan om verder te gaan</string>
+    <string name="pair_scan_qr">Scan de QR-code met de \"Amazfit Watch\" App</string>
+    <string name="pair_skip">Overslaan</string>
+    <string name="tip_pair_skip">Sommige functies worden uitgeschakeld, doorgaan?</string>
+    <string name="tip_restoring">Bezig met herstellen</string>
+    <string name="tip_binding_failed">Het koppelen is mislukt</string>
+    <string name="tip_binding_failed_restart">Verbroken. Probeer het opnieuw</string>
+    <string name="tip_no_bluetooth_adapter">Bluetooth Fout</string>
+    <string name="tip_wear_hand">Aan welke hand wil je het dragen?</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+</resources>

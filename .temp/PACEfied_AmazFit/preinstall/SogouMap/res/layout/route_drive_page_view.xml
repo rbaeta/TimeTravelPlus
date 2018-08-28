@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <com.sogou.map.android.maps.widget.SildingLayout n1:id="@id/silding_view" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_alignParentBottom="true">
+        <com.sogou.map.android.maps.widget.CommonCardFrame n1:id="@id/end_card_view" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="@dimen/common_card_bottom" n1:layout_marginRight="@dimen/common_card_bottom" n1:layout_marginBottom="@dimen/common_card_bottom">
+            <LinearLayout n1:gravity="center" n1:orientation="horizontal" n1:id="@id/card_contain" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_centerInParent="true">
+                <LinearLayout n1:orientation="vertical" n1:layout_width="wrap_content" n1:layout_height="wrap_content">
+                    <TextView n1:id="@id/end_time" style="@style/card_view_txt_style" />
+                    <TextView n1:id="@id/end_distance" style="@style/card_view_txt_style" />
+                </LinearLayout>
+                <ImageView n1:layout_gravity="center|left" n1:id="@id/end_go" n1:paddingLeft="0.0dip" n1:paddingTop="0.0dip" n1:paddingRight="0.0dip" n1:paddingBottom="0.0dip" n1:layout_width="wrap_content" n1:layout_height="48.0dip" n1:src="@drawable/ic_nav_go_selector" />
+            </LinearLayout>
+        </com.sogou.map.android.maps.widget.CommonCardFrame>
+    </com.sogou.map.android.maps.widget.SildingLayout>
+    <ImageView n1:id="@id/water_mark" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginRight="@dimen/map_logo_right_margin" n1:layout_marginBottom="@dimen/map_logo_bottom_margin" n1:src="@drawable/watermark" n1:layout_above="@id/silding_view" n1:layout_alignParentRight="true" />
+    <LinearLayout n1:gravity="center" n1:orientation="vertical" n1:id="@id/show_gps_tip_view" n1:background="@color/black_86p" n1:visibility="gone" n1:layout_width="fill_parent" n1:layout_height="fill_parent">
+        <TextView n1:textColor="@color/white" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginLeft="@dimen/common_poplay_margin" n1:layout_marginRight="@dimen/common_poplay_margin" n1:text="@string/navi_open_gps_tip" />
+        <Button n1:textColor="@color/white" n1:gravity="center" n1:id="@id/hide_tip_btn" n1:background="@drawable/wifi_tip_btn" n1:paddingLeft="30.0dip" n1:paddingTop="10.0dip" n1:paddingRight="30.0dip" n1:paddingBottom="10.0dip" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/common_know" />
+    </LinearLayout>
+</RelativeLayout>

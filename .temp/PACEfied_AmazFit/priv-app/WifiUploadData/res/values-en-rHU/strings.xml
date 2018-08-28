@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Átl.</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Megerősít</string>
+    <string name="picker_default_nagetive_text">Ki</string>
+    <string name="no_heartrate_data_hint">Pulzusszám adat nem észlelhető</string>
+    <string name="no_altitude_hint">Magasság adat nem észlelhető</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Beállítások</string>
+    <string name="sport_music_settings">Zene sporthoz</string>
+	<string name="widget_currentstep_title">Adatközpont</string>
+    <string name="widget_currentstep_activities">lépés ma</string>
+    <string name="widget_currentstep_sleep_hour">ó</string>
+    <string name="widget_currentstep_sleep_min">perc</string>
+    <string name="widget_currentstep_sleep_title">Alvás múlt éjjel</string>
+    <string name="widget_currentstep_sleep_no">Nincs alvás adat</string>
+    <string name="widget_currentstep_activity_no">Ma nincs edzés?</string>
+    <string name="app_name">Wi-Fi Upload</string>
+    <string name="notice_text_success_top">adat feltöltés befejeződött</string>
+    <string name="notice_text_success_bottom">Az adatok megtekinthetők az Amazfit Watch alkalmazásban</string>
+    <string name="notice_text_failed_top">Adat feltöltés nem sikerült</string>
+    <string name="net_failed">Győződj meg róla, hogy a Pace csatlakozik a Wifi-re</string>
+    <string name="date">Időbélyeg:</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="date_">/</string>
+    <string name="date_m">:</string>
+    <string name="see_after_connect_app_token_faield">Nem tudunk kapcsolódni az Amazfit Watch alkalmazáshoz a hozzáférési token frissítéséhez</string>
+    <string name="cannot_acess_server">Nem lehet csatlakozni a szerverhez</string>
+    <string name="cannot_upload_user">Nem lehet ellenőrizni a hozzáférési tokent</string>
+    <string name="please_upload_assist_version">Kérjük frissítsd az Amazfit Watch alkalmazást a legújabb verzióra és próbáld meg újra</string>
+    <string name="did_not_connect_assist">Kérjük csatlakozz az Amazfit Watch alkalmazáshoz a hozzáférési token frissítéséhez, hogy adatokat tölthess fel a kiszolgálóra</string>
+    <string name="upload_failed_full">Az adatok feltöltése nem fejeződött be, most lépsz ki?</string>
+    <string name="percent_sign">%</string>
+    <string name="please_keep_wifi_connected">Kérjük tartsd meg a Pace Wifi kapcsolatát</string>
+    <string name="init_wifi">Csatlakozás Wifi-hez</string>
+    <string name="init_user">Hozzáférési token ellenőrzés</string>
+    <string name="init_app">Csatlakozás az Amazfit Watch apphoz</string>
+    <string name="init_update_user">Hozzáférési token frissítés</string>
+    <string name="zero">0</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appid_messages">Üzenetek</string>
+    <string name="appid_wechat">WeChat</string>
+    <string name="appid_qq">QQ</string>
+    <string name="appid_facetime">FaceTime</string>
+    <string name="appid_contacts">Névjegyzék</string>
+    <string name="appid_camera">Kamera</string>
+    <string name="appid_videos">Videók</string>
+    <string name="appid_maps">Térképek</string>
+    <string name="appid_calculator">Számológép</string>
+    <string name="appid_photos">Fotók</string>
+    <string name="appid_fmf1">Barátkereső</string>
+    <string name="appid_fmip1">iPhone kereső</string>
+    <string name="appid_preferences">Beállítások</string>
+    <string name="appid_tips">Tippek</string>
+    <string name="appid_mobiletimer">Óra</string>
+    <string name="appid_compass">Iránytű</string>
+    <string name="appid_mobilenotes">Jegyzetek</string>
+    <string name="appid_music">Zene</string>
+    <string name="appid_safari">Safari</string>
+    <string name="appid_voicememos">Hangjegyzetek</string>
+    <string name="appid_health">Egészség</string>
+    <string name="appid_bridge">Watch</string>
+    <string name="appid_mobilestore">iTunes Áruház</string>
+    <string name="appid_itunesu">iTunes U</string>
+    <string name="appid_ibooks">iBooks</string>
+    <string name="appid_stocks">Stocks</string>
+    <string name="appid_weather">Időjárás</string>
+    <string name="appid_reminders">Emlékeztetők</string>
+    <string name="appid_news">Hírek</string>
+    <string name="appid_gamecenter">Játék Központ</string>
+    <string name="appid_passbook">Pénztárca</string>
+    <string name="appid_mobilecal">Naptár</string>
+    <string name="appid_appstore">App Áruház</string>
+    <string name="appid_mobilemail">Email</string>
+</resources>

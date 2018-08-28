@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Huami Lab</string>
+    <string name="main_title">Huami Lab</string>
+    <string name="agreement_title">PPG 24/7 atzitzen</string>
+    <string name="message">Zure esperientzia hobetzeko, erlojua erabiltzean prozesatu gabeko PPG datuak hartzen ditugu. Datu hauek, gure algoritmoak hobetzeko ikerketetan soilik erabiliko dira. Funtzio hau gaitzeak, bateriaren iraupenean eragina izango du.</string>
+    <string name="allow">Baieztatu</string>
+    <string name="exit">Ezeztatu</string>
+    <string name="heart_rate_collection_on">Piztuta</string>
+    <string name="heart_rate_collection_off">Amatatuta</string>
+    <string name="saving_data">Datuak gordetzen</string>
+    <string name="upload_data">Igotzen</string>
+    <string name="upload_success">Bukatua</string>
+    <string name="upload_failed">Huts egitea igoeran, mesedez, saiatu berriro</string>
+    <string name="air_mode_alert_title">Ezin da konektatu</string>
+    <string name="air_mode_alert_message">Mesedez, amatatu egazkin modua eta saiatu berriro.</string>
+    <string name="average_text">Media</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Baieztatu</string>
+    <string name="picker_default_nagetive_text">Amatatua</string>
+    <string name="no_heartrate_data_hint">Bihotzeko maiztasuna ez da detektatu</string>
+    <string name="no_altitude_hint">Altitudea ez da detektatu</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Ezarpenak</string>
+    <string name="sport_music_settings">Kirolerako musika</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Aukeratu hizkuntza</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Datu zentrua</string>
+    <string name="widget_currentstep_activities">Gaurko pausuak</string>
+    <string name="widget_currentstep_sleep_hour">o</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Bart egindako loaren datuak</string>
+    <string name="widget_currentstep_sleep_no">Loaren daturik gabe</string>
+    <string name="widget_currentstep_activity_no">Gaur ez duzu entrenatzen?</string>
+<!--END of missed texts by Huami-->
+</resources>

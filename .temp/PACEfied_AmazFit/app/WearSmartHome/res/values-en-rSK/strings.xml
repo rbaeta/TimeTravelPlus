@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HmSmartHome</string>
+    <string name="average_text">Priemer</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Potvrdiť</string>
+    <string name="picker_default_nagetive_text">Zrušiť</string>
+    <string name="no_heartrate_data_hint">Dáta tepu nedetekované</string>
+    <string name="no_altitude_hint">Dáta výšky nedetekované</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Nastavenia</string>
+    <string name="sport_music_settings">Športová hudba</string>
+    <string name="widget_currentstep_title">Centrum dát</string>
+    <string name="widget_currentstep_activities">Krokov dnes</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Spánok minulú noc</string>
+    <string name="widget_currentstep_sleep_no">Bez dát o spánku</string>
+    <string name="widget_currentstep_activity_no">Dnes bez cvičenia?</string>
+    <string name="mihome_widget_title">Mi Home</string>
+    <string name="mihome_widget_info_unbind">Hodinky sú spárované s aplikaciou Mi Home, môžu ovládať kompatibilné Mi zariadenia.</string>
+    <string name="mihome_widget_info_no_devices">V aplikácii Mi home, pridať Mi zariadenie, ktoré chcete ovládať týmito hodinkami.</string>
+    <string name="mihome_activity_title_disconnected">Nepripojené</string>
+    <string name="mihome_activity_info_disconnected">Pripojiť k aplikácii Mi Home pomocou Bluetooth vo vašom telefóne.</string>
+    <string name="mihome_activity_btn_disconnected">Pripojiť k aplikácii Mi Home pomocou Bluetooth vo vašom telefóne.</string>
+    <string name="mihome_device_card_2_offline">[Nepripojené]</string>
+</resources>

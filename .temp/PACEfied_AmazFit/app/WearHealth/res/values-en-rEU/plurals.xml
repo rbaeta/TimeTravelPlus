@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="weeklysports_frequency">
+        <item quantity="other">Aldiz</item>
+        <item quantity="one">Aldiz</item>
+    </plurals>
+    <plurals name="weeklysports_step">
+        <item quantity="other">Pausu</item>
+        <item quantity="one">Pausu</item>
+    </plurals>
+    <plurals name="floor_unit">
+        <item quantity="other">Pisu</item>
+        <item quantity="one">Pisu</item>
+    </plurals>
+</resources>

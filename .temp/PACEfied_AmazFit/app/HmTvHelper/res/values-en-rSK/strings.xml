@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Potvrdiť</string>
+    <string name="picker_default_nagetive_text">Vypnúť</string>
+    <string name="no_heartrate_data_hint">Žiadne dáta o tepe</string>
+    <string name="no_altitude_hint">Žiadne dáta o výške</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Nastavenia</string>
+    <string name="sport_music_settings">Športovná hudba</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Výber jazyka</string>
+    <string name="app_name">TV pomocník</string>
+    <string name="tv_title_controller">TVovládač</string>
+    <string name="tv_use_title">Pozrite si tipy</string>
+    <string name="tv_title_searching">Hľadám...</string>
+    <string name="tv_title_choices">Vyberte prosím zariadenie, které chcete ovládať</string>
+    <string name="tv_title_unfound">"Nebol nájdený žiadny 
+ovládateľný prístroj"</string>
+    <string name="tv_search_action_tx">Hľadaj Mi TV</string>
+    <string name="tv_voice_title">Ovládanie hlasitosti</string>
+    <string name="tv_foot_search_again">Opakovať</string>
+    <string name="tv_use_content">Zapnite televízor a pripojte sa na rovnakú Wi-Fi sieť</string>
+    <string name="tv_current_device">Aktuálne zariadenie</string>
+    <string name="tv_launcher_guide">Info: Niektoré TV nepodporujú hlasové funkcie</string>
+    <string name="error_bluetooth_title">Bluetooth bol odpojený</string>
+    <string name="error_bluetooth_content">Skontrolujte prosím Bluetooth spojenie hodinek s telefónom.</string>
+    <string name="error_wifi_title">Pripojenie Wi-Fi je prerušené</string>
+    <string name="error_wifi_content">Skontrolujte prosím pripojenie telefónu k vašej Wi-Fi.</string>
+    <string name="error_connect_title">Chyba spojenia</string>
+    <string name="error_connect_content">Wi-Fi nie je možné pripojiť. Skúste to prosím neskôr.</string>
+    <string name="error_device_title">Nie je možné nájsť zariadenie</string>
+    <string name="error_device_content">Skontrolujte prosím, či je zariadenie zapnuté a pripojené k rovnakej Wi-Fi ako telefón.</string>
+</resources>

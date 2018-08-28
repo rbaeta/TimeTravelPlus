@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">ממוצע</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">אשר</string>
+    <string name="picker_default_nagetive_text">כבוי</string>
+    <string name="no_heartrate_data_hint">נתוני קצב הלב לא זוהו</string>
+    <string name="no_altitude_hint">נתוני גובה לא אותרו</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">הגדרות</string>
+    <string name="sport_music_settings">מוסיקת ספורט</string>
+    <string name="app_name">העלאה Wi-Fi</string>
+    <string name="notice_text_success_top">העלאת הנתונים הושלמה</string>
+    <string name="notice_text_success_bottom">ניתן לצפות בנתונים באפליקציית השעון Amazfit</string>
+    <string name="notice_text_failed_top">העלאת נתונים נכשלה</string>
+    <string name="net_failed">ודא שה-Pace מחובר ל-WiFi</string>
+    <string name="date">חותמת זמן:</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="date_">/</string>
+    <string name="date_m">:</string>
+    <string name="see_after_connect_app_token_faield">לא ניתן להתחבר לאפליקציית השעון Amazfit כדי לרענן אסימון גישה</string>
+    <string name="cannot_acess_server">לא ניתן להתחבר לשרת</string>
+    <string name="cannot_upload_user">לא ניתן לאמת את אסימון הגישה</string>
+    <string name="please_upload_assist_version">אנא עדכן את האפליקציית השעון Amazfit לגרסה העדכנית ביותר ונסה זאת שוב</string>
+    <string name="did_not_connect_assist">התחבר אל אפליקציית השעון Amazfit כדי לרענן אסימון גישה כדי להעלות נתונים לשרת</string>
+    <string name="upload_failed_full">טעינת הנתונים לא הושלמה, לצאת כעת?</string>
+    <string name="percent_sign">%</string>
+    <string name="please_keep_wifi_connected">שמור על Pace מחובר ל-Wi-Fi</string>
+    <string name="init_wifi">מתחבר ל-Wi-Fi</string>
+    <string name="init_user">מאמת אסימון גישה</string>
+    <string name="init_app">התחברות לאפליקציית השעון Amazfit</string>
+    <string name="init_update_user">מרענן אסימון גישה</string>
+    <string name="zero">0</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">מרכז הנתונים</string>
+    <string name="widget_currentstep_activities">צעדים היום</string>
+    <string name="widget_currentstep_sleep_hour">ש\'</string>
+    <string name="widget_currentstep_sleep_min">דק\'</string>
+    <string name="widget_currentstep_sleep_title">שינה בלילה האחרון</string>
+    <string name="widget_currentstep_sleep_no">אין נתוני שינה</string>
+    <string name="widget_currentstep_activity_no">אין אימונים היום?</string>
+<!--END of missed texts by Huami-->
+</resources>

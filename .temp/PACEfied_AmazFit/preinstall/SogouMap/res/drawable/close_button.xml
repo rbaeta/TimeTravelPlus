@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item n1:state_pressed="true"
+      xmlns:n1="http://schemas.android.com/apk/res/android">
+        <layer-list>
+            <item>
+                <shape n1:shape="oval">
+                    <size n1:height="@dimen/close_button_diameter" n1:width="@dimen/close_button_diameter" />
+                    <solid n1:color="@color/dismiss_close_pressed" />
+                </shape>
+            </item>
+            <item>
+                <bitmap n1:gravity="center" n1:src="@drawable/ic_full_cancel" />
+            </item>
+        </layer-list>
+    </item>
+    <item>
+        <layer-list>
+            <item>
+                <shape n2:shape="oval"
+                  xmlns:n2="http://schemas.android.com/apk/res/android">
+                    <size n2:height="@dimen/close_button_diameter" n2:width="@dimen/close_button_diameter" />
+                    <solid n2:color="@color/dismiss_close" />
+                </shape>
+            </item>
+            <item>
+                <bitmap n3:gravity="center" n3:src="@drawable/ic_full_cancel"
+                  xmlns:n3="http://schemas.android.com/apk/res/android" />
+            </item>
+        </layer-list>
+    </item>
+</selector>
